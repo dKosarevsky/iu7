@@ -35,3 +35,5 @@ Control Flow Graph (Граф контроля управления)
 ____________________________________
 
 [Лекция 1 (Введение)](https://drive.google.com/file/d/1-pMKyrxKTTLofEffDx6PoXvwXECZby1N/view?usp=sharing)
+____________________________________
+
