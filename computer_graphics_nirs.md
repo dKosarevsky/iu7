@@ -1,6 +1,6 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Компьютерная графика](computer_graphics.md)
 ____________________________________
-**НИРС по курсу Компьютерная графика** \
+**НИРС по курсу Компьютерная графика**
 
 Инструменты:
 1. [3ds Max](https://www.autodesk.com/products/3ds-max/free-trial) (есть студ. лицензии)
