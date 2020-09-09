@@ -1,4 +1,4 @@
-[back](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md)
 ____________________________________
 **Операционные системы** \
 Рязанова Н.Ю.
