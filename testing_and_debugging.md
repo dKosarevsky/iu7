@@ -47,6 +47,5 @@ ____________________________________
 [В.В. Липаев “Тестирование компонентов и комплексов программ”](https://www.ispras.ru/lipaev/books/Testing%20of%20components%20and%20systems%20software.pdf)
 ____________________________________
 
-[Лекция 1 (Введение)](https://drive.google.com/file/d/1-pMKyrxKTTLofEffDx6PoXvwXECZby1N/view?usp=sharing)
+[Лекция 1. Введение (08.09.2020)](https://drive.google.com/file/d/1-pMKyrxKTTLofEffDx6PoXvwXECZby1N/view?usp=sharing)
 ____________________________________
-
