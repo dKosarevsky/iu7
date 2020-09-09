@@ -6,7 +6,7 @@ ____________________________________
 1. [3ds Max](https://www.autodesk.com/products/3ds-max/free-trial) (есть студ. лицензии)
 2. [Blender](https://www.blender.org/) (freeware)
 
-Самостоятельно изучить инструмент, необходимый для создания сцены. \
+Самостоятельно [изучить](https://www.youtube.com/playlist?list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) инструмент, необходимый для создания сцены. \
 Статическая на min оценку. \
 Анимированная + защита - max оценка.
 
