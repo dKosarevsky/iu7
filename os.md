@@ -6,3 +6,8 @@ ryaz_nu@mail.ru \
 пятница, 731л, 511л \
 Экзамен
 ____________________________________
+**Литература**
+...
+____________________________________
+Лекция 1 (11.09.2020) | [фото](https://drive.google.com/drive/folders/18EaPDw3huzxnv_SedILf-IiNKBB4aXs1?usp=sharing) | [аудио](https://drive.google.com/drive/folders/184rKPher1Fl048SyJt7VrRV6pQebwBUv?usp=sharing)
+____________________________________
