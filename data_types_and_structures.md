@@ -25,5 +25,13 @@ ____________________________________
 
 [ЛР1](https://www.kaggle.com/dmisky/tads-lab-01)
 ____________________________________
+
+**Задание на ЛР2**
+
+Алгоритмы умножения матриц
+
+1. Стандартный
+____________________________________
+
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
 ____________________________________
