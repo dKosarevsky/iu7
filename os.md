@@ -3,7 +3,7 @@ ____________________________________
 **Операционные системы** \
 [Рязанова Наталья Юрьевна](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/222-rjazanova-natalja-jurevna.html) ктн
 ryaz_nu@mail.ru \
-пятница, 731л, 511л \
+пятница, 731л, 511л, 18-30 \
 Экзамен
 ____________________________________
 **Литература**
