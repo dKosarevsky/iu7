@@ -3,7 +3,7 @@ ____________________________________
 **Программирование C++** \
 [Русакова Зинаида Николаевна](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/221-rusakova-zinaida-nikolaevna.html) \
 zrusakova@bmstu.ru \
-Четверг, аудитория 524л/508л \
+Четверг, аудитория 524л/508л, 18-30 \
 Экзамен ...
 ____________________________________
 **Литература**: ... [c++](https://www.tutorialspoint.com/cplusplus/index.htm)
