@@ -6,6 +6,10 @@ kurov@bmstu.ru | avkur7@mail.ru (на эту отвечает оперативн
 Среда, аудитория 525л, 18-30 \
 Экзамен (беседа по конспекту, билетов не будет) + [НИРС](computer_graphics_nirs.md)
 ____________________________________
-**Литература**: Конспект
+**Литература**: \
+Конспект \
+[Список литературы](https://drive.google.com/file/d/1ezH7ON0bS0E_SsDG9lRZrdVg_ggI4ska/view?usp=sharing) \
+[Какая-то книга](https://drive.google.com/drive/folders/1obKzaMVE3Spzzgp3t8Nvf76mcF3lGthR?usp=sharing) \
+[Какие-то лабы](https://drive.google.com/drive/folders/1W_JvmI8okW3V4UgDCHPQHKKwzojucRpd?usp=sharing)
 ____________________________________
 
