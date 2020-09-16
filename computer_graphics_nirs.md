@@ -6,7 +6,7 @@ ____________________________________
 1. [3ds Max](https://www.autodesk.com/products/3ds-max/free-trial) (есть студ. лицензии)
 2. [Blender](https://www.blender.org/) (freeware)
 
-Самостоятельно [изучить](https://www.youtube.com/playlist?list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) [инструмент](https://www.youtube.com/c/PolygonRunway), необходимый для создания сцены. \
+Самостоятельно изучить [тут](https://www.youtube.com/playlist?list=PLkxXQ3ugQK2PEUO9a2_FZMmXGXy83P4XN) или [тут](https://www.youtube.com/c/PolygonRunway) или где-нибудь ещё инструмент, необходимый для создания сцены. \
 Статическая на min оценку. \
 Анимированная + защита - max оценка.
 
