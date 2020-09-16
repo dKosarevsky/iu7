@@ -33,9 +33,8 @@ ____________________________________
 1. Стандартный
 2. Алгоритм Винограда базовый
 3. Алгоритм Винограда оптимизированный
-/**
-* добавь фотки сюда
-*/
+
+ [фотки к ЛР2](https://drive.google.com/drive/folders/19F0r92UZy7WqeTX9bbIl64P4nGbfljqo?usp=sharing)
 ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
