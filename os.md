@@ -11,3 +11,10 @@ ____________________________________
 ____________________________________
 Лекция 1 (11.09.2020) | [фото](https://drive.google.com/drive/folders/18EaPDw3huzxnv_SedILf-IiNKBB4aXs1?usp=sharing) | [аудио](https://drive.google.com/drive/folders/184rKPher1Fl048SyJt7VrRV6pQebwBUv?usp=sharing)
 ____________________________________
+Лекция 2 (18.09.2020) | [фото](https://drive.google.com/drive/folders/1-qWY2UE6BvJgyJYcVvYBF8ues6bjOp4o?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vmhMdWq_y3I1QDVv1d0YqIqXssirRb6L?usp=sharing)
+____________________________________
+
+
+
+
+[tricks](https://drive.google.com/drive/folders/1dGz4-yb063fUNr5QkxPvI32n-URwXITz?usp=sharing)
