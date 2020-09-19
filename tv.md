@@ -6,7 +6,10 @@ ____________________________________
 зачёт 
 ____________________________________
 **Литература** \
-Теория вероятностей для кулинарного техникума
+* [Ф. Х. Ахметова, Т. А. Ласковая, Е. М. Попова, 2016](https://bmstu.press/catalog/item/4412/) | [читать онлайн](https://bmstu.press/catalog/item/4412/reader/)
+* [А. В. Печинкин, О. И. Тескин, Г. М. Цветкова, П. П. Бочаров, Н. Е. Козлов, 2006](https://bmstu.press/catalog/item/4412/) | [читать онлайн](https://bmstu.press/catalog/item/3902/reader/)
+* [А. В. Печинкин, О. И. Тескин, Г. М. Цветкова и др., 2004](https://drive.google.com/file/d/1OgwDZMmRjFlcyiEq8WHUGAzLRdScPgrY/view?usp=sharing)
+* [О.И. Тескин и др. МУ к выполнению ДЗ](https://drive.google.com/file/d/1SaSQqKTynJcbQ2sCjgea52AHzyAbYm9O/view?usp=sharing)
 ____________________________________
 [Лекции ФН-12](https://drive.google.com/file/d/1EbMuj1QZXHIjVO30Aqpw9Pt82wa0GVGB/view?usp=sharing)
 ____________________________________
