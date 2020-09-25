@@ -37,8 +37,8 @@ ____________________________________
  [фотки к ЛР2](https://drive.google.com/drive/folders/19F0r92UZy7WqeTX9bbIl64P4nGbfljqo?usp=sharing) \
  [побитовый сдвиг по-питонячьи](https://wiki.python.org/moin/BitwiseOperators)
  
- [ЛР2](https://www.kaggle.com/dmisky/tads-lab-02)
- [+табл](https://docs.google.com/spreadsheets/d/1DsRJtCDt8P72eW8__wofXfE064aXz58fZn2cDYp9D8I/edit?usp=sharing)
+ [ЛР2](https://www.kaggle.com/dmisky/tads-lab-02) \
+ [ЛР2 10 итераций](labs_tads/lab-02-10_it.ipynb)
 ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
