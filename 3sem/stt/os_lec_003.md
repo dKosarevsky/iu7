@@ -1,6 +1,6 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Операционные системы](3sem/os.md)
 ____________________________________
-Транскрибировано с помощью [транскрибатора](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) \
+Транскрибировано с помощью [транскрибатора](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) 
 ____________________________________
 лекция 3 от 25.09.20 начиная с 20.06
 ____________________________________
