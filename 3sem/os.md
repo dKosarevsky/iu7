@@ -16,7 +16,7 @@ ____________________________________
 ____________________________________
 Лекция 2 (18.09.2020) | [фото](https://drive.google.com/drive/folders/1-qWY2UE6BvJgyJYcVvYBF8ues6bjOp4o?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vmhMdWq_y3I1QDVv1d0YqIqXssirRb6L?usp=sharing)
 ____________________________________
-Лекция 3 (26.09.2020) | [фото](https://drive.google.com/drive/folders/1FbTnaKRYAQjrQudn9jiWr4R_rlS0vrTx?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1FWOIi4fd8Ju6JW7TrhvwWxhwTOxjs7fr?usp=sharing) | [speech_to_text](stt/os_lec_003.md)
+Лекция 3 (26.09.2020) | [фото](https://drive.google.com/drive/folders/1FbTnaKRYAQjrQudn9jiWr4R_rlS0vrTx?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1FWOIi4fd8Ju6JW7TrhvwWxhwTOxjs7fr?usp=sharing) | [speech_to_text](stt/os_lec_003.md) | [hand made by Oleg](stt/hand_made.md)
 ____________________________________
 
 
