@@ -17,3 +17,5 @@ ____________________________________
 ____________________________________
 Лекция 2 (19.09.2020) | [фото](https://drive.google.com/drive/folders/1E-KaXkuiB1JqizGKHfCM6Q10rFyzBN_p?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1EMD5Z-h4zRB89s401iC6OH0L4FzM3Qlh?usp=sharing)
 ____________________________________
+Лекция 3 (26.09.2020) | [фото](https://drive.google.com/drive/folders/1TddNKMqLyCCo7Q1rGh2_gkPgUomLGYYH?usp=sharing) | [аудио](https://onedrive.live.com/?authkey=%21ACZbeUAs5bssDH0&id=B0C5EBD30F435E79%2147599&cid=B0C5EBD30F435E79)
+____________________________________
