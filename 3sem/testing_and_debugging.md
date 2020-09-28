@@ -64,3 +64,6 @@ ____________________________________
 
 [Лекция 3. Требования к ПО. Тестирование документации и требований. (21.09.2020)](https://drive.google.com/file/d/1wBldO40Rh1e-V9BR2McLtSgB0CyTGoXM/view?usp=sharing)
 ____________________________________
+
+[Лекция 4. Техники тестирования. (28.09.2020)]() | [audio](https://drive.google.com/drive/folders/1RekFZfeuajk7gNvyHAR6rSigM033o1qF?usp=sharing)
+____________________________________
