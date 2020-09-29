@@ -49,7 +49,8 @@ ____________________________________
 
 Муравьиные алгоритмы
 
-[инфа к ЛР3](https://drive.google.com/folderview?id=1G3qexlRgV9Ap1EZy4xO3ZKXjTTXsd2sg)
+[инфа к ЛР3](https://drive.google.com/folderview?id=1G3qexlRgV9Ap1EZy4xO3ZKXjTTXsd2sg) \
+[группа в вк по МА](https://m.vk.com/ant_colony_optimization)
 ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
