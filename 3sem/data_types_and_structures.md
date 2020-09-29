@@ -8,6 +8,7 @@ liliya@bmstu.ru \
 ____________________________________
 **Литература**
 
+* [Ресурсно-эффективные компьютерные алгоритмы. Разработка и анализ, Ульянов М. В., 2007](https://drive.google.com/file/d/1GDkqsfJDjotvynJQqXr2NnCyt19Jt4bD/view?usp=drivesdk)
 * [Дж.Макконел "Основы современных алгоритмов"](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
 * [Дж.Макконел "Анализ алгоритмов: активный обучающий подход"](http://www.technosphera.ru/files/book_pdf/0/book_8_3.pdf)
 * [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ"](https://t.me/progbook/15)
@@ -50,7 +51,7 @@ ____________________________________
 Муравьиные алгоритмы
 
 [hand made speech to text by Oleg](stt/dtas_lab_003.md) \
-[инфа к ЛР3](https://drive.google.com/folderview?id=1G3qexlRgV9Ap1EZy4xO3ZKXjTTXsd2sg) \
+[литература к ЛР3](https://drive.google.com/folderview?id=1G3qexlRgV9Ap1EZy4xO3ZKXjTTXsd2sg) \
 [группа в вк по МА](https://m.vk.com/ant_colony_optimization)
 ____________________________________
 
