@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Операционные системы](3sem/os.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Операционные системы](https://github.com/dKosarevsky/iu7/tree/master/3sem/os.md)
 ____________________________________
 hand made by @g1ts0
 --------
