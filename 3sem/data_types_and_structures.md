@@ -49,6 +49,7 @@ ____________________________________
 
 Муравьиные алгоритмы
 
+[hand made speech to text by Oleg](stt/dtas_lab_003.md) \
 [инфа к ЛР3](https://drive.google.com/folderview?id=1G3qexlRgV9Ap1EZy4xO3ZKXjTTXsd2sg) \
 [группа в вк по МА](https://m.vk.com/ant_colony_optimization)
 ____________________________________
