@@ -1,3 +1,5 @@
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Типы и структуры данных](https://github.com/dKosarevsky/iu7/tree/master/3sem/data_types_and_structures.md)
+____________________________________
 hand made by @g1ts0
 --------
 # Лаба 3
