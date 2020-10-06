@@ -8,6 +8,7 @@ kurov@bmstu.ru | avkur7@mail.ru (на эту отвечает оперативн
 ____________________________________
 **Литература**: \
 Конспект \
+[Компьютерная графика в среде MS VS С++ : учебное пособие / Е. Алексеев, А. В. Куров, 2017](https://drive.google.com/file/d/1QypyXvqSKVFx-YSKFOTPbgB8RGcXW23R/view?usp=sharing) \
 [Список литературы](https://drive.google.com/file/d/1ezH7ON0bS0E_SsDG9lRZrdVg_ggI4ska/view?usp=sharing) \
 [Какая-то книга](https://drive.google.com/drive/folders/1obKzaMVE3Spzzgp3t8Nvf76mcF3lGthR?usp=sharing) \
 [Какие-то лабы](https://drive.google.com/drive/folders/1W_JvmI8okW3V4UgDCHPQHKKwzojucRpd?usp=sharing)
