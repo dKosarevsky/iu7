@@ -65,5 +65,8 @@ ____________________________________
 [Лекция 3. Требования к ПО. Тестирование документации и требований. (21.09.2020)](https://drive.google.com/file/d/1wBldO40Rh1e-V9BR2McLtSgB0CyTGoXM/view?usp=sharing)
 ____________________________________
 
-[Лекция 4. Техники тестирования. (28.09.2020)]() | [audio](https://drive.google.com/drive/folders/1RekFZfeuajk7gNvyHAR6rSigM033o1qF?usp=sharing)
+[Лекция 4. Техники тестирования. (28.09.2020)](https://drive.google.com/file/d/1D-DFHT82Loa6cJSzy17EYUoU_OtYZeq8/view?usp=sharing) | [audio](https://drive.google.com/drive/folders/1RekFZfeuajk7gNvyHAR6rSigM033o1qF?usp=sharing)
+____________________________________
+
+[Лекция 5. Модульное тестирование. (05.10.2020)](https://drive.google.com/file/d/1kTVlcA73TDJHM9Mh8FuaTrRQTVJCFoup/view?usp=sharing) | [audio](https://drive.google.com/drive/folders/11ngSoIteME78-oTaD_ujpYJGJrsAkkXO?usp=sharing) | [photo](https://drive.google.com/drive/folders/1lgU7g5CspAllpdu2v8-ri8Jfz7_R7Tvm?usp=sharing)
 ____________________________________
