@@ -12,6 +12,7 @@ ____________________________________
 * [Дж.Макконел "Основы современных алгоритмов"](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
 * [Дж.Макконел "Анализ алгоритмов: активный обучающий подход"](http://www.technosphera.ru/files/book_pdf/0/book_8_3.pdf)
 * [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ"](https://t.me/progbook/15)
+* [С. Писсанецки "Технология разреженных матриц" / 1988](https://drive.google.com/file/d/1NOzTU26bs_LNCjjWrePr2OZRP-ZcfTAq/view?usp=sharing)
 ____________________________________
 
 **Задача ЛР1**
