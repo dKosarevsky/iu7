@@ -58,3 +58,6 @@ ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
 ____________________________________
+
+Лекция 5 (06.10.2020) | [фото](https://drive.google.com/drive/folders/15vdE5tZmOHO1ceIDNb3n7FrbdIyJqLUy?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1NzuBE9upOsI-NyjGn-Vm5A55skni0Mp3?usp=sharing)
+____________________________________
