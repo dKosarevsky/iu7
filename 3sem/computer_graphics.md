@@ -14,3 +14,10 @@ ____________________________________
 [Какие-то лабы](https://drive.google.com/drive/folders/1W_JvmI8okW3V4UgDCHPQHKKwzojucRpd?usp=sharing)
 ____________________________________
 
+____________________________________
+
+Лекция 2. (16.09.2020) | [audio](https://drive.google.com/drive/folders/1BE4-H46debBF99IQW9MJTAiw883d3k4b?usp=sharing)
+____________________________________
+
+Лекция 3. (30.09.2020) | [audio](https://drive.google.com/drive/folders/1IWh_otM9QHNGPOQ-F1vLA7PTYoiD1W4O?usp=sharing) | [photo](https://drive.google.com/drive/folders/1IeL3ysh7vEpqXiw-ALbAAi5tUllWfdXb?usp=sharing)
+____________________________________
