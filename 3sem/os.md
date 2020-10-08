@@ -16,11 +16,15 @@ ____________________________________
 ____________________________________
 Лекция 2 (18.09.2020) | [фото](https://drive.google.com/drive/folders/1-qWY2UE6BvJgyJYcVvYBF8ues6bjOp4o?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vmhMdWq_y3I1QDVv1d0YqIqXssirRb6L?usp=sharing)
 ____________________________________
-Лекция 3 (26.09.2020) | [фото](https://drive.google.com/drive/folders/1FbTnaKRYAQjrQudn9jiWr4R_rlS0vrTx?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1FWOIi4fd8Ju6JW7TrhvwWxhwTOxjs7fr?usp=sharing) | [speech_to_text](stt/os_lec_003.md) | [hand made by Oleg](stt/hand_made.md) | [Почти режиссерская версия](https://drive.google.com/file/d/1H8VdwTBzSKz0bfQd75BkPF2f2T5qTu1z/view?usp=sharing)
+Лекция 3 (26.09.2020) | [фото](https://drive.google.com/drive/folders/1FbTnaKRYAQjrQudn9jiWr4R_rlS0vrTx?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1FWOIi4fd8Ju6JW7TrhvwWxhwTOxjs7fr?usp=sharing) | [speech_to_text](stt/os_lec_003.md) | [hand made by Oleg](stt/os_lec_003_hand_made.md) | [Почти режиссерская версия](https://drive.google.com/file/d/1H8VdwTBzSKz0bfQd75BkPF2f2T5qTu1z/view?usp=sharing)
 ____________________________________
-Лекция 4 (02.10.2020) | [аудио](https://drive.google.com/drive/folders/1Imyka9uGwxfEvZRXvXSqWhZbhHmc1KDw?usp=sharing)
+Лекция 4 (02.10.2020) | [аудио](https://drive.google.com/drive/folders/1Imyka9uGwxfEvZRXvXSqWhZbhHmc1KDw?usp=sharing) | [hand made by Oleg](stt/os_lec_004_hand_made.md)
 ____________________________________
-#удалёнка Лекция 5 (09.10.2020) | [Материалы по Управлению памятью. Дистанционное обучение по ОС с пятницы 9.10.](https://drive.google.com/file/d/1V5g7wAKgl7VSwsFB24_cRiaoQ8n1CRw1/view?usp=sharing)
+
+### Дистанционное обучение по ОС с пятницы 09.10.2020
+
+____________________________________
+Лекция 5 (09.10.2020) | [Материалы по Управлению памятью.](https://drive.google.com/file/d/1V5g7wAKgl7VSwsFB24_cRiaoQ8n1CRw1/view?usp=sharing)
 ____________________________________
 
 [Лекции по ОС 2015-2016](https://github.com/iproha94/bmstu-operating-systems)
