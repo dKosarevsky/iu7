@@ -15,7 +15,7 @@ ____________________________________
 * [Функциональное программирование на языке C++, 2020, Чукич Иван](https://t.me/bzd_channel/6032)
 ____________________________________
 
-08.10.2020 | Лекция [audio](https://drive.google.com/drive/folders/1b8cHjuAZZ6MTM_KQc83D7XSVg4pL7wrl?usp=sharing) | [photo](https://drive.google.com/drive/folders/1d4LgjhVfJO2G0SHqRHGckSAayNUgV-Ws?usp=sharing) | [Лаба (структуры)](labs_cpp/081020/main.cpp)
+08.10.2020 (структуры) | Лекция [audio](https://drive.google.com/drive/folders/1b8cHjuAZZ6MTM_KQc83D7XSVg4pL7wrl?usp=sharing) | [photo](https://drive.google.com/drive/folders/1d4LgjhVfJO2G0SHqRHGckSAayNUgV-Ws?usp=sharing) | [Лаба](labs_cpp/081020/main.cpp)
 ____________________________________
 
 [C++, Тимофей Хирьянов, МФТИ](http://cs.mipt.ru/cpp_algo/)
