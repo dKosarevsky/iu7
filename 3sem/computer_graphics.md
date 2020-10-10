@@ -21,3 +21,6 @@ ____________________________________
 
 Лекция 3. (30.09.2020) | [audio](https://drive.google.com/drive/folders/1IWh_otM9QHNGPOQ-F1vLA7PTYoiD1W4O?usp=sharing) | [photo](https://drive.google.com/drive/folders/1IeL3ysh7vEpqXiw-ALbAAi5tUllWfdXb?usp=sharing)
 ____________________________________
+
+Лекция 4. (07.10.2020) | [audio](https://drive.google.com/drive/folders/1Xz3GfUOnMFX0X2pBGCgIdYpPRkNnCxfQ?usp=sharing) | [photo](https://drive.google.com/drive/folders/1QeSuoq3IUsZItXSyJQVlpbRIBo3DBPSu?usp=sharing)
+____________________________________
