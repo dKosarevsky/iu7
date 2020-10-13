@@ -73,3 +73,7 @@ ____________________________________
 
 Лекция 5 (06.10.2020) | [фото](https://drive.google.com/drive/folders/15vdE5tZmOHO1ceIDNb3n7FrbdIyJqLUy?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1NzuBE9upOsI-NyjGn-Vm5A55skni0Mp3?usp=sharing)
 ____________________________________
+
+Лекция 6 [remote] (13.10.2020) | [фото](https://drive.google.com/folderview?id=1M0O1djLP-XU2WVQw1BYkN_M_7Ix3jrK4)
+____________________________________
+
