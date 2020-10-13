@@ -24,7 +24,10 @@ ____________________________________
 ### Дистанционное обучение по ОС с пятницы 09.10.2020
 
 ____________________________________
-Лекция 5 (09.10.2020) | [Материалы по Управлению памятью.](https://drive.google.com/file/d/1V5g7wAKgl7VSwsFB24_cRiaoQ8n1CRw1/view?usp=sharing)
+Лекция 5 [remote] (09.10.2020) | [Материалы по Управлению памятью.](https://drive.google.com/file/d/1V5g7wAKgl7VSwsFB24_cRiaoQ8n1CRw1/view?usp=sharing)
+____________________________________
+Лекция 6 [remote] (16.10.2020) | [Взаимодействие параллельных процессов](https://drive.google.com/file/d/1s1mj_clLzlHACjJCfjfpbXrLjG4G2Z4p/view?usp=sharing)
+____________________________________
 ____________________________________
 
 [Лекции по ОС 2015-2016](https://github.com/iproha94/bmstu-operating-systems) | [Логическая организация кэш](https://drive.google.com/file/d/1ZvBnIYF8n3PjM6mYGKzw1FtWvb3at5rs/view?usp=sharing)
