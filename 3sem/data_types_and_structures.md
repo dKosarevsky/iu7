@@ -69,7 +69,13 @@ ____________________________________
 
 В лабораторной не допускается сплошное извлечение элементов матриц (вида "извлечь элемент с координатами [i][j] из упакованной матрицы"), требуется использовать описанные алгоритмы просмотра массива ненулевых элементов. выслана вместе с частью 2.1. Первая половина описания лабораторной
 
+[пример обхода матриц](https://drive.google.com/file/d/12AZfhCfffCJhI3615Q3HRGaWBBGdnZxS/view?usp=sharing) B и C при сложении при помощи курсоров kB и kC, схема КРМ
+
+Описан переход к алгоритму умножения. Рассмотрена схема Чанга и Густавсона, описан переход к алгоритмам сложения и умножения матриц. [раз](https://drive.google.com/file/d/1eGsndYKirhTYQ9Mu2LhN3-Jsl7BEqTyg/view?usp=sharing) и [два](https://drive.google.com/file/d/190eNqyaX5W23vzfgMEL28Jrl6n1xBeK1/view?usp=sharing)
+
 Лабораторная обязательна для зачёта.
+
+
 ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
