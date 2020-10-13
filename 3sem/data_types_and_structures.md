@@ -13,6 +13,7 @@ ____________________________________
 * [Дж.Макконел "Анализ алгоритмов: активный обучающий подход"](http://www.technosphera.ru/files/book_pdf/0/book_8_3.pdf)
 * [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ"](https://t.me/progbook/15)
 * [С. Писсанецки "Технология разреженных матриц" / 1988](https://drive.google.com/file/d/1NOzTU26bs_LNCjjWrePr2OZRP-ZcfTAq/view?usp=sharing)
+* [С. Гудман, С. Хидетниеми. "Введение в разработку и анализ алгоритмов" / 1981](https://drive.google.com/file/d/1WoM5m2Ls7nP6arYAfLMUZhKRhUvfUEm6/view?usp=sharing)
 ____________________________________
 
 **Задача ЛР1**
