@@ -12,7 +12,7 @@ ____________________________________
 * [Дж.Макконел "Основы современных алгоритмов"](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
 * [Дж.Макконел "Анализ алгоритмов: активный обучающий подход"](http://www.technosphera.ru/files/book_pdf/0/book_8_3.pdf)
 * [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ"](https://t.me/progbook/15)
-* [С. Писсанецки "Технология разреженных матриц" / 1988](https://drive.google.com/file/d/1NOzTU26bs_LNCjjWrePr2OZRP-ZcfTAq/view?usp=sharing)
+* [С. Писсанецки "Технология разреженных матриц" / 1988](https://drive.google.com/file/d/1QHG9FLWmIM8HSPiU4wcbin8qY6hqXwdQ/view?usp=sharing)
 * [С. Гудман, С. Хидетниеми. "Введение в разработку и анализ алгоритмов" / 1981](https://drive.google.com/file/d/1WoM5m2Ls7nP6arYAfLMUZhKRhUvfUEm6/view?usp=sharing)
 ____________________________________
 
@@ -57,6 +57,15 @@ ____________________________________
 [группа в вк по МА](https://m.vk.com/ant_colony_optimization)
 
 [ЛР3](labs_tads/tads-lab-03-ant.ipynb)
+____________________________________
+
+**Задача ЛР4**
+
+Разреженные матрицы
+
+Необходимо ознакомиться с соотв. разделом книги [Серджио Писсанецки - Технология разреженных матриц](https://drive.google.com/file/d/1QHG9FLWmIM8HSPiU4wcbin8qY6hqXwdQ/view?usp=sharing) (классическая советская книга) в части, касающейся рассмотрения схем сжатого хранения Дженнингса, Кнута, Кольцевой Рейнбольдта-Местеньи, Разреженного строчного формата (Чанга и Густавсона). 
+
+По вариантам нужно будет реализовать либо КРМ, либо РСФ: упаковку, распаковку, сложение двух матриц и произведение двух матриц.
 ____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
