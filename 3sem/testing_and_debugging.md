@@ -75,4 +75,4 @@ ____________________________________
 
 [Лаба zebrate](https://github.com/dKosarevsky/zebrate)
 
-[фикстуры](https://github.com/ClearcodeHQ/pytest-postgresql) для базёнки
+[фикстуры](https://github.com/ClearcodeHQ/pytest-postgresql) для тестирования базёнки
