@@ -36,3 +36,7 @@ ____________________________________
 
 
 [tricks](https://drive.google.com/drive/folders/1dGz4-yb063fUNr5QkxPvI32n-URwXITz?usp=sharing)
+
+____________________________________
+
+[Язык Ада](https://www.ada-ru.org/)
