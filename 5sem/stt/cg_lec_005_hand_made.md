@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Компьютерная графика](computer_graphics.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md) | [Компьютерная графика](computer_graphics.md)
 ____________________________________
 hand made by @g1ts0
 --------
