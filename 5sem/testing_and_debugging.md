@@ -70,6 +70,8 @@ ____________________________________
 
 [Лекция 5. Модульное тестирование. (05.10.2020)](https://drive.google.com/file/d/1kTVlcA73TDJHM9Mh8FuaTrRQTVJCFoup/view?usp=sharing) | [audio](https://drive.google.com/drive/folders/11ngSoIteME78-oTaD_ujpYJGJrsAkkXO?usp=sharing) | [photo](https://drive.google.com/drive/folders/1lgU7g5CspAllpdu2v8-ri8Jfz7_R7Tvm?usp=sharing)
 ____________________________________
+
+[Лекция 6-7. Интеграционное тестирование. (12 и 19.10.2020)](https://drive.google.com/file/d/1JcfzPhxwmwWCKy_kqri9eKNWoiLCPC6S/view?usp=sharing) | [audio](https://drive.google.com/file/d/1zN698MQXnfbvJbO1cop7Yh9jX0DNHl7o/view?usp=sharing) | [photo](https://drive.google.com/file/d/1iSft5A-ang56okmeDQAYuqVUdq5S5S_M/view?usp=sharing)
 ____________________________________
 
 
