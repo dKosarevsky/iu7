@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md)
 ____________________________________
 **Теория вероятностей** \
 [Велищанский Михаил Александрович](https://studizba.com/hs/151-mgtu-im-baumana/teachers/180-kafedra-fn-12-matematicheskoe-modelirova/4726-velischanskij-mihail-aleksandrovich.html) \

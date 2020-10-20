@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [НИРС](computer_graphics_nirs.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md) | [НИРС](computer_graphics_nirs.md)
 ____________________________________
 **Компьютерная графика** \
 [Куров Андрей Владимирович](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/206-kurov-andrej-vladimirovich.html) \

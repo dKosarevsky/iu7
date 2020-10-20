@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md) | [Операционные системы](https://github.com/dKosarevsky/iu7/tree/master/3sem/os.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md) | [Операционные системы](https://github.com/dKosarevsky/iu7/tree/master/5sem/os.md)
 ____________________________________
 Транскрибировано с помощью [транскрибатора](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) 
 ____________________________________

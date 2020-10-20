@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_3sem.md)
+[home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md)
 ____________________________________
 **Типы и структуры данных** \
 [Волкова Лилия Леонидовна](https://www.hse.ru/org/persons/69165154) (504л) \
