@@ -9,11 +9,12 @@ ____________________________________
 **Литература**
 
 * [Ресурсно-эффективные компьютерные алгоритмы. Разработка и анализ, Ульянов М. В., 2007](https://drive.google.com/file/d/1GDkqsfJDjotvynJQqXr2NnCyt19Jt4bD/view?usp=drivesdk)
-* [Дж.Макконел "Основы современных алгоритмов"](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
+* [Дж.Макконел "Основы современных алгоритмов", 2004](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
 * [Дж.Макконел "Анализ алгоритмов: активный обучающий подход"](http://www.technosphera.ru/files/book_pdf/0/book_8_3.pdf)
-* [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ"](https://t.me/progbook/15)
-* [С. Писсанецки "Технология разреженных матриц" / 1988](https://drive.google.com/file/d/1QHG9FLWmIM8HSPiU4wcbin8qY6hqXwdQ/view?usp=sharing)
-* [С. Гудман, С. Хидетниеми. "Введение в разработку и анализ алгоритмов" / 1981](https://drive.google.com/file/d/1WoM5m2Ls7nP6arYAfLMUZhKRhUvfUEm6/view?usp=sharing)
+* [Томас Х. Кормен, Чарльз И. Лейзерсон "Алгоритмы. Построение и анализ", 2009](https://t.me/progbook/15)
+* [С. Писсанецки "Технология разреженных матриц", 1988](https://drive.google.com/file/d/1QHG9FLWmIM8HSPiU4wcbin8qY6hqXwdQ/view?usp=sharing)
+* [С. Гудман, С. Хидетниеми. "Введение в разработку и анализ алгоритмов", 1981](https://drive.google.com/file/d/1WoM5m2Ls7nP6arYAfLMUZhKRhUvfUEm6/view?usp=sharing)
+* [Тим Рафгарден "Совершенный алгоритм. Жадные алгоритмы и динамическое программирование", 2020](https://t.me/bzd_channel/5298)
 ____________________________________
 
 ## ЛР1
