@@ -1,12 +1,12 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md)
 ____________________________________
-**Типы и структуры данных** \
+# Типы и структуры данных
 [Волкова Лилия Леонидовна](https://www.hse.ru/org/persons/69165154) (504л) \
 liliya@bmstu.ru \
 вторник, 18-30, аудитория 1017 (лекции), 508 или 517 (лабы) \
 зачёт по результатам 8-ми лаб
 ____________________________________
-**Литература**
+### Литература
 
 * [Ресурсно-эффективные компьютерные алгоритмы. Разработка и анализ, Ульянов М. В., 2007](https://drive.google.com/file/d/1GDkqsfJDjotvynJQqXr2NnCyt19Jt4bD/view?usp=drivesdk)
 * [Дж.Макконел "Основы современных алгоритмов", 2004](https://drive.google.com/file/d/1NXChAct0nCx3uMfQ-Em50TY-T4BWFm5n/view?usp=sharing)
@@ -84,7 +84,7 @@ ____________________________________
 [ЛР3](labs_tads/tads-lab-03-ant.ipynb)
 ____________________________________
 
-**Задача ЛР4**
+## ЛР4
 
 Разреженные матрицы (лек.5)
 
@@ -100,6 +100,11 @@ ____________________________________
 
 Лабораторная обязательна для зачёта.
 
+#### API
+* [Sparse matrices (scipy.sparse)](https://docs.scipy.org/doc/scipy/reference/sparse.html)
+* [scipy.sparse.csr_matrix](https://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csr_matrix.html)
+* [numpy.count_nonzero](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.count_nonzero.html)
+* [numpy.ndarray.size](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.ndarray.size.html)
 
 ____________________________________
 
