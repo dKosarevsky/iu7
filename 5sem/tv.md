@@ -1,11 +1,11 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2020_2021_5sem.md)
 ____________________________________
-**Теория вероятностей** \
+# Теория вероятностей
 [Велищанский Михаил Александрович](https://www.bmstu.ru/ps/~Vma/) \
 суббота, аудитория 212л, 619, 08-30 \
 зачёт 
 ____________________________________
-**Литература** \
+## Литература
 * [Ф. Х. Ахметова, Т. А. Ласковая, Е. М. Попова, 2016](https://bmstu.press/catalog/item/4412/) | [читать онлайн](https://bmstu.press/catalog/item/4412/reader/)
 * [А. В. Печинкин, О. И. Тескин, Г. М. Цветкова, П. П. Бочаров, Н. Е. Козлов, 2006](https://bmstu.press/catalog/item/4412/) | [читать онлайн](https://bmstu.press/catalog/item/3902/reader/)
 * [А. В. Печинкин, О. И. Тескин, Г. М. Цветкова и др., 2004](https://drive.google.com/file/d/1OgwDZMmRjFlcyiEq8WHUGAzLRdScPgrY/view?usp=sharing)
