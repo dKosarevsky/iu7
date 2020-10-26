@@ -2,6 +2,11 @@
 
 #### 25.10.2020 Mech
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/isteZRM_aN4)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](render_mech_25102020.mkv)
+
+
 ![](https://youtu.be/isteZRM_aN4)
 
 ![](render_mech_25102020.mkv)
