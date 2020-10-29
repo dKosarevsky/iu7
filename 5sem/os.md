@@ -21,12 +21,14 @@ ____________________________________
 Лекция 4 (02.10.2020) | [аудио](https://drive.google.com/drive/folders/1Imyka9uGwxfEvZRXvXSqWhZbhHmc1KDw?usp=sharing) | [hand made by Oleg](stt/os_lec_004_hand_made.md)
 ____________________________________
 
-### Дистанционное обучение по ОС с пятницы 09.10.2020
+### Дистанционное обучение по ОС с 09.10.2020
 
 ____________________________________
 Лекция 5 [remote] (09.10.2020) | [Материалы по Управлению памятью.](https://drive.google.com/file/d/1V5g7wAKgl7VSwsFB24_cRiaoQ8n1CRw1/view?usp=sharing)
 ____________________________________
 Лекция 6 [remote] (16.10.2020) | [Взаимодействие параллельных процессов](https://drive.google.com/file/d/1s1mj_clLzlHACjJCfjfpbXrLjG4G2Z4p/view?usp=sharing)
+____________________________________
+Лекция 7 [remote] (30.10.2020) | [Страничное преобразование x86](https://drive.google.com/file/d/1IcIof__m2q1gG4GC-4mrEfigTF89UxcL/view?usp=sharing)
 ____________________________________
 ____________________________________
 
