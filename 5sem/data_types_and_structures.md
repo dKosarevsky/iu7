@@ -108,6 +108,12 @@ ____________________________________
 
 ____________________________________
 
+## ЛР5
+
+**Сжатие по Хаффману**
+____________________________________
+
+
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
 ____________________________________
 
