@@ -19,6 +19,12 @@ ____________________________________
 08.10.2020 (структуры) | Лекция [audio](https://drive.google.com/drive/folders/1b8cHjuAZZ6MTM_KQc83D7XSVg4pL7wrl?usp=sharing) & [photo](https://drive.google.com/drive/folders/1d4LgjhVfJO2G0SHqRHGckSAayNUgV-Ws?usp=sharing) | [Лаба](labs_cpp/081020/main.cpp)
 ____________________________________
 
+15.10.2020 (классы) [remote] | [Лекция](https://drive.google.com/file/d/1ylLB8s6qG_7L6SOlTOSbEGR2lnpudj6W/view?usp=sharing) | [Семинар](https://drive.google.com/file/d/1VpzdfrJsTqCFmtKAGV7Yj5GyVM_ODwwI/view?usp=sharing)
+____________________________________
+
+29.10.2020 (класс-табуляция) [remote] | [Лекция + Семинар](https://drive.google.com/file/d/1kOf3Ez0rHwBMIhy6lQ9g29k3l5MGBAvt/view?usp=sharing)
+____________________________________
+
 [C++, Тимофей Хирьянов, МФТИ](http://cs.mipt.ru/cpp_algo/)
 ____________________________________
 

@@ -30,6 +30,8 @@ ____________________________________
 ____________________________________
 Лекция 7 [remote] (30.10.2020) | [Страничное преобразование x86](https://drive.google.com/file/d/1IcIof__m2q1gG4GC-4mrEfigTF89UxcL/view?usp=sharing)
 ____________________________________
+Лекция 8 [remote] (02.11.2020) | [Процессы. Системные вызовы fork() и exec()](https://drive.google.com/file/d/1QsIIDHhe8EIwNZkBK3RxVtfMCbZEgq1G/view?usp=sharing)
+____________________________________
 ____________________________________
 
 [Лекции по ОС 2015-2016](https://github.com/iproha94/bmstu-operating-systems) | [Логическая организация кэш](https://drive.google.com/file/d/1ZvBnIYF8n3PjM6mYGKzw1FtWvb3at5rs/view?usp=sharing)
