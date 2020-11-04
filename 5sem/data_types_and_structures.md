@@ -106,6 +106,7 @@ ____________________________________
 * [numpy.count_nonzero](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.count_nonzero.html)
 * [numpy.ndarray.size](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.ndarray.size.html)
 
+[ЛР4](labs_tads/tads-lab-04-sparse.ipynb)
 ____________________________________
 
 ## ЛР5
@@ -120,7 +121,7 @@ ____________________________________
 6. распаковка сжатого текста
 7. запись распакованного текста в новый файл
 
-[ЛР3](labs_tads/tads-lab-05-huf.ipynb)
+[ЛР5](labs_tads/tads-lab-05-huf.ipynb)
 ____________________________________
 
 
