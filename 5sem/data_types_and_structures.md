@@ -106,7 +106,24 @@ ____________________________________
 * [numpy.count_nonzero](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.count_nonzero.html)
 * [numpy.ndarray.size](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.ndarray.size.html)
 
+[ЛР4](labs_tads/tads-lab-04-sparse.ipynb)
 ____________________________________
+
+## ЛР5
+
+**Сжатие по Хаффману**
+
+1. считывание текста из файла
+2. сжатие содержимого текста
+3. запись сжатого текста в бинарный файл
+4. запись справочника в отдельный файл
+5. считывание сжатого текста из бинарника
+6. распаковка сжатого текста
+7. запись распакованного текста в новый файл
+
+[ЛР5](labs_tads/tads-lab-05-huf.ipynb)
+____________________________________
+
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
 ____________________________________
