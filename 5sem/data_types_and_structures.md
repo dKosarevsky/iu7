@@ -100,6 +100,8 @@ ____________________________________
 
 Лабораторная обязательна для зачёта.
 
+[Sparse matrix algorhitms. Stanford 2013](https://people.engr.tamu.edu/davis/research_files/Stanford2013.pdf)
+
 #### API
 * [Sparse matrices (scipy.sparse)](https://docs.scipy.org/doc/scipy/reference/sparse.html)
 * [scipy.sparse.csr_matrix](https://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csr_matrix.html)
