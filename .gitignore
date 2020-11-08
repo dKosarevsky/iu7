@@ -1,2 +1,10 @@
 .idea
 *checkpoint.ipynb
+
+*.csv
+*.tsv
+*.cd
+*.bkp
+*.tfevents
+*boost_*.bin
+*boost_*.json
