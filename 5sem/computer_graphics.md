@@ -4,7 +4,8 @@ ____________________________________
 [Куров Андрей Владимирович](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/206-kurov-andrej-vladimirovich.html) \
 kurov@bmstu.ru | avkur7@mail.ru (на эту отвечает оперативнее) \
 Среда, аудитория 525л, 18-30 \
-Экзамен (беседа по конспекту, билетов не будет) + [НИРС](computer_graphics_nirs.md)
+Экзамен (беседа по конспекту, билетов не будет) + [НИРС](computer_graphics_nirs.md) \
+Перечень [вопросов](https://drive.google.com/file/d/1kY2jT3K01okbitp-dX9v6v2HrkflJ3NH/view?usp=sharing) к экзамену.
 ____________________________________
 **Литература**: \
 Конспект \
