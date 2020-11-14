@@ -31,6 +31,9 @@ ____________________________________
 05.11.2020 (лекция по наследованию была не очень...) [лучше почитать](https://habr.com/ru/post/445948/)
 ____________________________________
 
+12.11.2020 (полиморфизм) [remote] | [Семинар_1](https://drive.google.com/file/d/1GHWlhODV0HdWwcBSGEQpqI64Y8HXju0j/view?usp=sharing) | [Семинар_2](https://drive.google.com/file/d/1Doa2dkZjmPKM-Ojubn2gPWJ6RVqU7uB1/view?usp=sharing)
+____________________________________
+
 [C++, Тимофей Хирьянов, МФТИ](http://cs.mipt.ru/cpp_algo/)
 ____________________________________
 
