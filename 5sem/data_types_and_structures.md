@@ -125,7 +125,14 @@ ____________________________________
 
 [ЛР5](labs_tads/tads-lab-05-huf.ipynb)
 ____________________________________
+## ЛР6
 
+**Деревья**
+
+Обходим пару деревеьев в глубину и ширину (кол-во узлов 10-15)
+
+[ЛР6](labs_tads/tads-lab-06-trees.ipynb)
+____________________________________
 
 Лекция 1 (08.09.2020) | [фото](https://drive.google.com/drive/folders/1OYuu3KKNGjLVhArjl6piAMHTkfpSgHud?usp=sharing) | [аудио](https://drive.google.com/drive/folders/1vkE5v2c4qiqtBCoP984QhED_ukufxqBA?usp=sharing)
 ____________________________________
