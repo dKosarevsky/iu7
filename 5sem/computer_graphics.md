@@ -28,3 +28,5 @@ ____________________________________
 
 Лекция 5. (14.10.2020) | [hand made by Oleg](stt/cg_lec_005_hand_made.md)
 ____________________________________
+
+[Доска](https://trello.com/b/YQsUzmHS/computer-graphics) в trello
