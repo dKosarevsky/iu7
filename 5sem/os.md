@@ -32,7 +32,7 @@ ____________________________________
 ____________________________________
 Лекция 8 [remote] (02.11.2020) | [Процессы. Системные вызовы fork() и exec()](https://drive.google.com/file/d/1QsIIDHhe8EIwNZkBK3RxVtfMCbZEgq1G/view?usp=sharing)
 ____________________________________
-Лекция 9 [remote] (19.11.2020) | [Тупики](https://drive.google.com/file/d/1DFRurvHo2kNPl5wT0If_NUe4PFl8LIFy/view?usp=sharing) | [Монолит и микроядро](https://drive.google.com/file/d/1z2mEKgC8_zu4571C6hc0xRKDHF37OJCK/view?usp=sharing)
+Лекция 9 [remote] (19.11.2020) | [Тупики и бесконечные откладывания](https://drive.google.com/file/d/1DFRurvHo2kNPl5wT0If_NUe4PFl8LIFy/view?usp=sharing) | [Монолит и микроядро](https://drive.google.com/file/d/1z2mEKgC8_zu4571C6hc0xRKDHF37OJCK/view?usp=sharing)
 ____________________________________
 ____________________________________
 
