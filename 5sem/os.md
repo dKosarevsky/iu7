@@ -32,6 +32,8 @@ ____________________________________
 ____________________________________
 Лекция 8 [remote] (02.11.2020) | [Процессы. Системные вызовы fork() и exec()](https://drive.google.com/file/d/1QsIIDHhe8EIwNZkBK3RxVtfMCbZEgq1G/view?usp=sharing)
 ____________________________________
+Лекция 9 [remote] (19.11.2020) | [Тупики](https://drive.google.com/file/d/1DFRurvHo2kNPl5wT0If_NUe4PFl8LIFy/view?usp=sharing) [Монолит и микроядро](https://drive.google.com/file/d/1z2mEKgC8_zu4571C6hc0xRKDHF37OJCK/view?usp=sharing)
+____________________________________
 ____________________________________
 
 [Лекции по ОС 2015-2016](https://github.com/iproha94/bmstu-operating-systems) | [Логическая организация кэш](https://drive.google.com/file/d/1ZvBnIYF8n3PjM6mYGKzw1FtWvb3at5rs/view?usp=sharing)
