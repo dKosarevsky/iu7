@@ -14,7 +14,7 @@ ____________________________________
 [Какая-то книга](https://drive.google.com/drive/folders/1obKzaMVE3Spzzgp3t8Nvf76mcF3lGthR?usp=sharing) \
 [Какие-то лабы](https://drive.google.com/drive/folders/1W_JvmI8okW3V4UgDCHPQHKKwzojucRpd?usp=sharing)
 ____________________________________
-
+Все вебинары по [ссылке](http://webinar.bmstu.ru/b/jpr-q4j-f4x)
 ____________________________________
 
 Лекция 2. (16.09.2020) | [audio](https://drive.google.com/drive/folders/1BE4-H46debBF99IQW9MJTAiw883d3k4b?usp=sharing)
