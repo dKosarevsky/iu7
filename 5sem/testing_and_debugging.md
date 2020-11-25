@@ -83,3 +83,37 @@ ____________________________________
 [Лаба zebrate](https://github.com/dKosarevsky/zebrate)
 
 [фикстуры](https://github.com/ClearcodeHQ/pytest-postgresql) для тестирования базёнки
+
+[Сервис](https://app.code2flow.com/) для отрисовки CFG (Control Flow Graph).
+Код для отрисовки к 3-й лабе до изменений:
+```
+def generate_zebra();
+if(user_img) {
+  //  изображение загруженное пользователем
+  Image.open(user_img);
+} else {
+  //  изображение по ссылке
+  Image.open(BytesIO(response.content));
+}
+//  комплекс методов
+zebra generation;
+```
+и после:
+```
+def generate_zebra();
+if(user_img) {
+  //  файл загруженный пользователем
+  if(img) {
+    Image.open(user_img);
+  } else {
+    //  конвертируем
+    convert_from_bytes(user_img.read())
+  }
+} else {
+  //  изображение по ссылке
+  Image.open(BytesIO(response.content));
+}
+//  комплекс методов
+zebra generation;
+```
+
