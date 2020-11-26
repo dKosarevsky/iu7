@@ -17,6 +17,7 @@ ____________________________________
 * [Modern C++ for Absolute Beginners
 A Friendly Introduction to C++ Programming Language and C++11 to C++20 Standards, 2020, Slobodan Dmitrović](https://drive.google.com/file/d/1TJmz9xylTcKx6lGn7Zptuy8uWuC15uM4/view?usp=sharing)
 * [Effective Modern C++ by Scott Meyers, 2015](https://drive.google.com/file/d/1JjhYvjNEcw-egwVLSIsTfOiX4MMmOVmg/view?usp=sharing)
+* [ООП C++, МГУ Учебное пособие для студентов 2 курса, И.А.Волкова, А.В.Иванов, Л.Е.Карпов, 2011](https://drive.google.com/file/d/1YjL4-Ak84hmBpCj0nij5mT2HgZhgh4oJ/view?usp=sharing)
 ____________________________________
 
 08.10.2020 (структуры) | Лекция [audio](https://drive.google.com/drive/folders/1b8cHjuAZZ6MTM_KQc83D7XSVg4pL7wrl?usp=sharing) & [photo](https://drive.google.com/drive/folders/1d4LgjhVfJO2G0SHqRHGckSAayNUgV-Ws?usp=sharing) | [Лаба](labs_cpp/081020/main.cpp)
