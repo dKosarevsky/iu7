@@ -116,4 +116,29 @@ if(user_img) {
 //  комплекс методов
 zebra generation;
 ```
-
+last_version:
+```
+def generate_zebra();
+if(user_img) {
+  //  файл загруженный пользователем
+  if(img) {
+    Image.open(user_img);
+  } else {
+    //  конвертируем
+    convert_from_bytes(user_img.read())
+  }
+} else {
+  //  изображение по ссылке
+  Image.open(BytesIO(response.content));
+}
+// cсылка на скачивание лошади
+call horse_download_link;
+//  комплекс методов
+zebra generation;
+// cсылка на скачивание тензора
+call tensor_download_link;
+  //  отображение зебры
+  st.image(zebra);
+    // cсылка на скачивание зебры
+    call zebra_download_link;
+```
