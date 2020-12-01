@@ -34,6 +34,7 @@ ____________________________________
 ____________________________________
 Лекция 9 [remote] (19.11.2020) | [Тупики и бесконечные откладывания](https://drive.google.com/file/d/1DFRurvHo2kNPl5wT0If_NUe4PFl8LIFy/view?usp=sharing) | [Монолит и микроядро](https://drive.google.com/file/d/1z2mEKgC8_zu4571C6hc0xRKDHF37OJCK/view?usp=sharing)
 ____________________________________
+Лекция 10 [remote] (01.12.2020) | [Клиент-сервер. Обработка сигналов](https://drive.google.com/file/d/1DtmFLMUBeA12PaG42e_M2gBJEjjzvcKv/view?usp=sharing) | [Модели ввода-вывода](https://drive.google.com/file/d/1Cmm6i25tFCiJ2pd9-p7hdTVxUhM1CNIc/view?usp=sharing) | [Сокеты](https://drive.google.com/file/d/1c-mGY3m_BScNLGyIAJ1CLxISs2jrzE2R/view?usp=sharing) | [Лабораторная работа «Сокеты»](https://drive.google.com/file/d/1uafpUdWQ1AIph8xvyvsKLuNAybxLD1zg/view?usp=sharing)
 ____________________________________
 
 [Лекции по ОС 2015-2016](https://github.com/iproha94/bmstu-operating-systems) | [Логическая организация кэш](https://drive.google.com/file/d/1ZvBnIYF8n3PjM6mYGKzw1FtWvb3at5rs/view?usp=sharing)
