@@ -1,4 +1,5 @@
 ```iu7/5sem/labs_os/sockets/async_tcp_server.py
+iu7/5sem/labs_os/sockets/async_tcp_server.py
 server is running, please, press ctrl+c to stop
 new connection from ('127.0.0.1', 43258)
 new connection from ('127.0.0.1', 43260)
@@ -138,4 +139,5 @@ closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, 
 closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
 closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
 closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
-closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>```
+closing connection <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+```
