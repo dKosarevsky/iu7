@@ -23,6 +23,7 @@ A Friendly Introduction to C++ Programming Language and C++11 to C++20 Standards
 * [Липпман С.Б., Лажойе Ж., Му Б.Э. - Язык программирования С++. Базовый курс. 2014](https://drive.google.com/file/d/1Eu6TpiykcBQBqabXlQ-RMocrOm93DQPt/view?usp=sharing)
 * [Культин Никита C++ в задачах и примерах 2019](https://drive.google.com/file/d/1lwI4GlcPzsh8V2J8Mdg0M0rvsLFF7ky5/view?usp=sharing)
 * [Стивен Прата - Язык программирования C++ Лекции и упражнения +файлы примеров кода 2012](https://drive.google.com/drive/folders/147uGgVGdTf4GiAFiO99zyxfoUcshCmWK?usp=sharing)
+* [Программирование встроенных систем на C++17 Майа Пош 2020](https://drive.google.com/file/d/1-SV5XWkfOe5Co-IUQIY8WC9X0TSAbGBB/view?usp=sharing)
 ____________________________________
 
 08.10.2020 (структуры) | Лекция [audio](https://drive.google.com/drive/folders/1b8cHjuAZZ6MTM_KQc83D7XSVg4pL7wrl?usp=sharing) & [photo](https://drive.google.com/drive/folders/1d4LgjhVfJO2G0SHqRHGckSAayNUgV-Ws?usp=sharing) | [Лаба](labs_cpp/081020/main.cpp)
