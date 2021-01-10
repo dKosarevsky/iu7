@@ -1,11 +1,10 @@
 # НИРС по КГ
 
-#### 25.10.2020 Mech
+### 25.10.2020
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/isteZRM_aN4)
+[![Robot_001_25.10.2020](https://img.youtube.com/vi/isteZRM_aN4/0.jpg)](https://www.youtube.com/watch?v=isteZRM_aN4&feature=youtu.be)
 
-![](https://youtu.be/isteZRM_aN4)
+### 10.01.2021
 
-<video width="320" height="240" controls>
-  <source src="render_mech_25102020.mkv" type="video/mp4">
-</video>
+[![Robot_002_10.01.2021](https://img.youtube.com/vi/ikUREO-Gh8M/0.jpg)](https://www.youtube.com/watch?v=ikUREO-Gh8M&feature=youtu.be)
+
