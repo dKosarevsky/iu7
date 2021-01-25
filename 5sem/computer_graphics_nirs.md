@@ -25,3 +25,6 @@ ____________________________________
 * [Дополнительные указания по оформлению РПЗ в соответствии с ГОСТ](https://drive.google.com/file/d/1hSfF3hXj0J06JHMl1E_8YiGfOHXzB1Bu/view?usp=sharing)
 * [ГОСТ](https://drive.google.com/file/d/1xCHaR60dpLDRRLmjil1U75ZzFzRjcM_D/view?usp=sharing)
 ____________________________________
+
+[РПЗ](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EfTVR4FghixAhNHJmp40ANIBHA0vZ5CAuWR0uzQBfmwLSQ?e=xtKpvA)
+[Преза](https://mttoffice-my.sharepoint.com/:p:/g/personal/dkosarevsky_mtt_ru/ETNvC8H1LDFFhtgkVR__zssBwWI8b379zeMvlutuuirYbw?e=oDHuX5)
