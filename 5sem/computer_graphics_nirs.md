@@ -28,4 +28,4 @@ ____________________________________
 
 * [РПЗ](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EfTVR4FghixAhNHJmp40ANIBHA0vZ5CAuWR0uzQBfmwLSQ?e=xtKpvA)
 * [Преза](https://mttoffice-my.sharepoint.com/:p:/g/personal/dkosarevsky_mtt_ru/ETNvC8H1LDFFhtgkVR__zssBwWI8b379zeMvlutuuirYbw?e=oDHuX5)
-* [Сценаъ(https://www.youtube.com/watch?v=vSGZFLS6J0A&feature=youtu.be)
+* [Сцена](https://www.youtube.com/watch?v=vSGZFLS6J0A&feature=youtu.be)
