@@ -1,4 +1,4 @@
-[home](https://github.com/dKosarevsky/iu7/blob/master/2021_6_sem.md)
+[6-й семестр](https://github.com/dKosarevsky/iu7/blob/master/2021_6_sem.md) | [home](https://github.com/dKosarevsky/iu7)
 ____________________________________
 # Моделирование
 [Рудаков Игорь Владимирович](http://www.gpss.ru/people/rudakov_w.html) \
