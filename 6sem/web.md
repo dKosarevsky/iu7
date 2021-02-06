@@ -1,9 +1,9 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2021_6_sem.md)
 ____________________________________
 # Основы WEB разработки
-[Бекасов Д.Е.]() (529л) \
-irudakov@bmstu.ru \
-пятница, 18-30 \
+[Бекасов Денис Евгеньевич](http://bekas.github.io/html/about.html) \
+bekasovdenis@gmail.com @bekas \
+пятница, 18-30 ауд. 529л (УЛК)\
 12.02-30.04 \
 Экзамен 
 ____________________________________
