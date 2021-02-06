@@ -1,7 +1,7 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2021_6_sem.md)
 ____________________________________
 # Программирование
-[Павлюк А.А.]() \
+[Павлюк А.А.](https://www.linkedin.com/in/alexander-pavlyuk-a1695664/) \
 @bmstu.ru \
 скббота, 8.30-10.15 ауд. 623л (УЛК), 12.00 числитель ауд. 615 л(УЛК) \
 13.02-26.06 \
