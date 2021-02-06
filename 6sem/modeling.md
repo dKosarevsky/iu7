@@ -1,9 +1,9 @@
 [home](https://github.com/dKosarevsky/iu7/blob/master/2021_6_sem.md)
 ____________________________________
 # Моделирование
-[Рудаков Игорь Владимирович](http://www.gpss.ru/people/rudakov_w.html) (529л) \
+[Рудаков Игорь Владимирович](http://www.gpss.ru/people/rudakov_w.html) \
 irudakov@bmstu.ru \
-четверг, 18-30 \
+четверг, 18-30 ауд. 529л (УЛК)\
 11.02-29.04 \
 Экзамен 
 ____________________________________
