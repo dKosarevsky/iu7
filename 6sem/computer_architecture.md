@@ -10,13 +10,10 @@ ____________________________________
 ### Литература
 
 * [Таненбаум Э. 2013. Архитектура компьютера](https://drive.google.com/file/d/1TN4fg_jEPDBOXwggM1gwqmhYWfuS3_lP/view?usp=drivesdk)
-* []()
-* []()
-* []()
 ____________________________________
 ### Занятия (12)
 
-* 08.02
+* 08.02 - [Лекция](https://drive.google.com/folderview?id=1T_1grSgoaM8mTNloslUj1ZeFoPukOxQS)
 * 15.02
 * 01.03
 * 15.03
