@@ -9,7 +9,7 @@ sasha@bmstu.ru \
 ____________________________________
 ### Литература
 
-* [Таненбаум Э., Остин Т. Архитектура компьютера. 6-е изд. — СПб.: Питер, 2013. — 816 с.](https://drive.google.com/file/d/1TN4fg_jEPDBOXwggM1gwqmhYWfuS3_lP/view?usp=drivesdk)
+* [Таненбаум Э., Остин Т. Архитектура компьютера. 6-е изд. Питер, 2013. 816 с.](https://drive.google.com/file/d/1TN4fg_jEPDBOXwggM1gwqmhYWfuS3_lP/view?usp=drivesdk)
 ____________________________________
 ### Занятия (12)
 
