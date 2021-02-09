@@ -13,7 +13,7 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
-* 08.02 - [Лекция. История ЭВМ](https://drive.google.com/folderview?id=1T_1grSgoaM8mTNloslUj1ZeFoPukOxQS)
+* 08.02 - [Историческое введение в специальность](https://drive.google.com/folderview?id=1T_1grSgoaM8mTNloslUj1ZeFoPukOxQS)
 * 15.02
 * 01.03
 * 15.03
