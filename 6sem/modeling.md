@@ -14,6 +14,7 @@ ____________________________________
 * Б.Я. Советов, С.А. Яковлев, Компьютерное моделирование систем. Практикум. Учебное пособие для СПО. 4-е издание, переработанное и дополненное. 2019. [Читать онлайн](https://www.biblio-online.ru/viewer/kompyuternoe-modelirovanie-sistem-praktikum-431169#page/1)
 * Б.Я. Советов, С.А. Яковлев, Моделирование систем. Практикум. Учебное пособие для бакалавров. 4-е издание, переработанное и дополненное. 2019. [Читать онлайн](https://www.biblio-online.ru/viewer/modelirovanie-sistem-praktikum-425258#page/1)
 * [Т.Дж. Шрайбер. Моделирование на GPSS. 1980.](https://drive.google.com/file/d/1rqWlMGy3ViUmhpJFsk5YAPAVHhSn06FQ/view?usp=sharing)
+* [Д. Н. ШЕВЧЕНКО, И. Н. КРАВЧЕНЯ ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ НА GPSS. Гомель. 2007](https://drive.google.com/file/d/1Q5MTmsGUifXuHtacWb8eYlMAaoG0w52N/view?usp=sharing)
 ____________________________________
 ### Занятия (12)
 
