@@ -2,7 +2,7 @@
 ____________________________________
 # Основы WEB разработки
 [Бекасов Денис Евгеньевич](http://bekas.github.io/html/about.html) \
-bekasovdenis@gmail.com @bekas \
+bekasov@bmstu.ru bekasovdenis@gmail.com @bekas \
 пятница, 18-30 ауд. 529л (УЛК)\
 12.02-30.04 \
 Экзамен 
