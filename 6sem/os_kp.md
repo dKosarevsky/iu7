@@ -14,3 +14,5 @@ ____________________________________
 * []()
 * []()
 ____________________________________
+
+* [Мониторы](https://drive.google.com/file/d/1s1mj_clLzlHACjJCfjfpbXrLjG4G2Z4p/view)
