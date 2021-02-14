@@ -16,7 +16,7 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
-* 09.02 - [Лекция](https://drive.google.com/file/d/1-ykcpnIO4WJdA1VqhPKLDHcCEdPx0wuJ/view?usp=sharing)
+* 09.02 - [Лекция](https://drive.google.com/file/d/1-ykcpnIO4WJdA1VqhPKLDHcCEdPx0wuJ/view?usp=sharing) | [Слайды](https://drive.google.com/file/d/1ce1Zzl5OHW6TPyqbl94E4v3MqBEwAT7b/view?usp=sharing)
 * 16.02
 * 02.03
 * 09.03
