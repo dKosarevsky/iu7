@@ -16,7 +16,7 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
-* 12.02 - [Вводная лекция](https://drive.google.com/folderview?id=1V04sCKqZaxEM2BgV1Ph8uhl72H65hXqS) | [Слайды](https://drive.google.com/file/d/1-0xmgL7fMbeH2mF1yxtqs-FNFGcujFTK/view?usp=sharing)
+* 12.02 - Введение [audio](https://drive.google.com/folderview?id=1V04sCKqZaxEM2BgV1Ph8uhl72H65hXqS) | [slides](https://drive.google.com/file/d/1-0xmgL7fMbeH2mF1yxtqs-FNFGcujFTK/view?usp=sharing)
 * 19.02
 * 26.02
 * 05.03
