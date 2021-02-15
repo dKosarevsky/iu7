@@ -13,8 +13,8 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
-* 08.02 - [Историческое введение в специальность](https://drive.google.com/folderview?id=1T_1grSgoaM8mTNloslUj1ZeFoPukOxQS)
-* 15.02
+* 08.02 - Историческое введение в специальность [audio](https://drive.google.com/drive/folders/1zGNteYy8Q6k2rITxPbAcSKZFTQiJVe4v?usp=sharing) | [Слайды](https://drive.google.com/drive/folders/1ImWnvDgDKOeGkLqE-wyZN4xa2-nLkl6d?usp=sharing)
+* 15.02 - Ещё немного истории и прочие транзисторы [audio](https://drive.google.com/drive/folders/1WbhkvydjtCEpQz_IQ6SRLdJgTvSvI3oR?usp=sharing) | [Слайды](https://drive.google.com/drive/folders/1naDJjA2BqVqMbFmpwfhFmf5AeL7kZICf?usp=sharing)
 * 01.03
 * 15.03
 * 22.03
