@@ -24,8 +24,8 @@ Computer Science Center [Видео](https://www.lektorium.tv/course/22846)
 ____________________________________
 ### Занятия (12)
 
-* 09.02 - Введение [audio](https://drive.google.com/file/d/1-ykcpnIO4WJdA1VqhPKLDHcCEdPx0wuJ/view?usp=sharing) | [slides](https://drive.google.com/file/d/1ce1Zzl5OHW6TPyqbl94E4v3MqBEwAT7b/view?usp=sharing)
-* 16.02 - Введение 2 [audio](https://drive.google.com/folderview?id=1Wz-jI1cZNmSR2jriK9Hg0dB0Xre_lFyV) [slides]()
+* 09.02 - Введение [audio](https://drive.google.com/folderview?id=1X-IvEpFmA5deZPewODVsuqSUs-s5szoR) | [slides](https://drive.google.com/file/d/1ce1Zzl5OHW6TPyqbl94E4v3MqBEwAT7b/view?usp=sharing)
+* 16.02 - Введение 2 [audio](https://drive.google.com/folderview?id=1Wz-jI1cZNmSR2jriK9Hg0dB0Xre_lFyV) | [slides](https://drive.google.com/folderview?id=1Wzeh3bbvwLXV_Cev71h6Z50Cy2m8-EdW)
 * 02.03
 * 09.03
 * 16.03
