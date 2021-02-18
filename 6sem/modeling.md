@@ -19,7 +19,7 @@ ____________________________________
 ### Занятия (12)
 
 * 11.02 - [Вводная лекция. ВКР](https://drive.google.com/folderview?id=1UeBUN2vmAjCUwSmiK265Qw25Fblfsh6M)
-* 18.02 - [Типы моделирования](https://drive.google.com/file/d/1XSrSsimgAYlZF0s7uGcuoTjA373U-eOF/view?usp=drivesdk)
+* 18.02 - [Классификация видов моделирования](https://drive.google.com/file/d/1XSrSsimgAYlZF0s7uGcuoTjA373U-eOF/view?usp=drivesdk)
 * 25.02
 * 04.03
 * 11.03
