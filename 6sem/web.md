@@ -9,10 +9,8 @@ bekasov@bmstu.ru bekasovdenis@gmail.com @bekas \
 ____________________________________
 ### Литература
 
-* []()
-* []()
-* []()
-* []()
+* [JavaScript. Полное руководство. 7-е издание Дэвид Флэнаган 2021](https://drive.google.com/file/d/19K1wtjEAWUnl_lY8hjm4QwvcXboHRfzv/view?usp=sharing)
+
 ____________________________________
 ### Занятия (12)
 
