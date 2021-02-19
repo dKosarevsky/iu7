@@ -11,12 +11,14 @@ ____________________________________
 
 * [JavaScript. Полное руководство. 7-е издание Дэвид Флэнаган 2021](https://drive.google.com/file/d/19K1wtjEAWUnl_lY8hjm4QwvcXboHRfzv/view?usp=sharing)
 * [Современный JavaScript для нетерпеливых Кэй С. Хорстман 2021](https://drive.google.com/file/d/1aoqXcfUQnxkiI_bDk4mbmMd9OfgU26rc/view?usp=sharing)
+* [Современный учебник JavaScript](http://learn.javascript.ru)
+* [JavaScript MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
 ____________________________________
 ### Занятия (12)
 
 * 12.02 - Введение [audio](https://drive.google.com/folderview?id=1V04sCKqZaxEM2BgV1Ph8uhl72H65hXqS) | [slides](https://drive.google.com/file/d/1-0xmgL7fMbeH2mF1yxtqs-FNFGcujFTK/view?usp=sharing)
-* 19.02
+* 19.02 - Вебсервер [audio](https://drive.google.com/folderview?id=1Xqy-KoQrTbE9v8bMtC5ySFdf5Ry2YO4I) | [slides]()
 * 26.02
 * 05.03
 * 12.03
