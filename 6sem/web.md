@@ -10,6 +10,7 @@ ____________________________________
 ### Литература
 
 * [JavaScript. Полное руководство. 7-е издание Дэвид Флэнаган 2021](https://drive.google.com/file/d/19K1wtjEAWUnl_lY8hjm4QwvcXboHRfzv/view?usp=sharing)
+* [Современный JavaScript для нетерпеливых Кэй С. Хорстман 2021](https://drive.google.com/file/d/1aoqXcfUQnxkiI_bDk4mbmMd9OfgU26rc/view?usp=sharing)
 
 ____________________________________
 ### Занятия (12)
