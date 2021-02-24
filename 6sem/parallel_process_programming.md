@@ -9,7 +9,7 @@ sasha@bmstu.ru \
 ____________________________________
 ### Литература
 
-* [Writing Message Passing Parallel Programs with MPI]()
+* [Writing Message Passing Parallel Programs with MPI](https://t.me/c/1171046126/415)
 * [Многопоточность в Python](https://github.com/tkhirianov/pydatan/blob/main/lesson_3/Less_3.ipynb)
 ____________________________________
 ### Занятия (12)
