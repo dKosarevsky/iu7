@@ -7,12 +7,7 @@ ryaz_nu@mail.ru \
 05.05-30.06 \
 Курсовой проект
 ____________________________________
-### Литература
-
-* []()
-* []()
-* []()
-* []()
 ____________________________________
 
+* [audio about course project](https://drive.google.com/file/d/1X9Lgqf9RNVVkEbrz7A3uMkpwgKWHRldA/view?usp=sharing)
 * [Мониторы](https://drive.google.com/file/d/1s1mj_clLzlHACjJCfjfpbXrLjG4G2Z4p/view)
