@@ -19,7 +19,7 @@ ____________________________________
 
 * 12.02 - Введение [audio](https://drive.google.com/folderview?id=1V04sCKqZaxEM2BgV1Ph8uhl72H65hXqS) | [slides](https://drive.google.com/file/d/1-0xmgL7fMbeH2mF1yxtqs-FNFGcujFTK/view?usp=sharing)
 * 19.02 - Вебсервер [audio](https://drive.google.com/folderview?id=1Xqy-KoQrTbE9v8bMtC5ySFdf5Ry2YO4I) | [slides]()
-* 26.02
+* 26.02 - Проектирование веб-приложений [audio](https://drive.google.com/drive/folders/1Inh6TsR5FRISH2SuEpWJKUknf9uwoPfW?usp=sharing) | [slides](https://drive.google.com/file/d/10r-6mI8HZx1F1-bK9ZwPcbN826V0cnCE/view?usp=sharing) | [MPA приложение на ASP.NET Core](https://github.com/DenisBabarykin/AspMvcExample) | [SPA приложения с фронтом на Angular и бэкендом на ASP.NET Core](https://github.com/webber1580/angular-lecture)
 * 05.03
 * 12.03
 * 19.03
