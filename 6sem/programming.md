@@ -16,6 +16,7 @@ __________
 ____________________________________
 ### Литература
 
+* [course gitlab](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021)
 * [C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development](https://drive.google.com/file/d/1rupiW7VXN2WrwqV3j34NtuuNfLbYYa5n/view?usp=sharing)
 * [Pro Git Scott Chacon 2012-08-31](https://drive.google.com/file/d/1vS4fdeEeuly8QajccmhmTn1rHPK00lIq/view?usp=sharing)
 * [Паттерны объектно-ориентированного проектирования. Юбилейное издайние легендарной книги банды четырёх. 2020. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides](https://drive.google.com/file/d/1EXsKAMcRRgx_20azZSLDOcEpIuP0URYs/view?usp=sharing)
