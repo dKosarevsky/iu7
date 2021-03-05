@@ -22,7 +22,7 @@ ____________________________________
 * 11.02 - [Вводная лекция. ВКР](https://drive.google.com/folderview?id=1UeBUN2vmAjCUwSmiK265Qw25Fblfsh6M)
 * 18.02 - [Классификация видов моделирования](https://drive.google.com/file/d/1XSrSsimgAYlZF0s7uGcuoTjA373U-eOF/view?usp=drivesdk)
 * 25.02 - [audio](https://drive.google.com/file/d/1YlHLIFpFET8xJOLXOz95-uibmJDLNlMc/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12854-5-osnovnye-ponyatiya-teorii-modelirovaniya.html) | [Лаба_1](https://github.com/dKosarevsky/modelling_lab_001) :heavy_check_mark:
-* 04.03 - [audio]() | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12856-7-formalizaciya-i-algoritmizaciya-processa-funkcionirovaniya-slozhnyh-sistem.html)
+* 04.03 - [audio](https://drive.google.com/drive/folders/17s7Rx73Di1R2jLT-WFU7CaYPzHf9EUKc?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12856-7-formalizaciya-i-algoritmizaciya-processa-funkcionirovaniya-slozhnyh-sistem.html)
 * 11.03
 * 18.03
 * 25.03
