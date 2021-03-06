@@ -26,7 +26,7 @@ ____________________________________
 * 13.02
 * 20.02
 * 27.02 - Введение. [video](https://www.youtube.com/watch?v=QPZbfCso-AE&feature=youtu.be) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2001%20-%20%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson01) | [ДЗ 1. Научи меня печатать.](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/01%20-%20Teach%20me%20how%20to%20type.md) | [Правила выполнения ДЗ](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/git-and-gitlab.md)
-* 13.03
+* 13.03 - Структура программы и конструкция языка. [video]() | [slides]() | [code]()
 * 20.03
 * 27.03
 * 03.04
