@@ -27,7 +27,7 @@ ____________________________________
 
 * 09.02 - Введение [audio](https://drive.google.com/folderview?id=1X-IvEpFmA5deZPewODVsuqSUs-s5szoR) | [slides](https://drive.google.com/file/d/1ce1Zzl5OHW6TPyqbl94E4v3MqBEwAT7b/view?usp=sharing)
 * 16.02 - Введение 2 [audio](https://drive.google.com/folderview?id=1Wz-jI1cZNmSR2jriK9Hg0dB0Xre_lFyV) | [slides](https://drive.google.com/folderview?id=1Wzeh3bbvwLXV_Cev71h6Z50Cy2m8-EdW)
-* 02.03 - Тяжеловесные и облегченные процессы [audio](https://drive.google.com/file/d/1HI-Yd8Mf6JVw9h5HvQkDnwoIVhDNFU46/view?usp=sharing) | [slides](https://drive.google.com/file/d/1pQF8T_WKO8l_rxGTfdyV1-hZDGeVIeYV/view?usp=sharing) | [task_lab_001](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [yEd Graph Editor](https://www.yworks.com/products/yed) | [res_lab_001](https://bit.ly/3uVhC3Q)
+* 02.03 - Тяжеловесные и облегченные процессы [audio](https://drive.google.com/file/d/1HI-Yd8Mf6JVw9h5HvQkDnwoIVhDNFU46/view?usp=sharing) | [slides](https://drive.google.com/file/d/1pQF8T_WKO8l_rxGTfdyV1-hZDGeVIeYV/view?usp=sharing) | [task_lab_001](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [yEd Graph Editor](https://www.yworks.com/products/yed) | [SEF_lab_001](https://github.com/dKosarevsky/SEF_lab_001)
 * 09.03
 * 16.03
 * 23.03
