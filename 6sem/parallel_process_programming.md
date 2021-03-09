@@ -15,10 +15,10 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
-* 10.02 - Вводная лекция. MGI, Fortran, C и вот это всё...
-* 17.02 - Лаба. Основы работы с кластером, доступы, подключение, основные команды Linux.
-* 24.02 - Лекция + лаба
-* 03.03 - Лекция
+* 10.02 - Вводная лекция. MGI, Fortran, C и вот это всё... [audio]()
+* 17.02 - Лаба. Основы работы с кластером, доступы, подключение, основные команды Linux. [audio](https://drive.google.com/drive/folders/1vqXji6oxqEMNqDAdwZHegTh0LL0CxIx4?usp=sharing)
+* 24.02 - Лекция + лаба [audio](https://drive.google.com/drive/folders/1fayW6PycUKYFL3BEsA5Q6lF3R8jC3D7V?usp=sharing)
+* 03.03 - Лекция [audio](https://drive.google.com/drive/folders/1oEy8pcXu2fb_l5NnvuqUR43kSRrUhKQ0?usp=sharing)
 * 10.03
 * 17.03
 * 24.03
