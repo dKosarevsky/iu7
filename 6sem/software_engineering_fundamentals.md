@@ -40,5 +40,10 @@ ____________________________________
 ____________________________________
 ### Лабы
 По каждой лабе необходимо реализовать отчёт, в котором указать ТЗ, пример кода (основные функции), диаграмму (блок-схема, ?) и результаты тестирования (показать, что при таких-то значения получили такие-то результаты) и отправить на почту преподавателю.
-* Лаба 1 [task_lab_001](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [yEd Graph Editor](https://www.yworks.com/products/yed) | [SEF_lab_001](https://github.com/dKosarevsky/SEF_lab_001)
+
+[yEd Graph Editor](https://www.yworks.com/products/yed)
+
+* Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [SEF_lab_001](https://github.com/dKosarevsky/SEF_lab_001)
+* Лаба 2 [task]() | [SEF_lab_002]()
+
 ____________________________________
