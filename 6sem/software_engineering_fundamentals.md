@@ -43,7 +43,7 @@ ____________________________________
 
 [yEd Graph Editor](https://www.yworks.com/products/yed)
 
-* Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [SEF_lab_001](https://github.com/dKosarevsky/SEF_lab_001)
-* Лаба 2 [task]() | [SEF_lab_002]()
+* Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab_001) | [web](https://share.streamlit.io/dkosarevsky/sef_lab_001/main/integral_trapezoidal.py)
+* Лаба 2 [task]() | [web]() | [web]()
 
 ____________________________________
