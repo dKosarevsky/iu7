@@ -34,6 +34,6 @@ ____________________________________
 ____________________________________
 ### Лабы
 
-* [Лаба_1](https://github.com/dKosarevsky/modelling_lab_001) :heavy_check_mark:
-* [Лаба_2](https://github.com/dKosarevsky/modelling_lab_002)
+* Лаба_1 [code](https://github.com/dKosarevsky/modelling_lab_001) | [web](https://share.streamlit.io/dkosarevsky/modelling_lab_001/main/pseudo_random_nums.py) :heavy_check_mark:
+* Лаба_2 [code](https://github.com/dKosarevsky/modelling_lab_002) | [web]()
 ____________________________________
