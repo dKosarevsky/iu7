@@ -40,7 +40,7 @@ ____________________________________
 ____________________________________
 ### Лабы
 [gitlab](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry)
-* Lab_001 [task](https://docs.google.com/document/d/1juMMuM1sPiGiarZvb6ayGVMWipH5DAFG1jhSJSFu5Z8/edit) | [vk api token](https://vkhost.github.io/) | [MR](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/merge_requests/1)
-* Lab_002 [task](https://docs.google.com/document/d/11eO7kLHwSbBLq9oUsbe24e2mr35XOnBNDcg5waaPeEs/edit?usp=sharing) | [MR]()
-* Lab_003 [task]() | [MR]() сначала ER-диаграмма
+* Lab_001 [task](https://docs.google.com/document/d/1juMMuM1sPiGiarZvb6ayGVMWipH5DAFG1jhSJSFu5Z8/edit) | [vk api token](https://vkhost.github.io/) | [branch](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/tree/lab_001) | [MR](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/merge_requests/1)
+* Lab_002 [task](https://docs.google.com/document/d/11eO7kLHwSbBLq9oUsbe24e2mr35XOnBNDcg5waaPeEs/edit?usp=sharing) | [branch](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/tree/lab_002) | [branch]()
+* Lab_003 [task]() | [MR]() | [MR]() ER-диаграмма
 ____________________________________
