@@ -28,7 +28,7 @@ ____________________________________
 * 12.02 - Введение [audio](https://drive.google.com/folderview?id=1V04sCKqZaxEM2BgV1Ph8uhl72H65hXqS) | [slides](https://drive.google.com/file/d/1-0xmgL7fMbeH2mF1yxtqs-FNFGcujFTK/view?usp=sharing)
 * 19.02 - Вебсервер [audio](https://drive.google.com/folderview?id=1Xqy-KoQrTbE9v8bMtC5ySFdf5Ry2YO4I) | [slides](https://drive.google.com/file/d/1anXMaL9EEWCfO6IIKiqNj1U65tmZDyD_/view?usp=drivesdk)
 * 26.02 - Проектирование веб-приложений [audio](https://drive.google.com/drive/folders/1Inh6TsR5FRISH2SuEpWJKUknf9uwoPfW?usp=sharing) | [slides](https://drive.google.com/file/d/10r-6mI8HZx1F1-bK9ZwPcbN826V0cnCE/view?usp=sharing) | [MPA приложение на ASP.NET Core](https://github.com/DenisBabarykin/AspMvcExample) | [SPA приложения с фронтом на Angular и бэкендом на ASP.NET Core](https://github.com/webber1580/angular-lecture)
-* 05.03 - Базёнки [audio](https://drive.google.com/drive/folders/1WQqXNoqQ98j-pQYD3eIDYXVEWWBqJT-l?usp=sharing) | [slides]()
+* 05.03 - Базёнки [audio](https://drive.google.com/drive/folders/1WQqXNoqQ98j-pQYD3eIDYXVEWWBqJT-l?usp=sharing) | [slides](https://drive.google.com/file/d/1OiYFh-s6ypOIPJ5U_ZgEHyqfQjg5rIgf/view?usp=sharing)
 * 12.03 - UI/UX Основы проектирования [audio](https://drive.google.com/drive/folders/1Le7-ZATD0E5hClegqJx2ILVdsFhmOx5o?usp=sharing) | [slides](https://drive.google.com/file/d/1F_YlVFA0K65WHqRhJZxIa1NyL5wktC7z/view?usp=sharing)
 * 19.03
 * 26.03
