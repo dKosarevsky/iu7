@@ -41,7 +41,7 @@ ____________________________________
 ### Лабы
 По каждой лабе необходимо реализовать отчёт, в котором указать ТЗ, пример кода (основные функции), диаграмму (блок-схема, ?) и результаты тестирования (показать, что при таких-то значения получили такие-то результаты) и отправить на почту преподавателю.
 
-[Правила оформления ЛР](https://drive.google.com/file/d/1AmmGrvlktDKe_SML_xjXIn-vLTN_OyJD/view?usp=sharing)
+[Правила оформления ЛР](https://drive.google.com/file/d/1AmmGrvlktDKe_SML_xjXIn-vLTN_OyJD/view?usp=sharing) |
 [yEd Graph Editor](https://www.yworks.com/products/yed)
 
 * Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab_001) | [web](https://share.streamlit.io/dkosarevsky/sef_lab_001/main/integral_trapezoidal.py)
