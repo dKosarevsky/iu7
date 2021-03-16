@@ -16,7 +16,7 @@ ____________________________________
 * 08.02 - Историческое введение в специальность [audio](https://drive.google.com/drive/folders/1zGNteYy8Q6k2rITxPbAcSKZFTQiJVe4v?usp=sharing) | [slides](https://drive.google.com/drive/folders/1ImWnvDgDKOeGkLqE-wyZN4xa2-nLkl6d?usp=sharing)
 * 15.02 - Ещё немного истории и прочие транзисторы [audio](https://drive.google.com/drive/folders/1WbhkvydjtCEpQz_IQ6SRLdJgTvSvI3oR?usp=sharing) | [slides](https://drive.google.com/drive/folders/1naDJjA2BqVqMbFmpwfhFmf5AeL7kZICf?usp=sharing)
 * 01.03 - Лекция [audio](https://drive.google.com/drive/folders/1XMwAzTe4R77YWjSIyZ4pI6AZ932KiWUw?usp=sharing)
-* 15.03
+* 15.03 - Лекция
 * 22.03
 * 29.03
 * 05.04
