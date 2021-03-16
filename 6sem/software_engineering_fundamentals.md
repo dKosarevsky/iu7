@@ -46,6 +46,6 @@ ____________________________________
 
 * Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab_001) | [web](https://share.streamlit.io/dkosarevsky/sef_lab_001/main/integral_trapezoidal.py)
 * Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов.
-* Лаба 3 [task]()
+* Лаба 3 task: Блок-схемы
 * 
 ____________________________________
