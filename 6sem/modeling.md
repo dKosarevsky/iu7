@@ -34,6 +34,9 @@ ____________________________________
 ____________________________________
 ### Лабы
 
-* Лаба_1 [code](https://github.com/dKosarevsky/modelling_lab_001) | [web](https://share.streamlit.io/dkosarevsky/modelling_lab_001/main/pseudo_random_nums.py) :heavy_check_mark:
-* Лаба_2 [code](https://github.com/dKosarevsky/modelling_lab_002) | [web](https://share.streamlit.io/dkosarevsky/modelling_lab_002/main/random_variables.py)
+[all labs code](https://github.com/dKosarevsky/modelling_labs) | [all labs on web page](https://share.streamlit.io/dkosarevsky/modelling_labs/main.py)
+
+* Лаба_1 Исследование последовательности псевдослучайных чисел :heavy_check_mark:
+* Лаба_2 Исследование случайных величин
+* Лаба_3 
 ____________________________________
