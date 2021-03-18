@@ -37,6 +37,6 @@ ____________________________________
 [all labs code](https://github.com/dKosarevsky/modelling_labs) | [all labs on web page](https://share.streamlit.io/dkosarevsky/modelling_labs/main.py)
 
 * Лаба_1 Исследование последовательности псевдослучайных чисел :heavy_check_mark:
-* Лаба_2 Исследование случайных величин
+* Лаба_2 Исследование случайных величин :heavy_check_mark:
 * Лаба_3 
 ____________________________________
