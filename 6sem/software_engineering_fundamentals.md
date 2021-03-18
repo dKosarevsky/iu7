@@ -10,6 +10,7 @@ solodovnikov@bmstu.ru \
 ____________________________________
 ### Литература
 
+* Мифический человеко-месяц, или Как создаются программные системы | Фредерик Брукс | 2007 [Книга](https://drive.google.com/file/d/1x1cg9F5_UBLZSwJehPQZEW4bwOV8Ta4k/view?usp=sharing)
 * Иванова Г.С. Технология программирования: Учебник для
 вузов. - М.: Изд-во МГТУ им. Н.Э. Баумана, 2016. - 334 с. [Книга](https://drive.google.com/file/d/1wFK_jeNbkaiTbHETLBjOg4Pn1kOJggE-/view?usp=sharing)
 * Орлов С. А., Цилькер Б. Я. Технологии разработки
