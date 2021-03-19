@@ -24,7 +24,7 @@ ____________________________________
 * 25.02 - [audio](https://drive.google.com/file/d/1YlHLIFpFET8xJOLXOz95-uibmJDLNlMc/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12854-5-osnovnye-ponyatiya-teorii-modelirovaniya.html)
 * 04.03 - [audio](https://drive.google.com/drive/folders/17s7Rx73Di1R2jLT-WFU7CaYPzHf9EUKc?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12856-7-formalizaciya-i-algoritmizaciya-processa-funkcionirovaniya-slozhnyh-sistem.html)
 * 11.03 - [audio](https://drive.google.com/file/d/16mEF2o8b3s922smvBimoLLuNydmSbXya/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12826-10-vychislitelnaya-sistema-kak-obekt-modelirovaniya.html)
-* 18.03
+* 18.03 - [audio](https://drive.google.com/file/d/1pTUjmAtesAV9u8yf0bHh7pwBFc4z_ZwT/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12828-12-nepreryvno-stohasticheskie-modeli-q-shemy.html)
 * 25.03
 * 01.04
 * 08.04
