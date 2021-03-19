@@ -30,7 +30,7 @@ ____________________________________
 * 16.02 - Лекция 2 Проблема сложности ПО [audio](https://drive.google.com/folderview?id=1Wz-jI1cZNmSR2jriK9Hg0dB0Xre_lFyV) | [slides](https://drive.google.com/folderview?id=1Wzeh3bbvwLXV_Cev71h6Z50Cy2m8-EdW)
 * 02.03 - Лекция 3 Тяжеловесные и облегченные процессы [audio](https://drive.google.com/file/d/1HI-Yd8Mf6JVw9h5HvQkDnwoIVhDNFU46/view?usp=sharing) | [slides](https://drive.google.com/file/d/1pQF8T_WKO8l_rxGTfdyV1-hZDGeVIeYV/view?usp=sharing)
 * 09.03 - Лекция 4 Управление требованиями [audio](https://drive.google.com/file/d/1lTQi87xl5jXzRVcQ8Qrmo0SQOQ_k662K/view?usp=sharing) | [slides](https://drive.google.com/file/d/1eMDbz2LwQO6PJnMuPuGXYee0YWRZgYuA/view?usp=sharing)
-* 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides]()
+* 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides](https://drive.google.com/file/d/1QIvTk7fuDUYVYf3hItfbLJj35-zl1Gpl/view?usp=sharing)
 * 23.03
 * 30.03
 * 06.04
@@ -47,6 +47,6 @@ ____________________________________
 
 * Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py)
 * Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов.
-* Лаба 3 task: Блок-схемы
+* Лаба 3 task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
 * 
 ____________________________________
