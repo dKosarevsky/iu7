@@ -30,7 +30,7 @@ ____________________________________
 * 26.02 - Проектирование веб-приложений [audio](https://drive.google.com/drive/folders/1Inh6TsR5FRISH2SuEpWJKUknf9uwoPfW?usp=sharing) | [slides](https://drive.google.com/file/d/10r-6mI8HZx1F1-bK9ZwPcbN826V0cnCE/view?usp=sharing) | [MPA на ASP.NET Core](https://github.com/DenisBabarykin/AspMvcExample) | [SPA Angular + ASP.NET Core](https://github.com/webber1580/angular-lecture)
 * 05.03 - Данные в веб-приложении. Модель. БД. [audio](https://drive.google.com/drive/folders/1WQqXNoqQ98j-pQYD3eIDYXVEWWBqJT-l?usp=sharing) | [slides](https://drive.google.com/file/d/1OiYFh-s6ypOIPJ5U_ZgEHyqfQjg5rIgf/view?usp=sharing)
 * 12.03 - UI/UX Основы проектирования [audio](https://drive.google.com/drive/folders/1Le7-ZATD0E5hClegqJx2ILVdsFhmOx5o?usp=sharing) | [slides](https://drive.google.com/file/d/1F_YlVFA0K65WHqRhJZxIa1NyL5wktC7z/view?usp=sharing)
-* 19.03 - HTML [audio]() | [slides]()
+* 19.03 - HTML [audio](https://drive.google.com/drive/folders/1v5RegD0DRAIfEfNwHLzdBVXrKp4_WZyy?usp=sharing) | [slides](https://drive.google.com/file/d/1klgURis1sKR9Vn_bj8LxU2u0G6S9TNmD/view?usp=sharing)
 * 26.03
 * 02.04
 * 09.04
