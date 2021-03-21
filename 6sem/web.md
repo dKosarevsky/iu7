@@ -42,6 +42,6 @@ ____________________________________
 [gitlab](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry) | [github](https://github.com/dKosarevsky/web-labs)
 
 * Lab_001 [task](https://docs.google.com/document/d/1juMMuM1sPiGiarZvb6ayGVMWipH5DAFG1jhSJSFu5Z8/edit) | [branch](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/tree/lab_001) | [MR](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/merge_requests/1) | [vk api token](https://vkhost.github.io/) :heavy_check_mark:
-* Lab_002 [task](https://docs.google.com/document/d/11eO7kLHwSbBLq9oUsbe24e2mr35XOnBNDcg5waaPeEs/edit?usp=sharing) | [branch](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/tree/lab_002) | [MR](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/blob/lab_002/lab_report/lab_report_002.md)
+* Lab_002 [task](https://docs.google.com/document/d/11eO7kLHwSbBLq9oUsbe24e2mr35XOnBNDcg5waaPeEs/edit?usp=sharing) | [branch](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/tree/lab_002) | [MR](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/merge_requests/2)
 * Lab_003 [task](https://docs.google.com/document/d/1Ce3tNSpX7tmgDfZzUahy6fnpEzv15EbNIQAUK3YQS20/edit?usp=sharing) | [branch]() | [MR]()
 ____________________________________
