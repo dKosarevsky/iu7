@@ -31,7 +31,7 @@ ____________________________________
 * 02.03 - Лекция 3 Тяжеловесные и облегченные процессы [audio](https://drive.google.com/file/d/1HI-Yd8Mf6JVw9h5HvQkDnwoIVhDNFU46/view?usp=sharing) | [slides](https://drive.google.com/file/d/1pQF8T_WKO8l_rxGTfdyV1-hZDGeVIeYV/view?usp=sharing)
 * 09.03 - Лекция 4 Управление требованиями [audio](https://drive.google.com/file/d/1lTQi87xl5jXzRVcQ8Qrmo0SQOQ_k662K/view?usp=sharing) | [slides](https://drive.google.com/file/d/1eMDbz2LwQO6PJnMuPuGXYee0YWRZgYuA/view?usp=sharing)
 * 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides](https://drive.google.com/file/d/1QIvTk7fuDUYVYf3hItfbLJj35-zl1Gpl/view?usp=sharing)
-* 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio]() | [slides]()
+* 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio](https://drive.google.com/drive/folders/1-Hb97SmIaelFVrj-aFCB0zLEtsRQjzZd?usp=sharing) | [slides]()
 * 30.03
 * 06.04
 * 13.04
@@ -45,8 +45,8 @@ ____________________________________
 [Правила оформления ЛР](https://drive.google.com/file/d/1AmmGrvlktDKe_SML_xjXIn-vLTN_OyJD/view?usp=sharing) |
 [yEd Graph Editor](https://www.yworks.com/products/yed)
 
-* Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py)
-* Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов.
+* Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py) :heavy_check_mark:
+* Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. [report_word](https://mttoffice-my.sharepoint.com/personal/dkosarevsky_mtt_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkosarevsky_mtt_ru%2FDocuments%2Fbmstu%2Fsef) | [report_pdf](https://github.com/dKosarevsky/SEF_lab/blob/main/Lab_report.pdf)
 * Лаба 3 task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
 * 
 ____________________________________
