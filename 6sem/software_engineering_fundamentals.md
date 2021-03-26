@@ -43,10 +43,10 @@ ____________________________________
 По каждой лабе необходимо реализовать отчёт, в котором указать ТЗ, пример кода (основные функции), диаграмму (блок-схема, ?) и результаты тестирования (показать, что при таких-то значения получили такие-то результаты) и отправить на почту преподавателю.
 
 [Правила оформления ЛР](https://drive.google.com/file/d/1AmmGrvlktDKe_SML_xjXIn-vLTN_OyJD/view?usp=sharing) |
-[yEd Graph Editor](https://www.yworks.com/products/yed)
+[yEd Graph Editor](https://www.yworks.com/products/yed) | [report_word](https://mttoffice-my.sharepoint.com/personal/dkosarevsky_mtt_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkosarevsky_mtt_ru%2FDocuments%2Fbmstu%2Fsef) | [report_pdf](https://github.com/dKosarevsky/SEF_lab/blob/main/Lab_report.pdf)
 
 * Лаба 1 [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py) :heavy_check_mark:
-* Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. [report_word](https://mttoffice-my.sharepoint.com/personal/dkosarevsky_mtt_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkosarevsky_mtt_ru%2FDocuments%2Fbmstu%2Fsef) | [report_pdf](https://github.com/dKosarevsky/SEF_lab/blob/main/Lab_report.pdf)
+* Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. 
 * Лаба 3 task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
-* 
+* Лаба 4 task: 
 ____________________________________
