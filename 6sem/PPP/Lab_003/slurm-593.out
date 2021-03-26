@@ -1,0 +1,38 @@
+Hello from processor node-6[6] 5 of 10  
+Hello from processor node-1[6] 0 of 10  
+Hello from processor node-10[7] 9 of 10  
+Hello from processor node-3[6] 2 of 10  
+Hello from processor node-2[6] 1 of 10  
+Hello from processor node-7[6] 6 of 10  
+Hello from processor node-5[6] 4 of 10  
+Hello from processor node-4[6] 3 of 10  
+Hello from processor node-9[6] 8 of 10  
+Hello from processor node-8[6] 7 of 10  
+myrank =  1       10   11   12   13   14   15   16   17   18   19
+myrank =  2       10   11   12   13   14   15   16   17   18   19
+myrank =  3       10   11   12   13   14   15   16   17   18   19
+myrank =  4       10   11   12   13   14   15   16   17   18   19
+myrank =  5       10   11   12   13   14   15   16   17   18   19
+myrank =  6       10   11   12   13   14   15   16   17   18   19
+myrank =  7       10   11   12   13   14   15   16   17   18   19
+myrank =  8       10   11   12   13   14   15   16   17   18   19
+myrank =  0       10   11   12   13   14   15   16   17   18   19
+myrank =  9       10   11   12   13   14   15   16   17   18   19
+myrank =  1       10   11   12   13   14   15   16   17   18   19
+myrank =  1     1034 1035 1036 1037 1038 1039 1040 1041 1042 1043
+myrank =  9       10   11   12   13   14   15   16   17   18   19
+myrank =  9     9226 9227 9228 9229 9230 9231 9232 9233 9234 9235
+myrank =  2       10   11   12   13   14   15   16   17   18   19
+myrank =  2     2058 2059 2060 2061 2062 2063 2064 2065 2066 2067
+myrank =  5       10   11   12   13   14   15   16   17   18   19
+myrank =  5     5130 5131 5132 5133 5134 5135 5136 5137 5138 5139
+myrank =  3       10   11   12   13   14   15   16   17   18   19
+myrank =  3     3082 3083 3084 3085 3086 3087 3088 3089 3090 3091
+myrank =  7       10   11   12   13   14   15   16   17   18   19
+myrank =  7     7178 7179 7180 7181 7182 7183 7184 7185 7186 7187
+myrank =  4       10   11   12   13   14   15   16   17   18   19
+myrank =  4     4106 4107 4108 4109 4110 4111 4112 4113 4114 4115
+myrank =  8       10   11   12   13   14   15   16   17   18   19
+myrank =  8     8202 8203 8204 8205 8206 8207 8208 8209 8210 8211
+myrank =  6       10   11   12   13   14   15   16   17   18   19
+myrank =  6     6154 6155 6156 6157 6158 6159 6160 6161 6162 6163
