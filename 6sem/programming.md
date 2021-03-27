@@ -26,17 +26,17 @@ ____________________________________
 * 20.02
 * 27.02 - Введение. [video](https://www.youtube.com/watch?v=QPZbfCso-AE&feature=youtu.be) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2001%20-%20%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson01)
 * 13.03 - Структура программы и конструкция языка. [video](https://www.youtube.com/watch?v=KV-wP4CSTIs) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2002%20-%20%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B,%20%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson02)
-* 20.03
-* 27.03
-* 03.04
-* 10.04
-* 17.04
-* 24.04
-* 15.05
-* 22.05
-* 29.05
-* 05.06
-* 19.06
+* 20.03 Типы данных [video](https://youtu.be/re2va2Hxkek) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2003%20-%20%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson03)
+* 27.03 Конструкции языка, массивы, список, словарь [video](https://www.youtube.com/watch?v=6AcFmklgCCU) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2004%20-%20%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81,%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B,%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA,%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson04)
+* 03.04  [video]() | [slides]() | [code]()
+* 10.04  [video]() | [slides]() | [code]()
+* 17.04  [video]() | [slides]() | [code]()
+* 24.04  [video]() | [slides]() | [code]()
+* 15.05  [video]() | [slides]() | [code]()
+* 22.05  [video]() | [slides]() | [code]()
+* 29.05  [video]() | [slides]() | [code]()
+* 05.06  [video]() | [slides]() | [code]()
+* 19.06  [video]() | [slides]() | [code]()
 * 26.06 - Экзамен
 ____________________________________
 ### ДЗ
