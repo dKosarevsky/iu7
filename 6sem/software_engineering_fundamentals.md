@@ -31,7 +31,7 @@ ____________________________________
 * 02.03 - Лекция 3 Тяжеловесные и облегченные процессы [audio](https://drive.google.com/file/d/1HI-Yd8Mf6JVw9h5HvQkDnwoIVhDNFU46/view?usp=sharing) | [slides](https://drive.google.com/file/d/1pQF8T_WKO8l_rxGTfdyV1-hZDGeVIeYV/view?usp=sharing)
 * 09.03 - Лекция 4 Управление требованиями [audio](https://drive.google.com/file/d/1lTQi87xl5jXzRVcQ8Qrmo0SQOQ_k662K/view?usp=sharing) | [slides](https://drive.google.com/file/d/1eMDbz2LwQO6PJnMuPuGXYee0YWRZgYuA/view?usp=sharing)
 * 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides](https://drive.google.com/file/d/1QIvTk7fuDUYVYf3hItfbLJj35-zl1Gpl/view?usp=sharing)
-* 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio](https://drive.google.com/drive/folders/1-Hb97SmIaelFVrj-aFCB0zLEtsRQjzZd?usp=sharing) | [slides]()
+* 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio](https://drive.google.com/drive/folders/1-Hb97SmIaelFVrj-aFCB0zLEtsRQjzZd?usp=sharing) | [slides](https://drive.google.com/file/d/1bkCArCCwQzdriVJDGy1ryp4HveNvHgQL/view?usp=sharing)
 * 30.03
 * 06.04
 * 13.04
@@ -49,4 +49,5 @@ ____________________________________
 * Лаба 2 task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. 
 * Лаба 3 task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
 * Лаба 4 task: 
+* Лаба 5 task: 
 ____________________________________
