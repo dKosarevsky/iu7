@@ -18,7 +18,7 @@ ____________________________________
 * 01.03 - Лекция [audio](https://drive.google.com/drive/folders/1XMwAzTe4R77YWjSIyZ4pI6AZ932KiWUw?usp=sharing)
 * 15.03 - Лекция
 * 22.03 - Лекция
-* 29.03
+* 29.03 - Лекция
 * 05.04
 * 12.04
 * 19.04
