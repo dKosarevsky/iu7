@@ -26,7 +26,7 @@ ____________________________________
 * 11.03 - [audio](https://drive.google.com/file/d/16mEF2o8b3s922smvBimoLLuNydmSbXya/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12826-10-vychislitelnaya-sistema-kak-obekt-modelirovaniya.html)
 * 18.03 - [audio](https://drive.google.com/file/d/1pTUjmAtesAV9u8yf0bHh7pwBFc4z_ZwT/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12828-12-nepreryvno-stohasticheskie-modeli-q-shemy.html)
 * 25.03 - [audio](https://drive.google.com/drive/folders/12FLI1EzLOjbHyc44RDduc8LW7V4tbISa?usp=sharing) | [метод Монте-Карло](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12831-15-metod-statisticheskih-ispytaniy-metod-monte-karlo.html) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12829-13-metod-psevdo-sostoyaniy.html)
-* 01.04
+* 01.04 - [audio](https://drive.google.com/drive/folders/1DdMRU6FcX5b9S4RJwQHiDITEnmk13Z2m?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12832-16-algoritmicheskiy-sposob.html)
 * 08.04
 * 15.04
 * 22.04
