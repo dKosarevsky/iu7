@@ -32,7 +32,7 @@ ____________________________________
 * 09.03 - Лекция 4 Управление требованиями [audio](https://drive.google.com/file/d/1lTQi87xl5jXzRVcQ8Qrmo0SQOQ_k662K/view?usp=sharing) | [slides](https://drive.google.com/file/d/1eMDbz2LwQO6PJnMuPuGXYee0YWRZgYuA/view?usp=sharing)
 * 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides](https://drive.google.com/file/d/1QIvTk7fuDUYVYf3hItfbLJj35-zl1Gpl/view?usp=sharing)
 * 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio](https://drive.google.com/drive/folders/1-Hb97SmIaelFVrj-aFCB0zLEtsRQjzZd?usp=sharing) | [slides](https://drive.google.com/file/d/1bkCArCCwQzdriVJDGy1ryp4HveNvHgQL/view?usp=sharing)
-* 30.03 - Лекция 7 Проектирование. Представление знаний о сложных системах 3 [audio]() | [slides]()
+* 30.03 - Лекция 7 Проектирование. Представление знаний о сложных системах 3 [audio](https://drive.google.com/file/d/16Gu2icO8-KfLqek6MAzsBY4m0ji775QC/view?usp=sharing) | [slides](https://drive.google.com/file/d/1O2i5RpqwE1h4x_vLOwvgYPtiUuEp2ICh/view?usp=sharing)
 * 06.04
 * 13.04
 * 20.04
