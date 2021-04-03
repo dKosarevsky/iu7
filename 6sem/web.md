@@ -31,8 +31,8 @@ ____________________________________
 * 05.03 - Данные в веб-приложении. Модель. БД. [audio](https://drive.google.com/drive/folders/1WQqXNoqQ98j-pQYD3eIDYXVEWWBqJT-l?usp=sharing) | [slides](https://drive.google.com/file/d/1OiYFh-s6ypOIPJ5U_ZgEHyqfQjg5rIgf/view?usp=sharing)
 * 12.03 - UI/UX Основы проектирования [audio](https://drive.google.com/drive/folders/1Le7-ZATD0E5hClegqJx2ILVdsFhmOx5o?usp=sharing) | [slides](https://drive.google.com/file/d/1F_YlVFA0K65WHqRhJZxIa1NyL5wktC7z/view?usp=sharing)
 * 19.03 - HTML [audio](https://drive.google.com/drive/folders/1v5RegD0DRAIfEfNwHLzdBVXrKp4_WZyy?usp=sharing) | [slides](https://drive.google.com/file/d/1klgURis1sKR9Vn_bj8LxU2u0G6S9TNmD/view?usp=sharing)
-* 26.03
-* 02.04
+* 26.03 - CSS
+* 02.04 - JS
 * 09.04
 * 16.04
 * 23.04
