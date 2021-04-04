@@ -45,7 +45,7 @@ ____________________________________
 [Правила оформления ЛР](https://drive.google.com/file/d/1AmmGrvlktDKe_SML_xjXIn-vLTN_OyJD/view?usp=sharing) |
 [yEd Graph Editor](https://www.yworks.com/products/yed) | [report_word](https://mttoffice-my.sharepoint.com/personal/dkosarevsky_mtt_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkosarevsky_mtt_ru%2FDocuments%2Fbmstu%2Fsef) | [report_pdf](https://github.com/dKosarevsky/SEF_lab/blob/main/Lab_report.pdf)
 
-* Лаба 1 :heavy_check_mark: [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py) :heavy_check_mark:
+* Лаба 1 :heavy_check_mark: [task](https://drive.google.com/file/d/13J3lXk6yW5GEJ8QDCI6faG3hWt5BBT9S/view?usp=sharing) | [code](https://github.com/dKosarevsky/SEF_lab) | [web](https://share.streamlit.io/dkosarevsky/sef_lab/main/integral_trapezoidal.py)
 * Лаба 2 :heavy_check_mark: task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. 
 * Лаба 3 :heavy_check_mark: task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
 * Лаба 4 task: 
