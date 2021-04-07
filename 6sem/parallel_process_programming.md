@@ -20,10 +20,10 @@ ____________________________________
 * 24.02 - Лекция + лаба [audio](https://drive.google.com/drive/folders/1fayW6PycUKYFL3BEsA5Q6lF3R8jC3D7V?usp=sharing)
 * 03.03 - Лекция [audio](https://drive.google.com/drive/folders/1oEy8pcXu2fb_l5NnvuqUR43kSRrUhKQ0?usp=sharing)
 * 10.03 - Лаба + лекция [audio](https://drive.google.com/drive/folders/1hKlhbzZHRIi6ScSdsXLGy9ZKnA2wPf-N?usp=sharing)
-* 17.03
-* 24.03
-* 31.03
-* 07.04
+* 17.03 - Лаба + лекция
+* 24.03 - Лаба + лекция
+* 31.03 - Лаба + лекция
+* 07.04 - Лаба OpenMP
 * 14.04
 * 21.04
 * 28.04 - Зачёт
@@ -34,4 +34,5 @@ ____________________________________
 * [Lab_002](PPP/Lab_002/lab_002.md)
 * [Lab_003](PPP/Lab_003/lab_003.md)
 * [Lab_004](PPP/Lab_004/lab_004.md)
+* [Lab_005 OpenMP](PPP/Lab_005/lab_005.md)
 ____________________________________
