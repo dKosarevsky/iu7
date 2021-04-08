@@ -33,7 +33,7 @@ ____________________________________
 * 16.03 - Лекция 5 Проектирование. Представление знаний о сложных системах [audio](https://drive.google.com/file/d/1IX2mZsqbjQLEVT212qqI0pM-Pk8TKYxP/view?usp=sharing) | [slides](https://drive.google.com/file/d/1QIvTk7fuDUYVYf3hItfbLJj35-zl1Gpl/view?usp=sharing)
 * 23.03 - Лекция 6 Проектирование. Представление знаний о сложных системах 2 [audio](https://drive.google.com/drive/folders/1-Hb97SmIaelFVrj-aFCB0zLEtsRQjzZd?usp=sharing) | [slides](https://drive.google.com/file/d/1bkCArCCwQzdriVJDGy1ryp4HveNvHgQL/view?usp=sharing)
 * 30.03 - Лекция 7 Проектирование. Представление знаний о сложных системах 3 [audio](https://drive.google.com/file/d/16Gu2icO8-KfLqek6MAzsBY4m0ji775QC/view?usp=sharing) | [slides](https://drive.google.com/file/d/1O2i5RpqwE1h4x_vLOwvgYPtiUuEp2ICh/view?usp=sharing)
-* 06.04
+* 06.04- Лекция 8 Проектирование. Представление знаний о сложных системах 4 [audio](https://drive.google.com/file/d/1Xs7eo1qBi7NqK6tpmrt6TMLF81T_EA4G/view?usp=sharing) | [slides](https://drive.google.com/file/d/1hq5JYaT0YrMz42IojihP-lS7lVja8dXe/view?usp=sharing)
 * 13.04
 * 20.04
 * 27.04
