@@ -40,7 +40,7 @@ ____________________________________
 * 26.06 - Экзамен
 ____________________________________
 ### ДЗ
-[gitlab](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021)
+[course repo on gitlab](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021) |
 [Правила выполнения ДЗ](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/git-and-gitlab.md)
 
 * [ДЗ 1. Научи меня печатать.](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/01%20-%20Teach%20me%20how%20to%20type.md) | :heavy_check_mark: [MR task_1](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/1) | :heavy_check_mark: [MR task_2](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/2) | :heavy_check_mark: [MR task_3](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/3) | :white_check_mark: [MR task_4](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/4) | [MR task_5]()
