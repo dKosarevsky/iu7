@@ -36,9 +36,9 @@ ____________________________________
 
 [all labs code](https://github.com/dKosarevsky/modelling_labs) | [all labs on web page](https://share.streamlit.io/dkosarevsky/modelling_labs/main.py) | [gpss-py](https://github.com/pmantellini/gpss-py) | [gpss-python](https://github.com/DimaOrdenov/gpss-python)
 
-* Лаба_1 Исследование последовательности псевдослучайных чисел :heavy_check_mark:
-* Лаба_2 Исследование случайных величин :heavy_check_mark:
-* Лаба_3 Предельные вероятности состояний. Уравнения Колмогорова :white_check_mark:
-* Лаба_4 
+* Лаба_1 :heavy_check_mark: Исследование последовательности псевдослучайных чисел
+* Лаба_2 :heavy_check_mark: Исследование случайных величин
+* Лаба_3 :white_check_mark: Предельные вероятности состояний. Уравнения Колмогорова
+* Лаба_4 :white_check_mark: Программная имитация i-го прибора
 * Лаба_5 
 ____________________________________
