@@ -31,12 +31,12 @@ ____________________________________
 * 05.03 - Данные в веб-приложении. Модель. БД. [audio](https://drive.google.com/drive/folders/1WQqXNoqQ98j-pQYD3eIDYXVEWWBqJT-l?usp=sharing) | [slides](https://drive.google.com/file/d/1OiYFh-s6ypOIPJ5U_ZgEHyqfQjg5rIgf/view?usp=sharing)
 * 12.03 - UI/UX Основы проектирования [audio](https://drive.google.com/drive/folders/1Le7-ZATD0E5hClegqJx2ILVdsFhmOx5o?usp=sharing) | [slides](https://drive.google.com/file/d/1F_YlVFA0K65WHqRhJZxIa1NyL5wktC7z/view?usp=sharing)
 * 19.03 - HTML [audio](https://drive.google.com/drive/folders/1v5RegD0DRAIfEfNwHLzdBVXrKp4_WZyy?usp=sharing) | [slides](https://drive.google.com/file/d/1klgURis1sKR9Vn_bj8LxU2u0G6S9TNmD/view?usp=sharing)
-* 26.03 - CSS [slides]()
-* 02.04 - JS [audio](https://drive.google.com/file/d/1qEh2kj5ujB-i5EaDO2Ktu_6OVXjV2vGf/view?usp=sharing) | [slides]()
-* 09.04  [audio]() | [slides]()
+* 26.03 - CSS [slides](https://drive.google.com/file/d/1eNtQELqLt13eA6YO8AFpOEXh8zmdiYMY/view?usp=sharing)
+* 02.04 - JS [audio](https://drive.google.com/file/d/1qEh2kj5ujB-i5EaDO2Ktu_6OVXjV2vGf/view?usp=sharing) | [slides](https://drive.google.com/file/d/1UAgs1e7yivtckvpNG0s7CnYKelEZOYtX/view?usp=sharing)
+* 09.04  [slides](https://drive.google.com/file/d/1PizmnxK1ATKNZvgv6UXo-FUSzXrFem_E/view?usp=sharing)
 * 16.04  [audio]() | [slides]()
 * 23.04  [audio]() | [slides]()
-* 30.04 - Экзамен
+* 30.04 - Экзамен. [Билеты](https://drive.google.com/file/d/15SHrjMXbLE7ihWge5kSmGi7-P2qqivHQ/view?usp=sharing)
 ____________________________________
 ### Лабы
 [gitlab](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry) | [github](https://github.com/dKosarevsky/web-labs) | [vk api token](https://vkhost.github.io/) | [CSS BOX-SHADOW](https://active-vision.ru/icon/box-shadow/) | [issue-boards](https://git.iu7.bmstu.ru/iu7-second-degree/web-labs-2021/web-labs-2021-kosarevsky-dmitry/-/boards) | [fastapi-react](https://github.com/Buuntu/fastapi-react) | [Figma руководство](https://slashdesigner.ru/figma-guide) | [Figma hotkeys](https://slashdesigner.ru/figma-shorts) | [REST](https://restfulapi.net/)
