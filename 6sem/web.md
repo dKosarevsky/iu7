@@ -34,8 +34,8 @@ ____________________________________
 * 26.03 - CSS [slides](https://drive.google.com/file/d/1eNtQELqLt13eA6YO8AFpOEXh8zmdiYMY/view?usp=sharing)
 * 02.04 - JS [audio](https://drive.google.com/file/d/1qEh2kj5ujB-i5EaDO2Ktu_6OVXjV2vGf/view?usp=sharing) | [slides](https://drive.google.com/file/d/1UAgs1e7yivtckvpNG0s7CnYKelEZOYtX/view?usp=sharing)
 * 09.04  [slides](https://drive.google.com/file/d/1PizmnxK1ATKNZvgv6UXo-FUSzXrFem_E/view?usp=sharing)
-* 16.04  Защита лаб [slides]()
-* 23.04  Защита лаб [slides]()
+* 16.04  Настоящее и будущее WEB [slides](https://drive.google.com/file/d/1uOEhh6sQzs6x5eV13N31ddIrAlOtr7Q3/view?usp=sharing)
+* 23.04  Защита лаб
 * 30.04 - Экзамен. [Билеты](https://drive.google.com/file/d/15SHrjMXbLE7ihWge5kSmGi7-P2qqivHQ/view?usp=sharing)
 ____________________________________
 ### Лабы
