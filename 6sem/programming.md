@@ -31,7 +31,7 @@ ____________________________________
 - 27.03 - Обработка ошибок. System.Object [video](https://youtu.be/xpfoTpwaxuk&list=PLl2sJ30rgYIq3MdZ9fWjIKICBDFssG_sT) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2005%20-%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA.%20System.Object.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/tree/master/lessons/Lesson05)
 * 03.04 - Структуры: конструкторы, поля, константы, методы, свойства [video]() | [slides]() | [code]()
 * 10.04 - Индексаторы, операторы. ref и readonly структуры. Перечисления [video](https://www.youtube.com/watch?v=AFyHPxTNog0&list=PLl2sJ30rgYIq3MdZ9fWjIKICBDFssG_sT) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2007%20-%20%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_.pdf) | [code]()
-* 17.04  [video]() | [slides]() | [code]()
+* 17.04 - Классы [video](https://youtu.be/-o66ExUpcgE&list=PLl2sJ30rgYIq3MdZ9fWjIKICBDFssG_sT) | [slides](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/lessons/C%23%20-%2008%20-%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B.pdf) | [code](https://gitlab.com/alexander-pavlyuk-courses/csharp/eshop-showcase)
 * 24.04  [video]() | [slides]() | [code]()
 * 15.05  [video]() | [slides]() | [code]()
 * 22.05  [video]() | [slides]() | [code]()
@@ -46,5 +46,5 @@ ____________________________________
 
 * [ДЗ 1. Научи меня печатать.](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/01%20-%20Teach%20me%20how%20to%20type.md) | :heavy_check_mark: [MR task_1](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/1) | :heavy_check_mark: [MR task_2](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/2) | :heavy_check_mark: [MR task_3](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/3) | :white_check_mark: [MR task_4](https://gitlab.com/bmstu_c_sharp/001_teach-me-to-print/-/merge_requests/4) | [MR task_5]()
 * [ДЗ 2. Вычисление интеграла численным методом.](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/02%20-%20Let%20us%20do%20some%20math.md) | :white_check_mark: [MR](https://gitlab.com/bmstu_c_sharp/numeric-analysis/-/merge_requests/1) 
-* [ДЗ 3. .]() | [MR]() 
+* [ДЗ 3. XML parser.](https://gitlab.com/alexander-pavlyuk-courses/csharp/c-sharp-course-spring-2021/-/blob/master/assignments/03%20-%20XML%20parser.md) | [MR]() 
 ____________________________________
