@@ -35,7 +35,7 @@ ____________________________________
 * 30.03 - Лекция 7 Проектирование. Представление знаний о сложных системах 3 [audio](https://drive.google.com/file/d/16Gu2icO8-KfLqek6MAzsBY4m0ji775QC/view?usp=sharing) | [slides](https://drive.google.com/file/d/1O2i5RpqwE1h4x_vLOwvgYPtiUuEp2ICh/view?usp=sharing)
 * 06.04- Лекция 8 Проектирование. Представление знаний о сложных системах 4 [audio](https://drive.google.com/file/d/1Xs7eo1qBi7NqK6tpmrt6TMLF81T_EA4G/view?usp=sharing) | [slides](https://drive.google.com/file/d/1hq5JYaT0YrMz42IojihP-lS7lVja8dXe/view?usp=sharing)
 * 13.04 - Лекция 9 Архитектурное проектирование [audio](https://drive.google.com/file/d/1iIiyVn6V2dlBCjHyCUXJstZNQvXXXV0k/view?usp=sharing) | [slides](https://drive.google.com/file/d/1JA4V4bdlYItecq3dGvXCz6AI9kcKkOlI/view?usp=sharing)
-* 20.04 - Лекция 10 Проектирование пользовательских интерфейсов
+* 20.04 - Лекция 10 Проектирование пользовательских интерфейсов (UI) [slides](https://drive.google.com/file/d/16zMkLi9Zgowyqdg_oMuFSBi8sk8QUkKZ/view?usp=sharing)
 * 27.04
 * 04.05 - Зачёт
 ____________________________________
