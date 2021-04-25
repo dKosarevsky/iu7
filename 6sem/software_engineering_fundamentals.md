@@ -49,5 +49,5 @@ ____________________________________
 * Лаба 2 :heavy_check_mark: task: Разработать спецификацию требований (техническое задание) на программный продукт, реализованный в Лабораторной работе №1, и включить в отчет как один из разделов. 
 * Лаба 3 :heavy_check_mark: task: Нарисовать блок-схемы алгоритмов, реализованных в программном продукте из Лабораторной работы №1. Включить их в отчет.
 * Лаба 4 :heavy_check_mark: [task](https://docs.google.com/document/d/1wS2wpMcQyAUCi0pJ-orV3KinqsuopTK4/edit) 
-* Лаба 5 :white_check_mark: [task](https://docs.google.com/document/d/1o_JUbds1QcizDIusggl_JCqKGGChp8wczoITmoXKb0Y/edit)
+* Лаба 5 :heavy_check_mark: [task](https://docs.google.com/document/d/1o_JUbds1QcizDIusggl_JCqKGGChp8wczoITmoXKb0Y/edit)
 ____________________________________
