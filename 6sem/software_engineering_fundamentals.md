@@ -36,8 +36,8 @@ ____________________________________
 * 06.04- Лекция 8 Проектирование. Представление знаний о сложных системах 4 [audio](https://drive.google.com/file/d/1Xs7eo1qBi7NqK6tpmrt6TMLF81T_EA4G/view?usp=sharing) | [slides](https://drive.google.com/file/d/1hq5JYaT0YrMz42IojihP-lS7lVja8dXe/view?usp=sharing)
 * 13.04 - Лекция 9 Архитектурное проектирование [audio](https://drive.google.com/file/d/1iIiyVn6V2dlBCjHyCUXJstZNQvXXXV0k/view?usp=sharing) | [slides](https://drive.google.com/file/d/1JA4V4bdlYItecq3dGvXCz6AI9kcKkOlI/view?usp=sharing)
 * 20.04 - Лекция 10 Проектирование пользовательских интерфейсов (UI) [slides](https://drive.google.com/file/d/16zMkLi9Zgowyqdg_oMuFSBi8sk8QUkKZ/view?usp=sharing)
-* 27.04
-* 04.05 - Зачёт
+* 27.04 - Лекция 11 Оценка исходного кода, тестирование и отладка [slides](https://drive.google.com/file/d/1X2wh5VTRDOEXqc_zJpXvkZ7rEgrTuhjJ/view?usp=sharing)
+* 11.05 - Зачёт
 ____________________________________
 ### Лабы
 По каждой лабе необходимо реализовать отчёт, в котором указать ТЗ, пример кода (основные функции), диаграмму (блок-схема, ?) и результаты тестирования (показать, что при таких-то значения получили такие-то результаты) и отправить на почту преподавателю.
