@@ -29,12 +29,10 @@ ____________________________________
 * 01.04 - [audio](https://drive.google.com/drive/folders/1DdMRU6FcX5b9S4RJwQHiDITEnmk13Z2m?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12832-16-algoritmicheskiy-sposob.html)
 * 08.04 - [audio](https://drive.google.com/file/d/1RHpGnoFfAjrZ8V4aW9wXKiHQXaihI76t/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12833-17-modelirovanie-raboty-obsluzhivayuschego-apparata.html)
 * 15.04 - [audio](https://drive.google.com/file/d/13k7hsz2uYrtbSBR52G-i56jNG6rMl09t/view?usp=sharing)
-* 22.04 - []() | []()
+* 22.04 - [audio](https://drive.google.com/file/d/1vjYANg_8yHcqdjj9a9hKd9QBT_HRpTK-/view?usp=sharing) | [Лекция](https://studizba.com/lectures/47-matematika/673-metody-modelirovaniya/12835-19-modelirovanie-sistem-i-yazyki-modelirovaniya.html)
 * 29.04 - []() | []()
-* 06.05 - []() | []()
 * 13.05 - []() | []()
-* 20.05 - []() | []()
-* 27.05 - Экзамен
+* 20.05 - Экзамен
 ____________________________________
 ### Лабы
 
