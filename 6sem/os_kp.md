@@ -8,6 +8,9 @@ ryaz_nu@mail.ru \
 Курсовой проект. \
 Тема: Исследование эффективности многопоточности в алгоритме "Булочная" [Лесли Лэмпорта](http://www.lamport.org/)
 ____________________________________
+
+* [КП](https://mttoffice-my.sharepoint.com/:w:/r/personal/dkosarevsky_mtt_ru/_layouts/15/Doc.aspx?sourcedoc=%7B70BF4CBB-F6E9-4131-93C9-769DC038D8AC%7D&file=OS_KP_Kosarevsky.docx&action=default&mobileredirect=true)
+
 ____________________________________
 
 * [audio about course project](https://drive.google.com/file/d/1X9Lgqf9RNVVkEbrz7A3uMkpwgKWHRldA/view?usp=sharing)
