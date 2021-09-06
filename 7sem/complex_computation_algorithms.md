@@ -1,11 +1,10 @@
 [7-й семестр](../2021_2022_7_sem.md) | [home](../README.md)
 ____________________________________
-# Моделирование
-[Толпинская Наталья Борисовна](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/231-tolpinskaja-natalja-borisovna.html) \
+# Алгоритмы сложных вычислений
 [Ульянов Михаил Васильевич](https://www.hse.ru/org/persons/3807115) \
 muljanov@mail.ru \
 четверг, 18-30 ауд. 530л (УЛК)\
-11.09-30.12 \
+11.11-30.12 \
 Экзамен 
 ____________________________________
 ### Литература
