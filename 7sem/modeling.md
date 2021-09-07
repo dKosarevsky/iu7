@@ -10,7 +10,7 @@ gradov@bmstu.ru \
 ____________________________________
 ### Литература
 
-* 
+* Компьютерные технологии в практике математического моделирования, В. М. Градов, 2006 г. [download](https://drive.google.com/file/d/1FOuxKBjwtqOPpZGEDvz8mEoAeiUyt5MN/view?usp=sharing) | [read](https://bmstu.press/catalog/item/2579/) 
 ____________________________________
 ### Занятия (17)
 
