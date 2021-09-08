@@ -1,7 +1,7 @@
 [7-й семестр](../2021_2022_7_sem.md) | [home](../README.md)
 ____________________________________
 # Проектирование ПО
-[Романова Татьяна Николаевна](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/219-romanova-tatjana-nikolaevna.html) \
+[Романова Татьяна Николаевна](https://wwv.bmstu.ru/ps/~rtn/) \
 @bmstu.ru \
 среда, 18-30 ауд. 536л (УЛК)\
 08.09-01.12 \
@@ -9,7 +9,7 @@ ____________________________________
 ____________________________________
 ### Литература
 
-* 
+* [ЕСПД](https://drive.google.com/file/d/1R1qfW6GxB-C5nDsyhi-0VOpVmsohruw0/view?usp=drivesdk)
 ____________________________________
 ### Занятия (13)
 
