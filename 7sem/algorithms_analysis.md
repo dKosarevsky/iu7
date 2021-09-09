@@ -1,6 +1,6 @@
 [7-й семестр](../2021_2022_7_sem.md) | [home](../README.md)
 ____________________________________
-# Анализ алгоритмов
+# Анализ алгоритмов (на самом "Теория вычислительных процессов")
 [Ульянов Михаил Васильевич](https://www.hse.ru/org/persons/3807115) \
 muljanov@mail.ru \
 четверг, 18-30 ауд. 530л (УЛК)\
@@ -13,7 +13,7 @@ ____________________________________
 ____________________________________
 ### Занятия (8)
 
-* 09.09 - 
+* 09.09 - Введение [audio_1](https://drive.google.com/file/d/1RvXlsMxUAtOXiAz0o3IRjAp1krxMA9mk/view?usp=sharing) | [audio_2](https://drive.google.com/file/d/1RwXxWI2r1ZDyYZdp5nZHrYb7C1QNWvsA/view?usp=sharing) 
 * 16.09 - 
 * 23.09 - 
 * 30.09 - 
