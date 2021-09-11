@@ -13,7 +13,7 @@ ____________________________________
 ____________________________________
 ### Занятия (13)
 
-* 08.09 - Введение. ГОСТ-ы. [audio](https://drive.google.com/file/d/1QcJT_MvzXf4dGI4eH-7eDBRlLSS97ucu/view?usp=drivesdk)
+* 08.09 - Введение. ГОСТ-ы. [audio](https://drive.google.com/file/d/1QcJT_MvzXf4dGI4eH-7eDBRlLSS97ucu/view?usp=drivesdk) | [text](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/ESGzFcQbg5FDnQ4QHKcAq-QBwylbrkHpUoTdnScArxn_jw?e=zwHMmT)
 * 15.09 - 
 * 22.09 - 
 * 29.09 - 
