@@ -13,7 +13,7 @@ ____________________________________
 ____________________________________
 ### Занятия (8)
 
-* 09.09 - Введение [audio_1](https://drive.google.com/file/d/1RvXlsMxUAtOXiAz0o3IRjAp1krxMA9mk/view?usp=sharing) | [audio_2](https://drive.google.com/file/d/1RwXxWI2r1ZDyYZdp5nZHrYb7C1QNWvsA/view?usp=sharing) | [text](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EeCR-CgkfQhIhoviVCObysUBGc1dGwYeVMFxIz5-wJZL8g?e=wa8Mb1) | [proc](https://mttoffice-my.sharepoint.com/:i:/g/personal/dkosarevsky_mtt_ru/EVL-9WGZDSBFrAQggubQWdoBKzE_0cjj93IPaBGNXF0e3A?e=WrgafQ)
+* 09.09 - Введение [audio_1](https://drive.google.com/file/d/1RvXlsMxUAtOXiAz0o3IRjAp1krxMA9mk/view?usp=sharing) | [audio_2](https://drive.google.com/file/d/1RwXxWI2r1ZDyYZdp5nZHrYb7C1QNWvsA/view?usp=sharing) | [text](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EeCR-CgkfQhIhoviVCObysUBGc1dGwYeVMFxIz5-wJZL8g?e=wa8Mb1) | [proccessor_work](https://drive.google.com/file/d/1o5cx1ifeYUBqgLj-8pdOOcLYS2SXZ5Uh/view?usp=sharing)
 * 16.09 - 
 * 23.09 - 
 * 30.09 - 
