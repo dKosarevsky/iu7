@@ -14,7 +14,7 @@ ____________________________________
 ### Занятия (15)
 
 * 06.09 - Введение [audio](https://drive.google.com/file/d/1PntBgDfj19rbym6zNCjf5QelDls6qYot/view?usp=sharing)
-* 13.09 - 
+* 13.09 - Философия Lisp [audio](https://drive.google.com/file/d/1SMYE6SR1js9rFPZ8hNlDDTisaL1IDCIT/view?usp=drivesdk)
 * 20.09 - 
 * 27.09 - 
 * 04.10 - 
