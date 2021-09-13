@@ -9,7 +9,8 @@ nbtol@bmstu.ru \
 ____________________________________
 ### Литература
 
-* 
+* ANSI Common LISP, Пол Грэм, 2012 [download](https://drive.google.com/file/d/1SVQx2i6FflWLqMRhll5oNwWsaJ7wvauv/view?usp=drivesdk)
+* Lisp жемчужины программирования, Александр Попа, 2018 [download](https://drive.google.com/file/d/1SeNLUfnhnwH8yO7_id5plbcmaEAyeHrz/view?usp=drivesdk0)
 ____________________________________
 ### Занятия (15)
 
