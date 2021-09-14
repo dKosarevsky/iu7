@@ -15,7 +15,7 @@ ____________________________________
 ### Занятия (17)
 
 * 07.09 - Введение [audio](https://drive.google.com/file/d/1QHeYy73sANaF7sIn5rQ15ocHBW8J-ijX/view?usp=sharing)
-* 14.09 - Полиномиальная интерполяция (инфа к ЛР1) [audio](https://drive.google.com/file/d/1TAFcJp7l-IYyNpIXB_jieXIuXFTN1387/view?usp=sharing)
+* 14.09 - Полиномиальная интерполяция, полином Ньютона (инфа к ЛР1) [audio](https://drive.google.com/file/d/1TAFcJp7l-IYyNpIXB_jieXIuXFTN1387/view?usp=sharing)
 * 21.09 - 
 * 28.09 - 
 * 05.10 - 
