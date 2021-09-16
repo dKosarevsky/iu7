@@ -14,7 +14,7 @@ ____________________________________
 ### Занятия (13)
 
 * 08.09 - Введение. ГОСТ-ы. [audio](https://drive.google.com/file/d/1QcJT_MvzXf4dGI4eH-7eDBRlLSS97ucu/view?usp=drivesdk) | [text](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/ESGzFcQbg5FDnQ4QHKcAq-QBwylbrkHpUoTdnScArxn_jw?e=zwHMmT)
-* 15.09 - 
+* 15.09 - Модели ЖЦ ПО. [audio_1](https://drive.google.com/file/d/1TIFx8WdkJBngiN2yaAlSkt2RzBhAZtSE/view?usp=drivesdk) | [audio_2](https://drive.google.com/file/d/1TN4mXzttFEvDfOTyPDBU_Xs7wsLIV60m/view?usp=drivesdk)
 * 22.09 - 
 * 29.09 - 
 * 06.10 - 
