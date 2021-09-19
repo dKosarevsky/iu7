@@ -33,7 +33,7 @@ ____________________________________
 * 21.12 - 
 * 28.12 - 
 ____________________________________
-### Лабы
+### [Лабы](https://github.com/dKosarevsky/math_modelling) [web](https://share.streamlit.io/dkosarevsky/math_modelling/main.py)
 
 [Образец отчëта](https://drive.google.com/file/d/1QvUfj3Nes5LNWiID_EVlKp_jWDxWp7za/view?usp=drivesdk)
 
