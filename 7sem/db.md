@@ -11,6 +11,7 @@ ____________________________________
 
 * [ЯД](https://disk.yandex.ru/d/oOuH2kERvVcuNw)
 * [sql-ex.ru](http://sql-ex.ru)
+* [Connect Streamlit to databases](https://docs.streamlit.io/en/latest/tutorial/databases.html)
 ____________________________________
 ### Занятия (16)
 
