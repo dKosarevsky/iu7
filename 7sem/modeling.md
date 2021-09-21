@@ -37,7 +37,7 @@ ____________________________________
 
 [Образец отчëта](https://drive.google.com/file/d/1QvUfj3Nes5LNWiID_EVlKp_jWDxWp7za/view?usp=drivesdk)
 
-* ЛР1 [task](https://drive.google.com/file/d/1QwHVucHN7fRppGzdvjr6miAAFGcpjFm9/view?usp=drivesdk)
+* ЛР1 [task](https://drive.google.com/file/d/1QwHVucHN7fRppGzdvjr6miAAFGcpjFm9/view?usp=drivesdk) :heavy_check_mark:
 * ЛР2 [task](https://drive.google.com/file/d/1Qxi5joBj3c8iLXoR56npEyiSG39n0IcZ/view?usp=drivesdk)
 * ЛР3 [task](https://drive.google.com/file/d/1QyOaiP_HlbfBtRAy1G-B-Xgnl7pDT1St/view?usp=drivesdk)
 * ЛР4 [task](https://drive.google.com/file/d/1R022ThJfPbRxiwUXq3x9ZGEUex5_j_dz/view?usp=drivesdk)
