@@ -15,7 +15,7 @@ ____________________________________
 
 * 10.09 - пары не было.
 * 17.09 - Введение. Структурное программирование [audio](https://drive.google.com/file/d/1VOwASPbu_n9Yu32Jex9DPAKtr0qV4Mb1/view?usp=drivesdk)
-* 24.09 - 
+* 24.09 - Основы ООП. Плюсы и минусы. [audio](https://drive.google.com/file/d/1_dC8ZY8sPL4P36Lh89jrShWeMfvh4puj/view?usp=drivesdk)
 * 01.10 - 
 * 08.10 - 
 * 15.10 - 
