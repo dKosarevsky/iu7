@@ -16,8 +16,8 @@ ____________________________________
 ____________________________________
 ### Занятия (16)
 
-* 11.09 - Введение
-* 18.09 - Реляционная модель данных
+* 11.09 - Введение [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 18.09 - Реляционная модель данных [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 25.09 - 
 * 02.10 - 
 * 09.10 - 
