@@ -9,7 +9,8 @@ ktassov@bmstu.ru \
 ____________________________________
 ### Литература
 
-* 
+* [Паттерны объектно-ориентированного проектирования. Юбилейное издайние легендарной книги банды четырёх. 2020. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides](https://drive.google.com/file/d/1EXsKAMcRRgx_20azZSLDOcEpIuP0URYs/view?usp=sharing)
+
 ____________________________________
 ### Занятия (13)
 
