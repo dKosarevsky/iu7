@@ -9,6 +9,8 @@ ktassov@bmstu.ru \
 ____________________________________
 ### Литература
 
+* Консольные приложения в среде Microsoft Visual C++ 7.0 .NET 2005. К. Л. Тассов, А. В. Шикуть. 2010 [read](https://bmstu.press/catalog/item/1499/)
+* Программирование на языке C++ в среде Visual Studio CLR Windows Forms. Н. Ю. Рязанова, К. Л. Тассов, М. В. Филиппов. 2017 [read](https://bmstu.press/catalog/item/4646/)
 * Паттерны объектно-ориентированного проектирования. Юбилейное издание легендарной книги банды четырёх. 2020. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides [book](https://drive.google.com/file/d/1EXsKAMcRRgx_20azZSLDOcEpIuP0URYs/view?usp=sharing)
 
 ____________________________________
