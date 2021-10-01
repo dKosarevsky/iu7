@@ -13,6 +13,8 @@ ____________________________________
 * Программирование на языке C++ в среде Visual Studio CLR Windows Forms. Н. Ю. Рязанова, К. Л. Тассов, М. В. Филиппов. 2017 [read](https://bmstu.press/catalog/item/4646/)
 * Паттерны объектно-ориентированного проектирования. Юбилейное издание легендарной книги банды четырёх. 2020. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides [book](https://drive.google.com/file/d/1EXsKAMcRRgx_20azZSLDOcEpIuP0URYs/view?usp=sharing)
 * Оптимизация программ на C++ (2017) Курт Гантерот [book](https://drive.google.com/file/d/12uUcr1hl1islWj9k3TrL7H-D9VBqG7Bn/view?usp=sharing)
+* [Стивен Прата - Язык программирования C++ Лекции и упражнения +файлы примеров кода 2012](https://drive.google.com/drive/folders/147uGgVGdTf4GiAFiO99zyxfoUcshCmWK?usp=sharing)
+* [Стивен Прата - Язык программирования C. Лекции и упражнения. 6-е издание 2015](https://drive.google.com/file/d/1Asn_5ELI7TgTJPTTB8gy4RS-l7MGTFj6/view?usp=sharing)
 
 ____________________________________
 ### Занятия (13)
