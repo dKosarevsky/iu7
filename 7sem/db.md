@@ -17,22 +17,22 @@ ____________________________________
 ____________________________________
 ### Занятия (16)
 
-* 11.09 - Введение [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 18.09 - Реляционная модель данных [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 25.09 - Реляционная алгебра [text](https://docs.google.com/document/d/1_rxWTTrr6TsyncvnZz5VrVTjw2tBDa2G/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 02.10 - 
-* 09.10 - 
-* 16.10 - 
-* 23.10 - 
-* 30.10 - 
-* 06.11 - 
-* 13.11 - 
-* 20.11 - 
-* 27.11 - 
-* 04.12 - 
-* 11.12 - 
-* 18.12 - 
-* 25.12 - 
+* 11.09 - Введение []() | [video](https://disk.yandex.ru/i/dgR_4nPFt4ORvQ) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 18.09 - Реляционная модель данных []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/02%20-%20%D0%A0%D0%9C%D0%94.mp4) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 25.09 - Реляционная алгебра []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/03%20-%20%D0%A0%D0%9C%D0%94.mp4) |  [text](https://docs.google.com/document/d/1_rxWTTrr6TsyncvnZz5VrVTjw2tBDa2G/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
+* 02.10 -  []() | [video]() | []()
+* 09.10 -  []() | [video]() | []()
+* 16.10 -  []() | [video]() | []()
+* 23.10 -  []() | [video]() | []()
+* 30.10 -  []() | [video]() | []()
+* 06.11 -  []() | [video]() | []()
+* 13.11 -  []() | [video]() | []()
+* 20.11 -  []() | [video]() | []()
+* 27.11 -  []() | [video]() | []()
+* 04.12 -  []() | [video]() | []()
+* 11.12 -  []() | [video]() | []()
+* 18.12 -  []() | [video]() | []()
+* 25.12 -  []() | [video]() | []()
 ____________________________________
 ### ДЗ
 
