@@ -10,7 +10,7 @@ ____________________________________
 ### Материалы
 
 * [ЯД](https://disk.yandex.ru/d/oOuH2kERvVcuNw)
-* Эрик Редмонд, Джим. Р. Уилсон. Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL. Под редакцией Жаклин Картер, 2013 [book](https://drive.google.com/file/d/1ZRBn9_tf77ISGha8mKHGitLjCoXKW_T6/view?usp=drivesdk)
+* Эрик Редмонд, Джим. Р. Уилсон. Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL. Под редакцией Жаклин Картер, 2018 [book](https://drive.google.com/file/d/113eNwyWw8hS1T7QuDPxAGWTcIx6DiBNA/view?usp=sharing)
 * [sql-ex.ru](http://sql-ex.ru)
 * [Connect Streamlit to databases](https://docs.streamlit.io/en/latest/tutorial/databases.html)
 * [DE](https://drive.google.com/file/d/1KYzChzis0ZhAiShl2hlnmCV3H-Kuu_mn/view?usp=sharing)
