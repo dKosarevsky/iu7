@@ -34,6 +34,6 @@ ____________________________________
 ____________________________________
 ### Лабы
 
-* составить ТЗ по ГОСТ | [awp](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EbsOXhVq14VOr9ZvFzRX2nYBQrcQ0FIumLy1IXHICL9ixw?email=DKosarevsky%40mtt.ru&e=QnE6AU)
+* составить ТЗ по ГОСТ | [awp](https://docs.google.com/document/d/1wtrzYadlNmucvIY2inD0YQzVC5VyqAit/edit)
 
 ____________________________________
