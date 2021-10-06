@@ -22,7 +22,7 @@ ____________________________________
 * 15.09 - Модели ЖЦ ПО. [audio_1](https://drive.google.com/file/d/1TIFx8WdkJBngiN2yaAlSkt2RzBhAZtSE/view?usp=drivesdk) | [audio_2](https://drive.google.com/file/d/1TN4mXzttFEvDfOTyPDBU_Xs7wsLIV60m/view?usp=drivesdk)
 * 22.09 - IDEF0, DFD, ERD [audio_1](https://drive.google.com/file/d/1Xw-O_cBHiE1H1P1dkQFJUIiq_WVO0d7M/view?usp=sharing) | [audio_2](https://drive.google.com/file/d/1XyeR4qyxAGEj8_11IPo3gJ1uzkQXhnwd/view?usp=sharing) | [audio_3](https://drive.google.com/file/d/1Y0INkWb2jBhkoNLYBcLPH6ncD-sH_BpW/view?usp=sharing) | [text](https://docs.google.com/document/d/1bGsodKlK9p774XCNBRXWPMQ8TlOAvJ2X/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [img_01](https://drive.google.com/file/d/1ze1ak1WZIaMEsbOYDKRXAq7U-5pJKkMX/view?usp=sharing) | [img_02](https://drive.google.com/file/d/1QCKfm-BL3XB5LIN-iT1YhflVI6qnN63q/view?usp=sharing) | [img_03](https://drive.google.com/file/d/1pr1sIrHX9oz5i_M1APgWTr4xc9On5jP-/view?usp=sharing)
 * 29.09 - Use case, UML [audio](https://drive.google.com/file/d/1cBluib0S3nDaKPiEZKTPycGyLXT3nyhK/view?usp=drivesdk)
-* 06.10 - 
+* 06.10 - Очередные диаграммы... [audio](https://drive.google.com/file/d/1gUtCAHi2RT4iJ9uDbOnHXjioXnWiZXuC/view?usp=sharing)
 * 13.10 - 
 * 20.10 - 
 * 27.10 - 
