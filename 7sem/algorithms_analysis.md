@@ -9,6 +9,7 @@ muljanov@mail.ru \
 ____________________________________
 ### Литература
 
+* Амамия M., Танака Ю., АРХИТЕКТУРА ЭВМ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ, 1993 [book](https://drive.google.com/file/d/1i6QckdcFxNHNmO8UwQJF17qjauyEXdjw/view?usp=drivesdk)
 * Конструирование компиляторов для цифровых вычислительных машин, 1971, Дэвид Грис [download](https://drive.google.com/file/d/1Q7AcQaVeQr6jjJFV5HsElRtM6vEO2fb8/view?usp=sharing)
 * Нина Карловна Бари, Тригонометрические ряды Фурье, 1961 [book](https://docviewer.yandex.ru/view/491349911/?page=1&*=f5azzsaZ1BwCzqezzksmQaM3Oz57InVybCI6InlhLWRpc2stcHVibGljOi8vbWJkWkVhVUZuUVE2UjFvSVRzM3E1SUlDUWpuSXkvZjBUNVg4S1JLakF5OD0iLCJ0aXRsZSI6IkJhcmkuZGp2Iiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiI0OTEzNDk5MTEiLCJ0cyI6MTYzMzA3MDc5NDAyOCwieXUiOiI4NzE5MjM4MTUxNTk0NzA5NzIzIn0%3D)
 ____________________________________
