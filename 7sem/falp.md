@@ -20,7 +20,7 @@ ____________________________________
 * 20.09 - Классификация функций [audio](https://drive.google.com/file/d/1Ww-I_8nTgEhWWX3q-IEKVeG202OWFFaH/view?usp=drivesdk) | [text](https://docs.google.com/document/d/1XJQaICiJwfXUwZ-KDt4NDvPyaBXTsuKK/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [img](https://drive.google.com/file/d/1XEpNPiUmuhV2PVj0APUAgsaUbmTxhUea/view?usp=drivesdk)
 * 27.09 - Определение функций [audio](https://drive.google.com/file/d/1ald8jkeLm01mbS7pC769gXEFgtIln-Xq/view?usp=sharing) | [text](https://docs.google.com/document/d/18nJPF6v11jsyfHg7zlOKmoozVxMyHjj2/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 04.10 - Функции mapcar и maplist [audio](https://drive.google.com/file/d/1f0l8b8J7ioP9lY0v3i521vaxHsG3bCTW/view?usp=drivesdk) | [text](https://docs.google.com/document/d/1fCgbVXFQnxtknsqVsfp_1KhLXvNfW1Vs/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 11.10 - Рекурсия [audio](https://drive.google.com/file/d/1ixJwqO5Z-ItmgYubt7qJO2nTbBZUcu6W/view?usp=sharing) | []()
+* 11.10 - Рекурсия [audio](https://drive.google.com/file/d/1ixJwqO5Z-ItmgYubt7qJO2nTbBZUcu6W/view?usp=sharing) | [text](https://docs.google.com/document/d/1jdy_aC1glzPRnhibBpaZG89j8-1BDSBi/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 18.10 - КР по ФП.
 * 25.10 - 
 * 01.11 - 
@@ -34,3 +34,9 @@ ____________________________________
 ____________________________________
 
 * https://github.com/hylang/hy
+* https://github.com/fluentpython/lispy
+
+____________________________________
+
+* КР ФП
+* КР ЛП
