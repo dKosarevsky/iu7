@@ -20,7 +20,7 @@ ____________________________________
 * 21.09 - Полином Эрмита, Лагранжа. Нелинейная, многомерная, хаотичная интерполяция. [audio](https://drive.google.com/file/d/1XXTPHXiQbPoPUOqJccDX8-9emI-lRaxt/view?usp=sharing)
 * 28.09 - Сплайны (инфа к одной из тем КР) [audio](https://drive.google.com/file/d/1bKgaA5o4agUbDMLvoDQUfOuB-kidPxQy/view?usp=drivesdk)
 * 05.10 - Численное интегрирование [audio](https://drive.google.com/file/d/1fjMLRIu2optSBVDby_qygso1dHcDNQmO/view?usp=drivesdk)
-* 12.10 - 
+* 12.10 - Метод Гаусса. Полином Лежандра. [audio](https://drive.google.com/file/d/1jlBNFLRZvxGuQzMUKCfcbH7B5N7DX63H/view?usp=drivesdk)
 * 19.10 - 
 * 26.10 - 
 * 02.11 - 
