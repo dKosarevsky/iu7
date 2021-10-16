@@ -36,7 +36,7 @@ ____________________________________
 ____________________________________
 ### ДЗ
 
-* ДЗ 01. Создание БД [pdf](https://drive.google.com/file/d/1h0V6i-VhOpGULL2OAT7Bf1A0e18vFPzg/view?usp=sharing)
+* ДЗ 01. Создание БД [pdf](https://drive.google.com/file/d/1h0V6i-VhOpGULL2OAT7Bf1A0e18vFPzg/view?usp=sharing) :heavy_check_mark:
 * ДЗ 02. []()
 * ДЗ 03. []()
 * ДЗ 04. []()
