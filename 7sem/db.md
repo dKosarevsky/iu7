@@ -17,25 +17,29 @@ ____________________________________
 ____________________________________
 ### Занятия (16)
 
-* 11.09 - Введение []() | [video](https://disk.yandex.ru/i/dgR_4nPFt4ORvQ) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 18.09 - РМД []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/02%20-%20%D0%A0%D0%9C%D0%94.mp4) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 25.09 - РМД. Реляционная алгебра. НФ []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/03%20-%20%D0%A0%D0%9C%D0%94.mp4) |  [text](https://docs.google.com/document/d/1_rxWTTrr6TsyncvnZz5VrVTjw2tBDa2G/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 02.10 - НФ. SQL []() | []() | [text](https://docs.google.com/document/d/1bXAmTEm5m_LXgjwWFU_JDJ7UINGGVsxd/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 11.09 - Введение [slides]() | [video](https://disk.yandex.ru/i/dgR_4nPFt4ORvQ) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 18.09 - РМД [slides]() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/02%20-%20%D0%A0%D0%9C%D0%94.mp4) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
+* 25.09 - РМД. Реляционная алгебра. НФ [slides]() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/03%20-%20%D0%A0%D0%9C%D0%94.mp4) |  [text](https://docs.google.com/document/d/1_rxWTTrr6TsyncvnZz5VrVTjw2tBDa2G/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
+* 02.10 - Нормализация. SQL [slides]() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/04%20-%20%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.mp4) | [text](https://docs.google.com/document/d/1bXAmTEm5m_LXgjwWFU_JDJ7UINGGVsxd/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 09.10 - пары не было...
-* 16.10 -  []() | []() | []()
-* 23.10 -  []() | []() | []()
-* 30.10 -  []() | []() | []()
-* 06.11 -  []() | []() | []()
-* 13.11 -  []() | []() | []()
-* 20.11 -  []() | []() | []()
-* 27.11 -  []() | []() | []()
-* 04.12 -  []() | []() | []()
-* 11.12 -  []() | []() | []()
-* 18.12 -  []() | []() | []()
-* 25.12 -  []() | []() | []()
+* 16.10 - SQL. Select. [slides]() | [video]() | []()
+* 23.10 -  [slides]() | [video]() | []()
+* 30.10 -  [slides]() | [video]() | []()
+* 06.11 -  [slides]() | [video]() | []()
+* 13.11 -  [slides]() | [video]() | []()
+* 20.11 -  [slides]() | [video]() | []()
+* 27.11 -  [slides]() | [video]() | []()
+* 04.12 -  [slides]() | [video]() | []()
+* 11.12 -  [slides]() | [video]() | []()
+* 18.12 -  [slides]() | [video]() | []()
+* 25.12 -  [slides]() | [video]() | []()
 ____________________________________
 ### ДЗ
 
 * ДЗ 01. Создание БД [pdf](https://drive.google.com/file/d/1h0V6i-VhOpGULL2OAT7Bf1A0e18vFPzg/view?usp=sharing)
+* ДЗ 02. []()
+* ДЗ 03. []()
+* ДЗ 04. []()
+* ДЗ 05. []()
 
 ____________________________________
