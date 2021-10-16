@@ -21,7 +21,7 @@ ____________________________________
 * 18.09 - РМД []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/02%20-%20%D0%A0%D0%9C%D0%94.mp4) | [text](https://docs.google.com/document/d/1l9pf9AYoadHAU-m3ltP02Hnj4B-qSGDZ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 25.09 - РМД. Реляционная алгебра. НФ []() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/03%20-%20%D0%A0%D0%9C%D0%94.mp4) |  [text](https://docs.google.com/document/d/1_rxWTTrr6TsyncvnZz5VrVTjw2tBDa2G/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 02.10 - НФ. SQL []() | []() | [text](https://docs.google.com/document/d/1bXAmTEm5m_LXgjwWFU_JDJ7UINGGVsxd/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 09.10 -  []() | []() | []()
+* 09.10 - пары не было...
 * 16.10 -  []() | []() | []()
 * 23.10 -  []() | []() | []()
 * 30.10 -  []() | []() | []()
