@@ -23,7 +23,7 @@ ____________________________________
 * 02.10 - Нормализация. SQL [slides]() | [video](https://disk.yandex.ru/d/oOuH2kERvVcuNw/04%20-%20%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.mp4) | [text](https://docs.google.com/document/d/1bXAmTEm5m_LXgjwWFU_JDJ7UINGGVsxd/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 09.10 - пары не было...
 * 16.10 - SELECT (JOIN, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, FETCH). INSERT. "Upsert". UPDATE. DELETE. [slides]() | [video]() | []()
-* 23.10 - Window functions. Indexes. [slides]() | [video]() | []()
+* 23.10 - Window functions. CTE. Indexes. [slides]() | [video]() | []()
 * 30.10 -  [slides]() | [video]() | []()
 * 06.11 -  [slides]() | [video]() | []()
 * 13.11 -  [slides]() | [video]() | []()
