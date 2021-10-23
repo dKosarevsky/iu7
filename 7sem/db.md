@@ -14,6 +14,7 @@ ____________________________________
 * [sql-ex.ru](http://sql-ex.ru)
 * [Connect Streamlit to databases](https://docs.streamlit.io/en/latest/tutorial/databases.html)
 * [DE](https://drive.google.com/file/d/1KYzChzis0ZhAiShl2hlnmCV3H-Kuu_mn/view?usp=sharing)
+* [B-tree visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
 ____________________________________
 ### Занятия (16)
 
