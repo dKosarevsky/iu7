@@ -13,6 +13,7 @@ ____________________________________
 ____________________________________
 ### Занятия (12)
 
+* 30.10 - [Исторический очерк и алгоритмическое обеспечение](https://drive.google.com/file/d/1qpK3hTJKupoQ1ALHnQSyUUMK8iGIhNLb/view?usp=drivesdk) | [Машина Поста и формализация термина алгоритм](https://drive.google.com/file/d/1qshVkwYOuB2TD0xDyquaEA23uTDVpQBU/view?usp=drivesdk)
 * 11.11 - 
 * 18.11 - 
 * 25.11 - 
