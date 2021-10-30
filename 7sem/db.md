@@ -25,7 +25,7 @@ ____________________________________
 * 09.10 - пары не было...
 * 16.10 - SELECT (JOIN, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, FETCH). INSERT. "Upsert". UPDATE. DELETE. [slides]() | [video]() | []()
 * 23.10 - Window functions. CTE. Statements. Loops. Exceptions. Indexes. [slides]() | [video]() | []()
-* 30.10 -  [slides]() | [video]() | []()
+* 30.10 - PostgreSQL. Структура БД. [slides]() | [video]() | []()
 * 06.11 -  [slides]() | [video]() | []()
 * 13.11 -  [slides]() | [video]() | []()
 * 20.11 -  [slides]() | [video]() | []()
