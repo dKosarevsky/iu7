@@ -22,7 +22,7 @@ ____________________________________
 * 05.10 - Численное интегрирование [audio](https://drive.google.com/file/d/1fjMLRIu2optSBVDby_qygso1dHcDNQmO/view?usp=drivesdk)
 * 12.10 - Метод Гаусса. Полином Лежандра. [audio](https://drive.google.com/file/d/1jlBNFLRZvxGuQzMUKCfcbH7B5N7DX63H/view?usp=drivesdk)
 * 19.10 - Численное дифференцирование. [audio](https://drive.google.com/file/d/1mV2R2yWyDyhfYJCDB0xTCWUClfmLMCSP/view?usp=drivesdk)
-* 26.10 - 
+* 26.10 - ЛР4 [audio](https://drive.google.com/file/d/1qwa-O6H5k8pVunZmzsRlnP9v_MHgLV-9/view?usp=drivesdk)
 * 02.11 - 
 * 09.11 - 
 * 16.11 - 
