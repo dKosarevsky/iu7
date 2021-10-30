@@ -24,7 +24,7 @@ ____________________________________
 * 02.10 - Нормализация. SQL [slides]() | [video](https://youtu.be/QLb69nv9PvU) | [text](https://docs.google.com/document/d/1bXAmTEm5m_LXgjwWFU_JDJ7UINGGVsxd/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 09.10 - пары не было...
 * 16.10 - SQL. SELECT (JOIN, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, FETCH). INSERT. "Upsert". UPDATE. DELETE. [slides]() | [video](https://youtu.be/p4hPBkQ5YXY) | []()
-* 23.10 - Window functions. CTE. Statements. Loops. Exceptions. Indexes. [slides]() | [video]() | [text](https://docs.google.com/document/d/1rguJvtNBawc8chCy7Ry9jkhS4Dd65QNs/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
+* 23.10 - PL/pgSQL. Window functions. CTE. Statements. Loops. Exceptions. Indexes. [slides]() | [video](https://youtu.be/JMVlVYKPczE) | [text](https://docs.google.com/document/d/1rguJvtNBawc8chCy7Ry9jkhS4Dd65QNs/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 30.10 - PostgreSQL. Структура БД. [slides]() | [video]() | []()
 * 06.11 -  [slides]() | [video]() | []()
 * 13.11 -  [slides]() | [video]() | []()
