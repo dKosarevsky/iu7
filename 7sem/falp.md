@@ -23,7 +23,7 @@ ____________________________________
 * 11.10 - Рекурсия [audio](https://drive.google.com/file/d/1ixJwqO5Z-ItmgYubt7qJO2nTbBZUcu6W/view?usp=sharing) | [text](https://docs.google.com/document/d/1jdy_aC1glzPRnhibBpaZG89j8-1BDSBi/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 18.10 - КР по ФП.
 * 25.10 - Prolog. Введение. [audio](https://drive.google.com/file/d/1pPnHhdvBcsCIcDDhMn92PzwzvKG6Djru/view?usp=drivesdk) | [text](https://docs.google.com/document/d/1rK2Hk9gdZz6k85CLbSvJEG-5bSTR5jli/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 01.11 - 
+* 01.11 - пары не было (ковидные каникулы)
 * 08.11 - 
 * 15.11 - 
 * 22.11 - 
