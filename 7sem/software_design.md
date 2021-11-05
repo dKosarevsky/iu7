@@ -25,8 +25,8 @@ ____________________________________
 * 06.10 - RAD. SADT [slides_RAD](https://docs.google.com/presentation/d/1ir4f9aQmrh-EYVCpwZ4KugJvgXHc9ARQ/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [slides_SADT](https://docs.google.com/presentation/d/1Jl5XMWut9_hq712nsTAKqIrCRjjKpJwj/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [audio](https://drive.google.com/file/d/1gUtCAHi2RT4iJ9uDbOnHXjioXnWiZXuC/view?usp=sharing) | [Методология](https://docs.google.com/document/d/1-R4yT7ohQtutgnbvcvZcpaMs4UgExlMP/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
 * 13.10 - Моделирование процессов [audio](https://drive.google.com/file/d/1ktdmNfTbB9SKPWCCUCMERl50_nwsoqzK/view?usp=drivesdk) | [Методичка](https://drive.google.com/file/d/15-uPLNSjGb14BMaBoHFcbeN9dCJrB7db/view?usp=sharing)
 * 20.10 - Тестирование [audio](https://drive.google.com/file/d/1nFwvjqaNbmrJJjxFmP7TuD99IiUAZXVE/view?usp=sharing) | [Диаграммы размещения](https://docs.google.com/presentation/d/1oAdVMkSWplvhAdl8bZ106qpq74hy-ajz/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true)
-* 27.10 - 
-* 03.11 - 
+* 27.10 - лабы
+* 03.11 - пары не было (ковидные каникулы)
 * 10.11 - 
 * 17.11 - 
 * 24.11 - 
