@@ -33,9 +33,9 @@ ____________________________________
 * 21.12 - 
 * 28.12 - 
 ____________________________________
-### [Лабы](https://github.com/dKosarevsky/math_modelling) [web](https://share.streamlit.io/dkosarevsky/math_modelling/main.py)
+### Лабы
 
-[Образец отчëта](https://drive.google.com/file/d/1QvUfj3Nes5LNWiID_EVlKp_jWDxWp7za/view?usp=drivesdk) | [reports](https://drive.google.com/drive/u/1/folders/18v-mckim--YdG8VvRwP9VMdPmC4AVUGO)
+[code](https://github.com/dKosarevsky/math_modelling) | [web](https://share.streamlit.io/dkosarevsky/math_modelling/main.py) | [reports](https://drive.google.com/drive/u/1/folders/18v-mckim--YdG8VvRwP9VMdPmC4AVUGO)
 
 * ЛР1 [task](https://drive.google.com/file/d/1QwHVucHN7fRppGzdvjr6miAAFGcpjFm9/view?usp=drivesdk) :heavy_check_mark:
 * ЛР2 [task](https://drive.google.com/file/d/1Qxi5joBj3c8iLXoR56npEyiSG39n0IcZ/view?usp=drivesdk)
