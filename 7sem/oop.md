@@ -25,8 +25,8 @@ ____________________________________
 * 01.10 - C++ Функции с переменным числом параметров. Алиасы. Небезопасные указатели. [audio](https://drive.google.com/file/d/1dVdwAZvT-BaPldOnlm3cKr3bLmueWs-O/view?usp=sharing) | [code](c%2B%2B/lec_003/main.cpp)
 * 08.10 - C++ ООП, объекты, классы. [audio](https://drive.google.com/file/d/1iUk8YAw-G726Hlw0GHHvs863q2nYFPN-/view?usp=sharing) | [text](https://docs.google.com/document/d/1ijg_NRYopou-_igHlahUDdNrzvaflqLL/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [img](https://drive.google.com/file/d/1kUiveghDm8xjFGRo9oWRt-tva-7kK1RH/view?usp=sharing) | [code](https://github.com/dKosarevsky/iu7/tree/master/7sem/c%2B%2B/lec_004)
 * 15.10 - C++ Конструкторы, деструкторы. [audio](https://drive.google.com/file/d/1lc5lCv14cN9A7u3UeZqgzwzQR5VNrHRH/view?usp=drivesdk) | [text](https://docs.google.com/document/d/1Tl1UpepSd_vOBYPVN2up4-AYeirt0i1p/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [img](https://drive.google.com/file/d/1VYZdl7jriSoqXv3TGW6xW4WzCmFTyDWS/view?usp=sharing) | [code](https://drive.google.com/file/d/1iJPvNMNfheCBK3MtVoz-K3sY_l2WpX35/view?usp=sharing)
-* 22.10 - пары не было (локдаун)
-* 29.10 - 
+* 22.10 - 
+* 29.10 - пары не было (ковидные каникулы)
 * 12.11 - 
 * 19.11 - 
 * 26.11 - 
