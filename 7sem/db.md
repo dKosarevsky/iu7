@@ -26,7 +26,7 @@ ____________________________________
 * 16.10 - SQL. SELECT (JOIN, GROUP BY, HAVING, ORDER BY, LIMIT, OFFSET, FETCH). INSERT. "Upsert". UPDATE. DELETE. [slides](https://docs.google.com/presentation/d/1sy0-DlFGrK2JHjYd2dNdeCqzcgNyC4_x/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/p4hPBkQ5YXY) | []()
 * 23.10 - PL/pgSQL. Window functions. CTE. Statements. Loops. Exceptions. Indexes. [slides](https://docs.google.com/presentation/d/1swHdbjobD9JmGFpILCnE0-dJFvpxCDyh/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/JMVlVYKPczE) | [text](https://docs.google.com/document/d/1rguJvtNBawc8chCy7Ry9jkhS4Dd65QNs/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 30.10 - PostgreSQL. Физическая структура БД. [slides](https://docs.google.com/presentation/d/1supy5H4oVs9Ikja7gkjzz6WG9YqjcoO2/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/IY1WyRezcQo) | []()
-* 06.11 - Логическая структура БД. Объекты БД. [slides](https://docs.google.com/presentation/d/1srSUZDPSlfH58L0t-G25N8eJ2MAj0jtx/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
+* 06.11 - Логическая структура БД. Объекты БД. [slides](https://docs.google.com/presentation/d/1srSUZDPSlfH58L0t-G25N8eJ2MAj0jtx/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/WViUkPoJvH0) | []()
 * 13.11 -  [slides]() | [video]() | []()
 * 20.11 -  [slides]() | [video]() | []()
 * 27.11 -  [slides]() | [video]() | []()
