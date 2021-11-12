@@ -23,7 +23,7 @@ ____________________________________
 * 23.12 - 
 * 30.12 - 
 ____________________________________
-### Лабы
+[sl](https://drive.google.com/drive/folders/1qmroxgLyH3Sq4aAvnXKLzJdQCEwvp1jJ)
 
 
 
