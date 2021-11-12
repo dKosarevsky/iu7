@@ -14,7 +14,7 @@ ____________________________________
 ### Занятия (12)
 
 * 30.10 - [Исторический очерк и алгоритмическое обеспечение](https://drive.google.com/file/d/1qpK3hTJKupoQ1ALHnQSyUUMK8iGIhNLb/view?usp=drivesdk) | [Машина Поста и формализация термина алгоритм](https://drive.google.com/file/d/1qshVkwYOuB2TD0xDyquaEA23uTDVpQBU/view?usp=drivesdk)
-* 11.11 - [Конструктивные алгебры и модели вычислений](https://drive.google.com/file/d/1gK2kGSGIq6mIHwc__4hayb4K0e7KugJi/view?usp=sharing) | [Терминология и обозначения в анализе алгоритмов](https://drive.google.com/file/d/1gK2kGSGIq6mIHwc__4hayb4K0e7KugJi/view?usp=sharing)
+* 11.11 - [Конструктивные алгебры и модели вычислений](https://drive.google.com/file/d/1gK2kGSGIq6mIHwc__4hayb4K0e7KugJi/view?usp=sharing) | [Терминология и обозначения в анализе алгоритмов](https://drive.google.com/file/d/1vDqsv-BcZUjyC5LBt1ngcLC6TKZ7d_Rl/view?usp=sharing)
 * 18.11 - 
 * 25.11 - 
 * 02.12 - 
