@@ -38,7 +38,7 @@ ____________________________________
 [code](https://github.com/dKosarevsky/math_modelling) | [web](https://share.streamlit.io/dkosarevsky/math_modelling/main.py) | [reports](https://drive.google.com/drive/u/1/folders/18v-mckim--YdG8VvRwP9VMdPmC4AVUGO)
 
 * ЛР1 [task](https://drive.google.com/file/d/1QwHVucHN7fRppGzdvjr6miAAFGcpjFm9/view?usp=drivesdk) :heavy_check_mark:
-* ЛР2 [task](https://drive.google.com/file/d/1Qxi5joBj3c8iLXoR56npEyiSG39n0IcZ/view?usp=drivesdk)
+* ЛР2 [task](https://drive.google.com/file/d/1Qxi5joBj3c8iLXoR56npEyiSG39n0IcZ/view?usp=drivesdk) :heavy_check_mark:
 * ЛР3 [task](https://drive.google.com/file/d/1QyOaiP_HlbfBtRAy1G-B-Xgnl7pDT1St/view?usp=drivesdk)
 * ЛР4 [task](https://drive.google.com/file/d/1R022ThJfPbRxiwUXq3x9ZGEUex5_j_dz/view?usp=drivesdk)
 
