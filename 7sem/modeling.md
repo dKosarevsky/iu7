@@ -24,9 +24,9 @@ ____________________________________
 * 19.10 - Численное дифференцирование. [audio](https://drive.google.com/file/d/1mV2R2yWyDyhfYJCDB0xTCWUClfmLMCSP/view?usp=drivesdk)
 * 26.10 - ЛР4 [audio](https://drive.google.com/file/d/1qwa-O6H5k8pVunZmzsRlnP9v_MHgLV-9/view?usp=drivesdk)
 * 02.11 - пары не было (ковидные каникулы)
-* 09.11 - 
-* 16.11 - 
-* 23.11 - 
+* 09.11 - remote
+* 16.11 - remote
+* 23.11 - remote
 * 30.11 - 
 * 07.12 - 
 * 14.12 - 
