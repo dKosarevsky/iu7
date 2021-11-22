@@ -24,9 +24,9 @@ ____________________________________
 * 18.10 - КР по ФП.
 * 25.10 - Prolog. Введение. [audio](https://drive.google.com/file/d/1pPnHhdvBcsCIcDDhMn92PzwzvKG6Djru/view?usp=drivesdk) | [text](https://docs.google.com/document/d/1rK2Hk9gdZz6k85CLbSvJEG-5bSTR5jli/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 01.11 - пары не было (ковидные каникулы)
-* 08.11 - Язык Prolog. [lecture](https://docs.google.com/document/d/1tkwRj9lWW8Lua-03MqweOLzAyny_J-XQ/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 15.11 - Prolog. Логический вывод. Простейшие правила. [lecture](https://docs.google.com/document/d/1vCDM-7T1NKjBPegLl1tl0uh8p6bEfndy/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 22.11 - 
+* 08.11 - remote Язык Prolog. [lecture](https://docs.google.com/document/d/1tkwRj9lWW8Lua-03MqweOLzAyny_J-XQ/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
+* 15.11 - remote Prolog. Логический вывод. Простейшие правила. [lecture](https://docs.google.com/document/d/1vCDM-7T1NKjBPegLl1tl0uh8p6bEfndy/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
+* 22.11 - remote Декларативная и процедурная семантика логической программы. [lecture](https://docs.google.com/document/d/1vptgGTH3GqsUIQGuT9up3MBrxcDiPiI4/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 29.11 - 
 * 06.12 - 
 * 13.12 - 
