@@ -15,6 +15,7 @@ ____________________________________
 * [Connect Streamlit to databases](https://docs.streamlit.io/en/latest/tutorial/databases.html)
 * [DE](https://drive.google.com/file/d/1KYzChzis0ZhAiShl2hlnmCV3H-Kuu_mn/view?usp=sharing)
 * [B-tree visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+* [Понимание SQL (Understanding SQL). Мартин Грабер (Martin Gruber). Переводчик не известен.](https://www.sql.ru/docs/sql/u_sql/)
 ____________________________________
 ### Занятия (16)
 
@@ -27,9 +28,9 @@ ____________________________________
 * 23.10 - PL/pgSQL. Window functions. CTE. Statements. Loops. Exceptions. Indexes. [slides](https://docs.google.com/presentation/d/1swHdbjobD9JmGFpILCnE0-dJFvpxCDyh/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/JMVlVYKPczE) | [text](https://docs.google.com/document/d/1rguJvtNBawc8chCy7Ry9jkhS4Dd65QNs/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 30.10 - PostgreSQL. Физическая структура БД. [slides](https://docs.google.com/presentation/d/1supy5H4oVs9Ikja7gkjzz6WG9YqjcoO2/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/IY1WyRezcQo) | []()
 * 06.11 - Логическая структура БД. Объекты БД. [slides](https://docs.google.com/presentation/d/1srSUZDPSlfH58L0t-G25N8eJ2MAj0jtx/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [video](https://youtu.be/WViUkPoJvH0) | []()
-* 13.11 -  [slides]() | [video]() | []()
-* 20.11 -  [slides]() | [video]() | []()
-* 27.11 -  [slides]() | [video]() | []()
+* 13.11 - пары не было.
+* 20.11 - Транзакции. [slides](https://docs.google.com/presentation/d/1vD7SAs1X8F5zVkvSWa3JUwUdWDK3TK3Q/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
+* 27.11 - Оптимизация СУРБД. Документно-ориентированные СУБД (NoSQL). [slides](https://docs.google.com/presentation/d/1I6u-V0Q4hq07NiaXSvOxB-qdLs8zN6-K/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
 * 04.12 -  [slides]() | [video]() | []()
 * 11.12 -  [slides]() | [video]() | []()
 * 18.12 -  [slides]() | [video]() | []()
