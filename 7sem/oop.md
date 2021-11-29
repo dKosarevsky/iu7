@@ -29,7 +29,7 @@ ____________________________________
 * 29.10 - пары не было (ковидные каникулы)
 * 12.11 - пары не было
 * 19.11 - пары не было
-* 26.11 - Обработка исключений. [audio](https://drive.google.com/file/d/1x3baIb3V_He5g5sZ0ItjAAZUiYjSYbez/view?usp=sharing)
+* 26.11 - Обработка исключений. [audio](https://drive.google.com/file/d/1x3baIb3V_He5g5sZ0ItjAAZUiYjSYbez/view?usp=sharing) | [text](https://docs.google.com/document/d/1zDIGs6QeFepzQuaUhJjwns5n_RblqvfR/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true) | [code](https://drive.google.com/file/d/1zFNOgteur7CAtfVut0P7aAR6ZBfa_8TJ/view?usp=drivesdk) | [img](https://drive.google.com/file/d/1zFdM3zsma-kaCY1l6DQn7YGEc454XfXL/view?usp=drivesdk)
 * 03.12 - 
 * 10.12 - 
 ____________________________________
