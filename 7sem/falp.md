@@ -27,7 +27,7 @@ ____________________________________
 * 08.11 - remote Язык Prolog. [lecture](https://docs.google.com/document/d/1tkwRj9lWW8Lua-03MqweOLzAyny_J-XQ/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 15.11 - remote Prolog. Логический вывод. Простейшие правила. [lecture](https://docs.google.com/document/d/1vCDM-7T1NKjBPegLl1tl0uh8p6bEfndy/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 22.11 - remote Декларативная и процедурная семантика логической программы. [lecture](https://docs.google.com/document/d/1vptgGTH3GqsUIQGuT9up3MBrxcDiPiI4/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 29.11 - Резольвента. Редукция. [audio](https://drive.google.com/file/d/1z5pUEUbJzWRPIn3fRLVXGdtqFQADqitQ/view?usp=drivesdk) | [text]()
+* 29.11 - Унификация. Резольвента. Редукция. [audio](https://drive.google.com/file/d/1z5pUEUbJzWRPIn3fRLVXGdtqFQADqitQ/view?usp=drivesdk) | [text]()
 * 06.12 - 
 * 13.12 - 
 
