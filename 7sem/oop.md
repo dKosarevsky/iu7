@@ -19,7 +19,7 @@ ____________________________________
 ____________________________________
 ### Занятия (13)
 
-* все текстовые лекции взяты из репы [igorshvch](https://github.com/igorshvch/sem_v/tree/master/OOP)
+## все текстовые лекции взяты из репы [igorshvch](https://github.com/igorshvch/sem_v/tree/master/OOP)
 
 * 10.09 - пары не было.
 * 17.09 - Введение. Структурное программирование [audio](https://drive.google.com/file/d/1VOwASPbu_n9Yu32Jex9DPAKtr0qV4Mb1/view?usp=drivesdk)
