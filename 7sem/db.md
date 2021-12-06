@@ -10,6 +10,8 @@ ____________________________________
 ### Материалы
 
 * [ЯД](https://disk.yandex.ru/d/oOuH2kERvVcuNw)
+* [TSQL Joins](https://drive.google.com/file/d/11ZJdFBhWD5VmGgLiFNswXYMA95hthq6s/view?usp=sharing)
+* [Postgresql Joins](https://www.postgresqltutorial.com/postgresql-joins/)
 * Эрик Редмонд, Джим. Р. Уилсон. Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL. Под редакцией Жаклин Картер, 2018 [book](https://drive.google.com/file/d/113eNwyWw8hS1T7QuDPxAGWTcIx6DiBNA/view?usp=sharing)
 * [sql-ex.ru](http://sql-ex.ru)
 * [Connect Streamlit to databases](https://docs.streamlit.io/en/latest/tutorial/databases.html)
