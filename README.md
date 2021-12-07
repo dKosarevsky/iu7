@@ -11,3 +11,9 @@
 ___
 
 [ВКР]() 
+
+___
+
+![GitHub last commit](https://img.shields.io/github/last-commit/dKosarevsky/iu7?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/dKosarevsky/iu7?style=for-the-badge)
