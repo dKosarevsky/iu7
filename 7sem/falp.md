@@ -29,7 +29,7 @@ ____________________________________
 * 22.11 - remote Декларативная и процедурная семантика логической программы. [lecture](https://docs.google.com/document/d/1vptgGTH3GqsUIQGuT9up3MBrxcDiPiI4/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
 * 29.11 - Унификация. Резольвента. Редукция. [audio](https://drive.google.com/file/d/1z5pUEUbJzWRPIn3fRLVXGdtqFQADqitQ/view?usp=drivesdk)
 * 06.12 - Унификация. Резольвента. Редукция. БЗ. Стек меток. [audio](https://drive.google.com/file/d/10-M2xa80jQaMb7cqmgaFHjNeQf4jUqnJ/view?usp=drivesdk) | [text](https://docs.google.com/document/d/10tFOt-hxNytP5KYknh7mnRIAS_huXK36/edit?usp=drivesdk&ouid=104125706664287786699&rtpof=true&sd=true)
-* 13.12 - 
+* 13.12 - КР по ЛП. [Материалы для подготовки](https://github.com/dKosarevsky/iu7/edit/master/7sem/prolog.md)
 
 ____________________________________
 
