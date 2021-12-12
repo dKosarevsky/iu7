@@ -34,7 +34,7 @@ ____________________________________
 * 20.11 - Транзакции. [slides](https://docs.google.com/presentation/d/1vD7SAs1X8F5zVkvSWa3JUwUdWDK3TK3Q/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
 * 27.11 - Оптимизация СУРБД. Документно-ориентированные СУБД (NoSQL). [slides](https://docs.google.com/presentation/d/1I6u-V0Q4hq07NiaXSvOxB-qdLs8zN6-K/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
 * 04.12 - Документные СУБД. [slides](https://docs.google.com/presentation/d/1-Sl5veksC1cFBPwqfCgaYCvoeiNW91oR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [video]() | []()
-* 11.12 -  [slides]() | [video]() | []()
+* 15.12 -  [slides]() | [video]() | []()
 * 18.12 -  [slides]() | [video]() | []()
 * 25.12 -  [slides]() | [video]() | []()
 ____________________________________
