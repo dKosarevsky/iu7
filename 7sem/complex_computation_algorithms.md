@@ -17,7 +17,7 @@ ____________________________________
 * 11.11 - [Конструктивные алгебры и модели вычислений](https://drive.google.com/file/d/1gK2kGSGIq6mIHwc__4hayb4K0e7KugJi/view?usp=sharing) | [Терминология и обозначения в анализе алгоритмов](https://drive.google.com/file/d/1vDqsv-BcZUjyC5LBt1ngcLC6TKZ7d_Rl/view?usp=sharing)
 * 25.11 - Примеры анализа. Классификация. [audio_1](https://drive.google.com/file/d/1wcS4mVeYLz3Vj4nKWH7U6mH3TgxJoRw2/view?usp=drivesdk) | [audio_2](https://drive.google.com/file/d/1wX0CkDujkxayOCD6Oz95f8m-TuQmBWJ9/view?usp=drivesdk)
 * 02.12 - Метод классификации. [audio_1](https://drive.google.com/file/d/1zrHfK0DYgL_New13A4QaGNfqE9VfEXFJ/view?usp=drivesdk) | [audio_2](https://drive.google.com/file/d/1zqeixR4JXnU6SESUSLoBoZnXaZIKVkJg/view?usp=drivesdk)
-* 09.12 - 
+* 09.12 - Метод . Сортировка индексами. [audio_1](https://drive.google.com/file/d/11Ka5Yw1qSIF24QcASSnrSZiiW3xR-qQl/view?usp=drivesdk) | [audio_2](https://drive.google.com/file/d/11J4bXDCwWbLsWHI_wYRPwMNHuke2naoy/view?usp=drivesdk)
 * 16.12 - 
 * 23.12 - 
 * 30.12 - 
