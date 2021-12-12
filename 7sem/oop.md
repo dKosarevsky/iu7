@@ -15,7 +15,7 @@ ____________________________________
 * Оптимизация программ на C++ (2017) Курт Гантерот [book](https://drive.google.com/file/d/12uUcr1hl1islWj9k3TrL7H-D9VBqG7Bn/view?usp=sharing)
 * [Стивен Прата - Язык программирования C++ Лекции и упражнения +файлы примеров кода 2012](https://drive.google.com/drive/folders/147uGgVGdTf4GiAFiO99zyxfoUcshCmWK?usp=sharing)
 * [Стивен Прата - Язык программирования C. Лекции и упражнения. 6-е издание 2015](https://drive.google.com/file/d/1Asn_5ELI7TgTJPTTB8gy4RS-l7MGTFj6/view?usp=sharing)
-
+* [cppreference.com](https://en.cppreference.com/w/)
 ____________________________________
 ### Занятия (13)
 
