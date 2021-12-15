@@ -11,4 +11,4 @@ ____________________________________
 ### КП
 
 * [code](https://github.com/dKosarevsky/db_cp)
-* [report](https://github.com/dKosarevsky/iu7/edit/master/7sem/db_cp.md)
+* [report](https://github.com/dKosarevsky/iu7/blob/master/7sem/db_cp.md)
