@@ -26,6 +26,6 @@ ____________________________________
 * [ГОСТ](https://drive.google.com/file/d/1xCHaR60dpLDRRLmjil1U75ZzFzRjcM_D/view?usp=sharing)
 ____________________________________
 
-* [РПЗ](https://mttoffice-my.sharepoint.com/:w:/g/personal/dkosarevsky_mtt_ru/EfTVR4FghixAhNHJmp40ANIBHA0vZ5CAuWR0uzQBfmwLSQ?e=xtKpvA)
-* [Преза](https://mttoffice-my.sharepoint.com/:p:/g/personal/dkosarevsky_mtt_ru/ETNvC8H1LDFFhtgkVR__zssBwWI8b379zeMvlutuuirYbw?e=oDHuX5)
+* [РПЗ](https://docs.google.com/document/d/1ZsBRmfqyju6k7r90hq6G75nGLR9GpOks/edit?usp=drive_web&ouid=104050528212751164470&rtpof=true)
+* [Преза](https://docs.google.com/presentation/d/1i_Ewl2iKwosjoQ2qrevEVs7LWSPtmyZn/edit?usp=drive_web&ouid=104050528212751164470&rtpof=true)
 * [Сцена](https://www.youtube.com/watch?v=vSGZFLS6J0A&feature=youtu.be)
