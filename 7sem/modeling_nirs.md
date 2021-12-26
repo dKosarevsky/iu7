@@ -30,4 +30,4 @@ ____________________________________
 * [Численное интегрирование с использованием метода Монте-Карло](http://nano.ivanovo.ac.ru/pdfs/2010_7_01_12_56_38_monte-carlo.pdf)
 
 ____________________________________
-* [nir]() | [data](https://drive.google.com/drive/u/1/folders/14791AqgGIqdvao0mAc9lhMNPc2eeMwQ5)
+* [nir](https://github.com/dKosarevsky/math_modelling) | [data](https://drive.google.com/drive/u/1/folders/14791AqgGIqdvao0mAc9lhMNPc2eeMwQ5)
