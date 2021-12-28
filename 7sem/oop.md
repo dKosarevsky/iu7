@@ -17,6 +17,15 @@ ____________________________________
 * [Стивен Прата - Язык программирования C. Лекции и упражнения. 6-е издание 2015](https://drive.google.com/file/d/1Asn_5ELI7TgTJPTTB8gy4RS-l7MGTFj6/view?usp=sharing)
 * [cppreference.com](https://en.cppreference.com/w/)
 ____________________________________
+#### Материалы Тассова
+
+* [Листинги](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%A1%D0%93%D0%9D3/%D0%9B%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B8?w=1)
+* [Лекции ООП](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%98%D0%A37/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8?w=1)
+* [яд](https://disk.yandex.ru/d/tr6oAHpmup5JjQ)
+* [экз. вопросы ч.1](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%98%D0%A37/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8?w=1)
+* [экз. вопросы ч.2](https://docviewer.yandex.ru/view/491349911/?*=oj%2BKwjUR64GSW4eQNjlRnELD5Zd7InVybCI6InlhLWRpc2stcHVibGljOi8vZjB2aVZqbUNHN3RUOFp4eW04c0g1NWt1R21JRTRVNmVMUUx2bnIxbnMySW9yb3M0WHZ4bFd3cXg1VVJQMHlnSU1yWk1ycFJIdmNsOVBrV05QV2dsWlE9PTov0J7QntCfL9CY0KM3L9CS0L7Qv9GA0L7RgdGLINC00LvRjyDRjdC60LfQsNC80LXQvdCwINC%2F0L4g0J7QntCfICjRh9Cw0YHRgtGMIDIpLmRvY3giLCJ0aXRsZSI6ItCS0L7Qv9GA0L7RgdGLINC00LvRjyDRjdC60LfQsNC80LXQvdCwINC%2F0L4g0J7QntCfICjRh9Cw0YHRgtGMIDIpLmRvY3giLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjQ5MTM0OTkxMSIsInRzIjoxNjQwNzIyOTc1NTA5LCJ5dSI6Ijg5MTEwNjUxMjE1ODQ3MjkxNDMifQ%3D%3D)
+____________________________________
+
 ### Занятия (13)
 
 #### все текстовые лекции взяты из репы [igorshvch](https://github.com/igorshvch/sem_v/tree/master/OOP)
