@@ -22,8 +22,9 @@ ____________________________________
 * [Листинги](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%A1%D0%93%D0%9D3/%D0%9B%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B8?w=1)
 * [Лекции ООП](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%98%D0%A37/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8?w=1)
 * [яд](https://disk.yandex.ru/d/tr6oAHpmup5JjQ)
-* [экз. вопросы ч.1](https://disk.yandex.ru/d/tr6oAHpmup5JjQ/%D0%9E%D0%9E%D0%9F/%D0%98%D0%A37/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8?w=1)
+* [экз. вопросы ч.1](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Ff0viVjmCG7tT8Zxym8sH55kuGmIE4U6eLQLvnr1ns2Ioros4XvxlWwqx5URP0ygIMrZMrpRHvcl9PkWNPWglZQ%3D%3D%3A%2F%D0%9E%D0%9E%D0%9F%2F%D0%98%D0%A37%2F%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%9E%D0%9F%20(%D1%87%D0%B0%D1%81%D1%82%D1%8C%201).docx&name=%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%BF%D0%BE%20%D0%9E%D0%9E%D0%9F%20(%D1%87%D0%B0%D1%81%D1%82%D1%8C%201).docx)
 * [экз. вопросы ч.2](https://docviewer.yandex.ru/view/491349911/?*=oj%2BKwjUR64GSW4eQNjlRnELD5Zd7InVybCI6InlhLWRpc2stcHVibGljOi8vZjB2aVZqbUNHN3RUOFp4eW04c0g1NWt1R21JRTRVNmVMUUx2bnIxbnMySW9yb3M0WHZ4bFd3cXg1VVJQMHlnSU1yWk1ycFJIdmNsOVBrV05QV2dsWlE9PTov0J7QntCfL9CY0KM3L9CS0L7Qv9GA0L7RgdGLINC00LvRjyDRjdC60LfQsNC80LXQvdCwINC%2F0L4g0J7QntCfICjRh9Cw0YHRgtGMIDIpLmRvY3giLCJ0aXRsZSI6ItCS0L7Qv9GA0L7RgdGLINC00LvRjyDRjdC60LfQsNC80LXQvdCwINC%2F0L4g0J7QntCfICjRh9Cw0YHRgtGMIDIpLmRvY3giLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjQ5MTM0OTkxMSIsInRzIjoxNjQwNzIyOTc1NTA5LCJ5dSI6Ijg5MTEwNjUxMjE1ODQ3MjkxNDMifQ%3D%3D)
+* [экз. ответы](c++/exam/exam_oop.md)
 ____________________________________
 
 ### Занятия (13)
