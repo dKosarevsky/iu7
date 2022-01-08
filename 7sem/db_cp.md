@@ -8,5 +8,5 @@ ____________________________________
 ### КП
 
 * [code](https://github.com/dKosarevsky/db_cp)
-* [report](https://github.com/dKosarevsky/iu7/blob/master/7sem/db_cp.md)
+* [report](https://github.com/dKosarevsky/db_cp/blob/master/postgres/report.pdf)
 * [web-interface](https://share.streamlit.io/dkosarevsky/db_cp/app.py)
