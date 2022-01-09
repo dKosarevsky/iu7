@@ -18,6 +18,7 @@ ____________________________________
 * [DE](https://drive.google.com/file/d/1KYzChzis0ZhAiShl2hlnmCV3H-Kuu_mn/view?usp=sharing)
 * [B-tree visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
 * [Понимание SQL (Understanding SQL). Мартин Грабер (Martin Gruber). Переводчик не известен.](https://www.sql.ru/docs/sql/u_sql/)
+* [Экз. вопросы](db/db_exam.md)
 ____________________________________
 ### Занятия (16)
 
