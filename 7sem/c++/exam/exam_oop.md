@@ -44,6 +44,11 @@
 
 [23. Приведение типа в С++: static_cast, dynamic_cast, const_cast, reinterpret_cast. «Умные указатели» в С++: unique_ptr, shared_ptr, weak_ptr. Контейнерные классы и итераторы. Работа с итераторами. Цикл for для работы с контейнерными объектами.](23.md)
 
+[Листинги](../listings_iu7/listings.md)
+
+Собрал Макс Плугин:
+https://docs.google.com/document/d/1rsGGX93QC4tKKtITShE-d7eCCjgf1RX0-FZxWW-S0uM/edit
+
 Доп.инфа:
 
 1. https://github.com/aridae/examOOP/wiki
