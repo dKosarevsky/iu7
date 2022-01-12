@@ -1,5 +1,9 @@
 # iu7
 
+___
+[Расписания](https://isot.bmstu.ru/2edu/shedule/)
+___
+
 [3-й семестр](https://github.com/dKosarevsky/iu7/blob/master/README.md)
 
 [4-й семестр](2019_2020_4sem.md)
