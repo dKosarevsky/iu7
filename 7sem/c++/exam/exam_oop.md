@@ -43,3 +43,11 @@
 [22. Шаблоны функций и классов в С++. Параметры шаблонов. Специализация шаблонов частичная и полная. Параметры шаблона задаваемые по умолчанию. Шаблоны с переменным числом параметров. Пространства имен.](22.md)
 
 [23. Приведение типа в С++: static_cast, dynamic_cast, const_cast, reinterpret_cast. «Умные указатели» в С++: unique_ptr, shared_ptr, weak_ptr. Контейнерные классы и итераторы. Работа с итераторами. Цикл for для работы с контейнерными объектами.](23.md)
+
+Доп.инфа:
+
+1. https://github.com/aridae/examOOP/wiki
+
+2. https://github.com/Painted-Black/BMSTU-OOP/wiki/Exam
+
+3. https://github.com/zakolm/OOP/wiki
