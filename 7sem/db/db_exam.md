@@ -38,9 +38,13 @@
 
 [20. Хранилища “ключ-значение” на примере Redis. Структура базы данных. Основные типы данных и операции.](20.md)
 
+---
+
 ![](struct.jpg)
 
 [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
+
+[Памятка/шпаргалка по джойнам](https://learnsql.com/blog/sql-join-cheat-sheet/joins-cheat-sheet-a4.pdf)
 
 ![](base.jpg)
 
