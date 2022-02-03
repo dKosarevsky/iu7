@@ -47,7 +47,7 @@
 [Листинги](../listings_iu7/listings.md)
 
 Собрал Макс Плугин:
-https://docs.google.com/document/d/1rsGGX93QC4tKKtITShE-d7eCCjgf1RX0-FZxWW-S0uM/edit
+https://docs.google.com/document/d/1krTy6doTyt2jYvqEeVoc7nCmJXtwwq8v3qvgFdpXRrg/edit
 
 Доп.инфа:
 
