@@ -56,3 +56,5 @@ https://docs.google.com/document/d/1krTy6doTyt2jYvqEeVoc7nCmJXtwwq8v3qvgFdpXRrg/
 2. https://github.com/Painted-Black/BMSTU-OOP/wiki/Exam
 
 3. https://github.com/zakolm/OOP/wiki
+
+4. https://ravesli.com/uroki-cpp/
