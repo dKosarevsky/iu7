@@ -3,7 +3,7 @@ ____________________________________
 # Защита информации
 [Кивва Кирилл Андреевич](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/8328-kivva-kirill-andreevich.html) \
 @bmstu.ru \
-понедельник, 18-30 ауд. 530л (УЛК)\
+вторник, 18-30 ауд. 530л (УЛК)\
 08.02-05.04 \
 Зачёт
 ____________________________________
