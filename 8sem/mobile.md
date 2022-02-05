@@ -2,7 +2,7 @@
 ____________________________________
 # Программирование смарт-устройств
 [Видьманов Дмитрий Александрович](https://studizba.com/hs/151-mgtu-im-baumana/teachers/172-kafedra-iu-3-informacionnye-sistemy-i-te/5094-vidmanov-dmitrij-aleksandrovich.html) \
-khakimzhonov.ub@phystech.edu \
+dmitry.vidmanov@gmail.com \
 пятница, 18-30 Ауд.506 (ГУК)\
 11.02-08.04 \
 Зачёт
