@@ -2,7 +2,7 @@
 ____________________________________
 # Обработка цифровых сигналов
 [Кивва Кирилл Андреевич](https://studizba.com/hs/151-mgtu-im-baumana/teachers/4-kafedra-iu-7-programmnoe-obespechenie-je/8328-kivva-kirill-andreevich.html) \
-@bmstu.ru \
+k.kivva@bmstu.ru \
 вторник, 18-30 ауд. 530л (УЛК)\
 12.04-21.06 \
 Зачёт
