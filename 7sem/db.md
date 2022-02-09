@@ -9,7 +9,7 @@ ____________________________________
 ____________________________________
 ### Материалы
 
-* [ЯД](https://disk.yandex.ru/d/oOuH2kERvVcuNw)
+* [ЯД](https://disk.yandex.ru/d/oOuH2kERvVcuNw) | [v0](https://disk.yandex.ru/d/7ZGI6YEodZPh7w?w=1)
 * [TSQL Joins](https://drive.google.com/file/d/11ZJdFBhWD5VmGgLiFNswXYMA95hthq6s/view?usp=sharing)
 * [Postgresql Joins](https://www.postgresqltutorial.com/postgresql-joins/)
 * Эрик Редмонд, Джим. Р. Уилсон. Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL. Под редакцией Жаклин Картер, 2018 [book](https://drive.google.com/file/d/113eNwyWw8hS1T7QuDPxAGWTcIx6DiBNA/view?usp=sharing)
@@ -33,16 +33,9 @@ ____________________________________
 * 20.11 - Транзакции. [slides](https://docs.google.com/presentation/d/1vD7SAs1X8F5zVkvSWa3JUwUdWDK3TK3Q/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
 * 27.11 - Оптимизация СУРБД. Документно-ориентированные СУБД (NoSQL). [slides](https://docs.google.com/presentation/d/1I6u-V0Q4hq07NiaXSvOxB-qdLs8zN6-K/edit?usp=sharing&ouid=104125706664287786699&rtpof=true&sd=true) | [video]() | []()
 * 04.12 - Документные СУБД. [slides](https://docs.google.com/presentation/d/1-Sl5veksC1cFBPwqfCgaYCvoeiNW91oR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [video]() | []()
-* 15.12 -  [slides]() | [video]() | []()
-* 18.12 -  [slides]() | [video]() | []()
-* 25.12 -  [slides]() | [video]() | []()
 ____________________________________
 ### ДЗ
 
 * ДЗ 01. Создание БД [pdf](https://drive.google.com/file/d/1h0V6i-VhOpGULL2OAT7Bf1A0e18vFPzg/view?usp=sharing) :heavy_check_mark:
-* ДЗ 02. []()
-* ДЗ 03. []()
-* ДЗ 04. []()
-* ДЗ 05. []()
 
 ____________________________________
