@@ -49,3 +49,7 @@
 ![](imgs/base.jpg)
 
 [Восемь интересных возможностей PostgreSQL, о которых вы, возможно, не знали](https://habr.com/ru/company/otus/blog/523322/)
+
+[PostgreSQL изнутри. — М.: ДМК Пресс, Рогов Е. В., 2022. — 660 с.](https://postgrespro.ru/education/books/internals)
+
+[The Internals of PostgreSQL : Introduction This document describes the internals of PostgreSQL for database administrators and system developers.](https://www.interdb.jp/pg/index.html)
