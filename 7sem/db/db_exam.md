@@ -40,12 +40,12 @@
 
 ---
 
-![](struct.jpg)
+![](imgs/struct.jpg)
 
 [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
 
 [Памятка/шпаргалка по джойнам](https://learnsql.com/blog/sql-join-cheat-sheet/joins-cheat-sheet-a4.pdf)
 
-![](base.jpg)
+![](imgs/base.jpg)
 
 [Восемь интересных возможностей PostgreSQL, о которых вы, возможно, не знали](https://habr.com/ru/company/otus/blog/523322/)
