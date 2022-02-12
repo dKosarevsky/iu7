@@ -5,7 +5,7 @@ ____________________________________
 k.kivva@bmstu.ru \
 вторник, 18-30 ауд. 530л (УЛК)\
 08.02-05.04 \
-Зачёт - 5 ЛР, для зачета обязательно 4 (любых)[^1]
+Зачёт - 5 ЛР, для зачета обязательно 4 (любых)[^1][^6][^7]
 ____________________________________
 ### Литература
 
@@ -22,11 +22,8 @@ ____________________________________
 * 29.03 -  
 * 05.04 -  
 
-____________________________________
 
-* [web-interface](https://share.streamlit.io/dkosarevsky/infosec_labs/main/main.py)
-* [lab 01](https://github.com/dKosarevsky/infosec_labs/tree/main/lab_01) ✔️
 
-___
-
-[^1]: [Labs](https://github.com/dKosarevsky/infosec_labs)
+[^7]: [all labs](https://github.com/dKosarevsky/infosec_labs)
+[^6]: [web-interface](https://share.streamlit.io/dkosarevsky/infosec_labs/main/main.py)
+[^1]: [lab 01](https://github.com/dKosarevsky/infosec_labs/tree/main/lab_01) ✔️
