@@ -4,15 +4,15 @@ ___
 [Расписания](https://isot.bmstu.ru/2edu/shedule/)
 ___
 
-[3-й семестр](https://github.com/dKosarevsky/iu7/blob/master/README.md)
+[3-й семестр](https://github.com/dKosarevsky/iu7/blob/master/README.md) ✔️
 
-[4-й семестр](2019_2020_4sem.md)
+[4-й семестр](2019_2020_4sem.md) ✔️
 
-[5-й семестр](2020_2021_5sem.md)
+[5-й семестр](2020_2021_5sem.md) ✔️
 
-[6-й семестр](2021_6_sem.md)
+[6-й семестр](2021_6_sem.md) ✔️
 
-[7-й семестр](2021_2022_7_sem.md)
+[7-й семестр](2021_2022_7_sem.md) ✔️
 
 [8-й семестр](2022_8_sem.md)
 ___
