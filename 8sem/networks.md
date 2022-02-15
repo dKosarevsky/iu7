@@ -11,10 +11,18 @@ ____________________________________
 
 * [hbr](https://habr.com/ru/post/134892/)
 * [ciscolearning](https://ciscolearning.ru/)
+
+____________________________________
+### Инструменты:
+
+1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer) - Сетевой симулятор, потребуется для выполнения ряда лабораторных работ.
+
+2. [Wireshark](https://www.wireshark.org/) - Анализатор траффика, может использоваться для контроля работы сетевых протоколов и для самостоятельного просмотра структуры пакетов.
+
 ____________________________________
 ### Занятия (13)
 
-* 14.02 - Обзор и классификация сетей | [audio](https://drive.google.com/file/d/1gBJXzjiGZWQAXToCpsktHKEGyOt38MAu/view?usp=sharing) | [slides]()
+* 14.02 - Обзор и классификация сетей | [audio](https://drive.google.com/file/d/1gBJXzjiGZWQAXToCpsktHKEGyOt38MAu/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1ZPXRFfLD-hi8l1_TWF1224qHrCOUukNk/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 21.02 -  | [audio]() | [slides]()
 * 28.02 -  | [audio]() | [slides]() 
 * 14.03 -  
