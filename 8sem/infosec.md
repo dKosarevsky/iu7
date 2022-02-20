@@ -23,7 +23,7 @@ ____________________________________
 * 05.04 -  
 
 [^1]: [lab 01 Caesar](https://github.com/dKosarevsky/infosec_labs/blob/main/lab_01/caesar.py) ✔️
-[^2]: [lab 02 RSA](https://github.com/dKosarevsky/infosec_labs/blob/main/lab_02/rsa.py)
+[^2]: [lab 02 RSA](https://github.com/dKosarevsky/infosec_labs/blob/main/lab_02/rsa.py) ✔️
 [^6]: [web-interface](https://share.streamlit.io/dkosarevsky/infosec_labs/main/main.py)
 [^7]: [all labs](https://github.com/dKosarevsky/infosec_labs)
 [^8]: [Репо Игоря](https://github.com/igorshvch/MGTU-sem_vi/tree/master/Information_security)
