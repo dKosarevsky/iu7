@@ -32,7 +32,9 @@ ____________________________________
 
 ### Лабы
 
-* lab_01 [Простое мобильное приложение](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FIJNN%2BG1ES7lsjzNGM%2F1ouurcoJoCpbsJKaLocvWHV7e%2FjaZ06Qg9WXlQ5Bay60Ufq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F2%2F%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20XF.docx&name=%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20XF.docx)
+* lab_01 [Простое мобильное приложение](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FIJNN%2BG1ES7lsjzNGM%2F1ouurcoJoCpbsJKaLocvWHV7e%2FjaZ06Qg9WXlQ5Bay60Ufq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F2%2F%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20XF.docx&name=%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20XF.docx) (Необходимо создать приложения, которое преобразует
+введенный пользователем буквенно-цифровой телефонный номер в числовой телефонный
+номер и затем набирает его.)
 
 ____________________________________
 
