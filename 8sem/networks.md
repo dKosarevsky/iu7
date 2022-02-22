@@ -23,7 +23,7 @@ ____________________________________
 ### Занятия (13)
 
 * 14.02 - Обзор и классификация сетей | [audio](https://drive.google.com/file/d/1gBJXzjiGZWQAXToCpsktHKEGyOt38MAu/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1ZPXRFfLD-hi8l1_TWF1224qHrCOUukNk/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
-* 21.02 -  | [audio]() | [slides]()
+* 21.02 - Компоненты сети: узлы и линии связи | [audio](https://drive.google.com/file/d/1NdOWs6YKOtlW9ieT0UoXziRCH9HdcJll/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 28.02 -  | [audio]() | [slides]() 
 * 14.03 -  
 * 21.03 -  
@@ -38,6 +38,8 @@ ____________________________________
 ____________________________________
 
 ## ЛР 1:
+
+[Руководство к ЛР](https://docs.google.com/document/d/1Z86DTMJc3F9BhJevMdyAwROGtaHFz3Pp/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [ lab1.pkt](https://drive.google.com/file/d/1C61uFcZQjvF3QPzp_4GyaWIIDuxDkSpW/view?usp=sharing)
 
 1. В симуляторе [CPT](https://skillsforall.com/resources/lab-downloads) построить несколько базовых сетевых топологий
 2. Устранить неисправности в готовой схеме, неисправности категории: 
