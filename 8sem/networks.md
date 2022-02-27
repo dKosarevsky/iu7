@@ -39,7 +39,7 @@ ____________________________________
 
 ## [Лабы](https://github.com/dKosarevsky/networks)
 
-### ЛР 1:
+### ЛР 1 [отчёт](https://github.com/dKosarevsky/networks/blob/main/lab_01/report.md):
 
 [Руководство к ЛР](https://docs.google.com/document/d/1Z86DTMJc3F9BhJevMdyAwROGtaHFz3Pp/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [ lab1.pkt](https://drive.google.com/file/d/1C61uFcZQjvF3QPzp_4GyaWIIDuxDkSpW/view?usp=sharing)
 
