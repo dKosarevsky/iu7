@@ -25,7 +25,7 @@ ____________________________________
 * 14.02 - Обзор и классификация сетей | [audio](https://drive.google.com/file/d/1gBJXzjiGZWQAXToCpsktHKEGyOt38MAu/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1ZPXRFfLD-hi8l1_TWF1224qHrCOUukNk/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 14.02 - Модель и стек OSI и TCP/IP [slides](https://docs.google.com/presentation/d/1kxcIIE8LtY26ES-wNcQtHtJlTb56XcWw/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 21.02 - Компоненты сети: узлы и линии связи | [audio](https://drive.google.com/file/d/1NdOWs6YKOtlW9ieT0UoXziRCH9HdcJll/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
-* 28.02 -  | [audio]() | [slides]() 
+* 28.02 - Основные принципы разработки сетевых приложений. Сетевые сокеты | [audio]() | [slides]() 
 * 14.03 -  
 * 21.03 -  
 * 28.03 -  
@@ -40,7 +40,7 @@ ____________________________________
 
 ## [Лабы](https://github.com/dKosarevsky/networks)
 
-### ЛР 1:
+### ЛР 1 ✔️
 
 [Руководство к ЛР](https://docs.google.com/document/d/1Z86DTMJc3F9BhJevMdyAwROGtaHFz3Pp/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [ lab1.pkt](https://drive.google.com/file/d/1C61uFcZQjvF3QPzp_4GyaWIIDuxDkSpW/view?usp=sharing)
 
@@ -51,6 +51,24 @@ ____________________________________
   * отключен интерфейс
 
 [report](https://github.com/dKosarevsky/networks/blob/main/lab_01/report.md)
+
+### ЛР 2 
+
+работаем со стандартными сокетами
+
+задача:
+1. создать клиент-серверное приложение с использованием протокола UDP
+
+ выполнить индивидуальное задание (доп. преобразование) - передача сообщения по тому или иному принципу между клиентом и сервером
+
+2. клиент-серверное приложение на основе протокола TCP
+
+выполнить индивидуальное задание - передача файла (файл можно разделить на части, чанки)
+необходимо:
+   а) разделить файл на части в соответствии сопределённым размером буфера
+   б) передать по очереди части файла в цикле
+   в) обработать последнюю часть (например посчитать сколько символов не занято в буфере)
+
 ____________________________________
 
-* ✔️
+
