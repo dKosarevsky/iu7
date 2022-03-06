@@ -25,7 +25,7 @@ ____________________________________
 * 14.02 - Обзор и классификация сетей | [audio](https://drive.google.com/file/d/1gBJXzjiGZWQAXToCpsktHKEGyOt38MAu/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1ZPXRFfLD-hi8l1_TWF1224qHrCOUukNk/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 14.02 - Модель и стек OSI и TCP/IP [slides](https://docs.google.com/presentation/d/1kxcIIE8LtY26ES-wNcQtHtJlTb56XcWw/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 21.02 - Компоненты сети: узлы и линии связи | [audio](https://drive.google.com/file/d/1NdOWs6YKOtlW9ieT0UoXziRCH9HdcJll/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
-* 28.02 - Основные принципы разработки сетевых приложений. Сетевые сокеты | [audio]() | [slides]() 
+* 28.02 - Основные принципы разработки сетевых приложений. Сетевые сокеты | [slides](https://drive.google.com/file/d/1KqRp5hkeV5HCB8WBTV7EuJF6DCeQpy1z/view?usp=sharing) 
 * 14.03 -  
 * 21.03 -  
 * 28.03 -  
