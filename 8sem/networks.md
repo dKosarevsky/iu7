@@ -52,7 +52,7 @@ ____________________________________
 
 [report](https://github.com/dKosarevsky/networks/blob/main/lab_01/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_01)
 
-### ЛР 2
+### ЛР 2 ✔️
 
 [Руководство к ЛР](https://networking-labs.ru/mod/assign/view.php?id=228)
 
