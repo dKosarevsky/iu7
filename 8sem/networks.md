@@ -27,7 +27,7 @@ ____________________________________
 * 21.02 - 3. Компоненты сети: узлы и линии связи | [audio](https://drive.google.com/file/d/1NdOWs6YKOtlW9ieT0UoXziRCH9HdcJll/view?usp=sharing) | [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 28.02 - 4. Основные принципы разработки сетевых приложений. Сетевые сокеты | [slides](https://drive.google.com/file/d/1KqRp5hkeV5HCB8WBTV7EuJF6DCeQpy1z/view?usp=sharing) 
 * 14.03 - 5. Протоколы прикладного уровня [slides](https://drive.google.com/file/d/1KyTbX5nuQ3vj_hySuhZh7CJoap1tFm7N/view?usp=sharing)
-* 21.03 -  
+* 21.03 - 6. Протоколы прикладного уровня, часть II [slides](https://drive.google.com/file/d/1SAk9SR-XpwaN73vW0Zn_mRFJbVasfLO4/view?usp=sharing)
 * 28.03 -  
 * 04.04 -  
 * 11.04 -  
@@ -97,3 +97,13 @@ ____________________________________
 
 
 Это будет достаточно большая ЛР по объёму, поэтому она будет оцениваться как 2 ЛР.
+
+____________________________________
+
+### ЛР 4
+
+[Руководство к ЛР](https://docs.google.com/document/d/1Y3VU0xgl8_Ie_3lzDZ1uW_Du-xWUnRWR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab4_v0.pkt](https://drive.google.com/file/d/1dqNYJUlDzUbZEZW3aM0F3gJqe_A8AEUx/view?usp=sharing)
+
+Настройка сетевых служб: DNS, HTTP, электронной почты в сетевом симуляторе
+
+
