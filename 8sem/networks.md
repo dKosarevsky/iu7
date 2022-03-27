@@ -102,8 +102,8 @@ ____________________________________
 
 ### ЛР 4
 
-[Руководство к ЛР](https://docs.google.com/document/d/1Y3VU0xgl8_Ie_3lzDZ1uW_Du-xWUnRWR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab4_v0.pkt](https://drive.google.com/file/d/1dqNYJUlDzUbZEZW3aM0F3gJqe_A8AEUx/view?usp=sharing)
-
 Настройка сетевых служб: DNS, HTTP, электронной почты в сетевом симуляторе
 
+[Руководство к ЛР](https://docs.google.com/document/d/1Y3VU0xgl8_Ie_3lzDZ1uW_Du-xWUnRWR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab4_v0.pkt](https://drive.google.com/file/d/1dqNYJUlDzUbZEZW3aM0F3gJqe_A8AEUx/view?usp=sharing)
 
+[report](https://github.com/dKosarevsky/networks/blob/main/lab_04/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_04)
