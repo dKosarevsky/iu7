@@ -11,6 +11,7 @@ ____________________________________
 
 * [hbr](https://habr.com/ru/post/134892/)
 * [ciscolearning](https://ciscolearning.ru/)
+* [Список вопросов к РК №1](https://docs.google.com/document/d/1zYmXS5kxyfDuPgQ_tBog3G79i8xrJGuy/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 
 ____________________________________
 ### Инструменты:
