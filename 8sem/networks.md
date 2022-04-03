@@ -29,7 +29,8 @@ ____________________________________
 * 28.02 - 4. Основные принципы разработки сетевых приложений. Сетевые сокеты | [slides](https://drive.google.com/file/d/1KqRp5hkeV5HCB8WBTV7EuJF6DCeQpy1z/view?usp=sharing) 
 * 14.03 - 5. Протоколы прикладного уровня [slides](https://drive.google.com/file/d/1KyTbX5nuQ3vj_hySuhZh7CJoap1tFm7N/view?usp=sharing)
 * 21.03 - 6. Протоколы прикладного уровня, часть II [slides](https://drive.google.com/file/d/1SAk9SR-XpwaN73vW0Zn_mRFJbVasfLO4/view?usp=sharing)
-* 28.03 -  
+* 28.03 - 7. Протоколы 
+транспортного уровня [slides](https://drive.google.com/file/d/1W8sxt32O7p5U1FXXoY8i8fPsiKj7Mggy/view?usp=drivesdk)
 * 04.04 -  
 * 11.04 -  
 * 18.04 -  
