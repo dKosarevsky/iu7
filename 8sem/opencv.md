@@ -33,4 +33,5 @@ ____________________________________
 
 * ✔️
 
+[all labs](https://github.com/dKosarevsky/opencv_labs)
 [web-interface](https://share.streamlit.io/dkosarevsky/opencv_labs/main/main.py)
