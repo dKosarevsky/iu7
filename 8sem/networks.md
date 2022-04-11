@@ -31,7 +31,7 @@ ____________________________________
 * 21.03 - 6. Протоколы прикладного уровня, часть II [slides](https://drive.google.com/file/d/1SAk9SR-XpwaN73vW0Zn_mRFJbVasfLO4/view?usp=sharing)
 * 28.03 - 7. Протоколы 
 транспортного уровня [slides](https://drive.google.com/file/d/1W8sxt32O7p5U1FXXoY8i8fPsiKj7Mggy/view?usp=drivesdk)
-* 04.04 -  
+* 04.04 - 8. Протоколы сетевого уровня. Протокол IP []()
 * 11.04 -  
 * 18.04 -  
 * 25.04 -  
