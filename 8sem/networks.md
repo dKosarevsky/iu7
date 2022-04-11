@@ -131,6 +131,10 @@ ____________________________________
 
 формула для разбития на подсети: 2^n-2
 
+[Руководство к ЛР](https://docs.google.com/document/d/1vEfhfzuDD6SAu-zStUmlOFL9MCtMWUaR/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab6_v1.pkt](https://drive.google.com/file/d/125zjRCgzAlMHXrTvGpd-ZsTHanjLjEkN/view?usp=sharing)
+
+[report](https://github.com/dKosarevsky/networks/blob/main/lab_06/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_06)
+
 ____________________________________
 
 ### ЛР 7
