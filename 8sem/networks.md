@@ -31,7 +31,7 @@ ____________________________________
 * 21.03 - 6. Протоколы прикладного уровня, часть II [slides](https://drive.google.com/file/d/1SAk9SR-XpwaN73vW0Zn_mRFJbVasfLO4/view?usp=sharing)
 * 28.03 - 7. Протоколы 
 транспортного уровня [slides](https://drive.google.com/file/d/1W8sxt32O7p5U1FXXoY8i8fPsiKj7Mggy/view?usp=drivesdk)
-* 04.04 - 8. Протоколы сетевого уровня. Протокол IP []()
+* 04.04 - 8. Протоколы сетевого уровня. Протокол IP [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 11.04 -  
 * 18.04 -  
 * 25.04 -  
@@ -144,6 +144,11 @@ ____________________________________
 Для каждой из подсети внутри сети необходимо:
 - Настройка адресации сети с использованием ipV4 и ipV6
 - Настройка DHCP сервера для выделения ipV6 адресов за пределами группы (существует несколько методов, подробности в руководстве)
+
+
+[Руководство к ЛР](https://docs.google.com/document/d/1wRfKAdGy0C9IdeI3la3SN53uCnMJWr9l/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab7_v0.pkt](https://drive.google.com/file/d/1me_bkDJCPAGlX3x0Q-dutlOFTiuRW4dc/view?usp=sharing)
+
+[report](https://github.com/dKosarevsky/networks/blob/main/lab_07/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_07)
 
 ____________________________________
 
