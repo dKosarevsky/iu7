@@ -17,7 +17,7 @@ ___
 [8-й семестр](2022_8_sem.md)
 ___
 
-[ВКР]() 
+[ВКР](https://github.com/dKosarevsky/bmstu_BGQW) 
 
 ___
 
