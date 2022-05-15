@@ -33,7 +33,7 @@ ____________________________________
 транспортного уровня [slides](https://drive.google.com/file/d/1W8sxt32O7p5U1FXXoY8i8fPsiKj7Mggy/view?usp=drivesdk)
 * 04.04 - 8. Протоколы сетевого уровня. Протокол IP [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 11.04 -  
-* 18.04 -  
+* 18.04 - 10. Протоколы маршрутизации: RIP, OSPF, BGP [slides](https://drive.google.com/file/d/1Rbu1ruic0V7sS0S78ZApk1MCQ09ydifW/view?usp=sharing)
 * 25.04 -  
 * 16.05 -  
 * 23.05 - 
@@ -153,6 +153,10 @@ ____________________________________
 ____________________________________
 
 ### ЛР 8
+
+Изучение протоколов динамической маршрутизации RIPv2 и OSPF в сетевом симуляторе
+
+[Руководство к ЛР](https://docs.google.com/document/d/1M0Uhze4j5-cxuzJUWdd7L6LUypgbJGg1/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab8_v2.pkt](https://drive.google.com/file/d/1R7x57BnL-GOPLN9hVCYlAZlXcRLiFVFT/view?usp=sharing)
 
 ___________________________________
 
