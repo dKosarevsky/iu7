@@ -77,7 +77,7 @@ ____________________________________
 [report](https://github.com/dKosarevsky/networks/blob/main/lab_02/report.md) | [code](https://github.com/dKosarevsky/networks/tree/main/lab_02/src)
 ____________________________________
 
-### ЛР 3
+### ЛР 3 ✔️
 
 
 Расширение (доработка) существующего TCP-сервера:
