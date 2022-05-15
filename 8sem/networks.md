@@ -158,6 +158,10 @@ ____________________________________
 
 [Руководство к ЛР](https://docs.google.com/document/d/1M0Uhze4j5-cxuzJUWdd7L6LUypgbJGg1/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab8_v2.pkt](https://drive.google.com/file/d/1R7x57BnL-GOPLN9hVCYlAZlXcRLiFVFT/view?usp=sharing)
 
+[report](https://github.com/dKosarevsky/networks/blob/main/lab_08/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_08)
+
 ___________________________________
 
 ### ЛР 9
+
+[report](https://github.com/dKosarevsky/networks/blob/main/lab_09/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_09)
