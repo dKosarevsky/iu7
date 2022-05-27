@@ -35,7 +35,7 @@ ____________________________________
 * 04.04 - 8. Протоколы сетевого уровня. Протокол IP [slides](https://docs.google.com/presentation/d/1Ii-iomXKiIiAAn0z214xbKWam6y8aC6x/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true)
 * 11.04 -  
 * 18.04 - 10. Протоколы маршрутизации: RIP, OSPF, BGP [slides](https://drive.google.com/file/d/1Rbu1ruic0V7sS0S78ZApk1MCQ09ydifW/view?usp=sharing)
-* 25.04 -  
+* 25.04 - 11. Уровень сетевых интерфейсов (Канальный уровень) [slides](https://drive.google.com/file/d/1espThYvUBKzu4D82qcTtRzs6xRLn0Z8o/view?usp=sharing) 
 * 16.05 -  
 * 23.05 - 
 
@@ -164,5 +164,10 @@ ____________________________________
 ___________________________________
 
 ### ЛР 9
+
+Изучение технологии виртуальных локальных сетей (VLan) в сетевом симуляторе. Настройка маршрутизации между VLan.
+
+[Руководство к ЛР](https://docs.google.com/document/d/14n5vbkZ-4jv9xd9lmeH_5Ax81pG-f2Zv/edit?usp=sharing&ouid=104050528212751164470&rtpof=true&sd=true) | [lab9_v0.pkt](https://drive.google.com/file/d/1KZAyarwS44VG5Fqasih3EReFT6Zu_uLG/view?usp=sharing)
+
 
 [report](https://github.com/dKosarevsky/networks/blob/main/lab_09/report.md) | [files](https://github.com/dKosarevsky/networks/tree/main/lab_09)
