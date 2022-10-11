@@ -14,10 +14,10 @@ ___
 
 [7-й семестр](2021_2022_7_sem.md) ✔️
 
-[8-й семестр](2022_8_sem.md)
+[8-й семестр](2022_8_sem.md) ✔️
 ___
 
-[ВКР](https://github.com/dKosarevsky/bmstu_BGQW) 
+[ВКР](https://github.com/dKosarevsky/bmstu_BGQW) ✔️
 
 ___
 
